@@ -1,0 +1,253 @@
+{
+  "validScore": true,
+  "authTypes": [
+    "SAML 2.0"
+  ],
+  "location": {
+    "hq": "US",
+    "dc": "US"
+  },
+  "searchFieldList": [
+    "zoom.us",
+    "zoom"
+  ],
+  "ip": {
+    "v4_addressRangeList": [],
+    "v6_addressRangeList": [],
+    "v6_addressList": [],
+    "v4_addressList": [],
+    "v4_addressBlacklist": [
+      "104.20.21.239",
+      "104.20.20.239"
+    ]
+  },
+  "appIdentityRealm": null,
+  "appLevel": "parent_app",
+  "service": {
+    "termsOfService": "https://zoom.us/terms",
+    "privacyPolicy": "https://zoom.us/privacy",
+    "gdprLink": null,
+    "fileSharing": true
+  },
+  "consumer_popularity": 10,
+  "childApps": [],
+  "isWorkload": false,
+  "hasFiles": false,
+  "category": "SAASDB_CATEGORY_ONLINE_MEETINGS",
+  "domainBlacklist": [
+    "rum-static.pingdom.net",
+    "rum-collector.pingdom.net"
+  ],
+  "subCategory": "Collaboration",
+  "domainList": [
+    "zoom.us"
+  ],
+  "instancesTopLevelDomain": null,
+  "allDomains": "zoom.us",
+  "instanceNamesEnabled": false,
+  "lastBreach": null,
+  "panAppName": [],
+  "dataTypes": [
+    "SAASDB_DATA_TYPES_DOCUMENTS",
+    "SAASDB_DATA_TYPES_MEDIA_FILES",
+    "SAASDB_DATA_TYPES_CREDIT_CARDS"
+  ],
+  "type": 3,
+  "hasImage": true,
+  "appKey": null,
+  "scoreConfidence": 3,
+  "description": "Zoom unifies cloud video conferencing, simple online meetings, and cross platform group chat into one easy-to-use platform.",
+  "hasAccount": false,
+  "oktaNames": [],
+  "proxied": false,
+  "company": {
+    "founded": 2011,
+    "hold": "SAASDB_HOLDING_VALUE_PRIVATE"
+  },
+  "parentService": null,
+  "deliveryMethod": {
+    "OAuthClientIds": null
+  },
+  "proxy": {
+    "oidcLoginUrl": null,
+    "aadInfraAppIDs": null,
+    "urlOverrides": [],
+    "aadAppIDs": null,
+    "ignoredDownloadPaths": [],
+    "isNoncedLogin": false,
+    "oidcDisableLandingStateRestore": null,
+    "appIdOverride": null
+  },
+  "instanceNamesBlacklist": [],
+  "appId": 14233,
+  "active": true,
+  "name_l": "zoom",
+  "legal": {
+    "reportingDataBreaches": null,
+    "rightToErasure": null,
+    "userOwnership": {
+      "rightToObject": false,
+      "rightToAccess": null,
+      "rightToDataPortability": null,
+      "rightToBeInformed": null,
+      "rightTorRestrictionOfProcessing": null,
+      "rightsRelatedToAutomatedDecisionMaking": null,
+      "lawfulBasisForProcessing": null,
+      "rightToRectification": null
+    },
+    "DMCA": true,
+    "dataProtection": {
+      "impactAssessments": null,
+      "secureCrossBorderDataTransfer": null,
+      "officers": null
+    }
+  },
+  "discovered": false,
+  "panAppNameBlacklist": [],
+  "categoryWeights": [],
+  "name": "Zoom",
+  "compliance": {
+    "ISO-27018": false,
+    "SSAE-16": true,
+    "ISO-27017": false,
+    "ITAR": false,
+    "ISAE-3402": false,
+    "GLBA": null,
+    "GAAP": false,
+    "FISMA": false,
+    "FINRA": false,
+    "pci_version": "SAASDB_PCI_DSS_VERSION_VALUE_1",
+    "SP800-53": false,
+    "SOX": false,
+    "SOC_1": true,
+    "SOC_3": false,
+    "SOC_2": true,
+    "FFIEC": null,
+    "ISO-27001": false,
+    "Safe_Harbor": false,
+    "CSAStar": null,
+    "Privacy_Shield": true,
+    "FedRAMP_level": "SAASDB_VALUE_NOT_SUPPORTED",
+    "DataTermination": "SAASDB_DATA_RETENTION_POLICY_VALUE_DATA_RETAINED",
+    "HIPAA": true
+  },
+  "loginUrls": [
+    "zoom.us/signin"
+  ],
+  "hosting": {
+    "companyName": "Amazon Web Services"
+  },
+  "rawScores": {
+    "SECURITY": {
+      "13": 1,
+      "34": 1,
+      "35": 0,
+      "36": 1,
+      "37": 1,
+      "38": 1,
+      "40": 0,
+      "41": 1,
+      "47": 1,
+      "58": 1,
+      "59": 1,
+      "60": 1,
+      "61": 1,
+      "90": 0.2,
+      "91": 1,
+      "92": 1,
+      "94": 1,
+      "96": 1,
+      "102": null,
+      "106": 0
+    },
+    "COMPLIANCE": {
+      "15": 0,
+      "16": 0,
+      "18": 0,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "26": 1,
+      "27": 1,
+      "28": 0,
+      "29": 0,
+      "31": 1,
+      "32": 0,
+      "72": 0.7,
+      "93": 0,
+      "97": null,
+      "98": 0,
+      "99": null,
+      "101": 1,
+      "104": 0,
+      "122": null
+    },
+    "LEGAL": {
+      "42": 1,
+      "89": 1,
+      "103": 0,
+      "107": null,
+      "108": null,
+      "120": null,
+      "121": 0
+    },
+    "PROVIDER": {
+      "4": 0.5559326394854764,
+      "5": 0,
+      "52": 0.9110776319222792,
+      "69": 1
+    }
+  },
+  "aadAppId": "247d18fc-f848-4de0-8330-333d3a5c0e3f",
+  "latestBreach": {
+    "date": null
+  },
+  "protected": false,
+  "domainYear": 1019606400,
+  "urls": [
+    "www.zoom.us"
+  ],
+  "organization": "Zoom Video Communications",
+  "security": {
+    "drownVulnerable": true,
+    "adminAuditTrail": true,
+    "restEncryptionType": "SAASDB_REST_ENCRYPTION_TYPE_VALUE_AES",
+    "heartbleedProof": true,
+    "MFA": true,
+    "rememberPassword": true,
+    "supportUserRoles": true,
+    "certIsTrusted": true,
+    "latestValidSSL": "SAASDB_ENCRYPTION_PROTOCOL_VALUE_TLS_1_2",
+    "validCertName": true,
+    "dataClassification": false,
+    "ipRestriction": false,
+    "passwordPolicy": false,
+    "dataAuditTrail": true,
+    "httpsSecurityHeaders": {
+      "x-frame-options": false,
+      "x-xss-protection": false,
+      "strict-transport-security": true,
+      "x-content-type-options": false,
+      "content-security-policy": false
+    },
+    "anonymous_usage": null,
+    "penTest": true,
+    "supportsSAML": true,
+    "dataOwnership": true,
+    "userAuditLogs": true,
+    "userCanUploadData": false
+  },
+  "_id": "5b314deec05fd532005637eb",
+  "is_score_customized": false,
+  "revised_score": {
+    "compliance": 3.1666666666666665,
+    "security": 7.999999999999999,
+    "total": 5.50012271597896,
+    "legal": 5,
+    "provider": 6.167525678519389
+  },
+  "suffixes": [
+    "zoom.us"
+  ]
+}

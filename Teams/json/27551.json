@@ -1,0 +1,237 @@
+{
+  "validScore": true,
+  "authTypes": null,
+  "location": {
+    "hq": "SE",
+    "dc": "IE"
+  },
+  "searchFieldList": [
+    "pickit.com",
+    "pickit"
+  ],
+  "ip": {
+    "v4_addressRangeList": [],
+    "v6_addressRangeList": [],
+    "v6_addressList": [],
+    "v4_addressList": [],
+    "v4_addressBlacklist": []
+  },
+  "appIdentityRealm": null,
+  "appLevel": "parent_app",
+  "service": {
+    "termsOfService": "https://coral-eng.custhelp.com/app/answers/detail/a_id/2140",
+    "privacyPolicy": "https://coral-eng.custhelp.com/app/answers/detail/a_id/2132",
+    "gdprLink": null,
+    "fileSharing": null
+  },
+  "consumer_popularity": 5,
+  "childApps": [],
+  "isWorkload": false,
+  "hasFiles": false,
+  "category": "SAASDB_CATEGORY_PRODUCT_DESIGN",
+  "domainBlacklist": [],
+  "subCategory": null,
+  "domainList": [
+    "pickit.com"
+  ],
+  "instancesTopLevelDomain": null,
+  "allDomains": "pickit.com",
+  "instanceNamesEnabled": false,
+  "lastBreach": null,
+  "panAppName": [],
+  "dataTypes": [],
+  "type": 3,
+  "hasImage": true,
+  "appKey": null,
+  "scoreConfidence": 1,
+  "description": "Pickit provides and curates presentation photos merged from thousands of photographers worldwide and other stock image banks.",
+  "hasAccount": false,
+  "oktaNames": [],
+  "proxied": false,
+  "company": {
+    "founded": 2012,
+    "hold": "SAASDB_HOLDING_VALUE_PRIVATE"
+  },
+  "parentService": null,
+  "deliveryMethod": {
+    "OAuthClientIds": null
+  },
+  "proxy": {
+    "oidcLoginUrl": null,
+    "aadInfraAppIDs": null,
+    "urlOverrides": [],
+    "aadAppIDs": null,
+    "ignoredDownloadPaths": [],
+    "isNoncedLogin": false,
+    "oidcDisableLandingStateRestore": null,
+    "appIdOverride": null
+  },
+  "instanceNamesBlacklist": [],
+  "appId": 27551,
+  "active": true,
+  "name_l": "pickit",
+  "legal": {
+    "reportingDataBreaches": null,
+    "rightToErasure": null,
+    "userOwnership": {
+      "rightToObject": false,
+      "rightToAccess": null,
+      "rightToDataPortability": null,
+      "rightToBeInformed": null,
+      "rightTorRestrictionOfProcessing": null,
+      "rightsRelatedToAutomatedDecisionMaking": null,
+      "lawfulBasisForProcessing": null,
+      "rightToRectification": null
+    },
+    "DMCA": null,
+    "dataProtection": {
+      "impactAssessments": null,
+      "secureCrossBorderDataTransfer": null,
+      "officers": null
+    }
+  },
+  "discovered": false,
+  "panAppNameBlacklist": [],
+  "categoryWeights": [],
+  "name": "Pickit",
+  "compliance": {
+    "ISO-27018": null,
+    "SSAE-16": null,
+    "ISO-27017": null,
+    "ITAR": null,
+    "ISAE-3402": null,
+    "GLBA": null,
+    "GAAP": null,
+    "FISMA": null,
+    "FINRA": null,
+    "pci_version": null,
+    "SP800-53": null,
+    "SOX": null,
+    "SOC_1": null,
+    "SOC_3": null,
+    "SOC_2": null,
+    "FFIEC": null,
+    "ISO-27001": null,
+    "Safe_Harbor": null,
+    "CSAStar": null,
+    "Privacy_Shield": null,
+    "FedRAMP_level": "SAASDB_VALUE_NOT_SUPPORTED",
+    "DataTermination": null,
+    "HIPAA": null
+  },
+  "loginUrls": [
+    "pickit.com/login"
+  ],
+  "hosting": {
+    "companyName": "Microsoft Azure"
+  },
+  "rawScores": {
+    "SECURITY": {
+      "13": null,
+      "34": null,
+      "35": null,
+      "36": null,
+      "37": null,
+      "38": null,
+      "40": null,
+      "41": null,
+      "47": null,
+      "58": 1,
+      "59": 1,
+      "60": 1,
+      "61": 1,
+      "90": 0,
+      "91": null,
+      "92": 1,
+      "94": 1,
+      "96": null,
+      "102": null,
+      "106": null
+    },
+    "COMPLIANCE": {
+      "15": null,
+      "16": null,
+      "18": null,
+      "19": null,
+      "20": null,
+      "21": null,
+      "22": null,
+      "26": null,
+      "27": null,
+      "28": null,
+      "29": null,
+      "31": null,
+      "32": null,
+      "72": null,
+      "93": null,
+      "97": null,
+      "98": 0,
+      "99": null,
+      "101": null,
+      "104": null,
+      "122": null
+    },
+    "LEGAL": {
+      "42": null,
+      "89": null,
+      "103": null,
+      "107": null,
+      "108": null,
+      "120": null,
+      "121": 0
+    },
+    "PROVIDER": {
+      "4": 0.5390969484651067,
+      "5": 0,
+      "52": 0.9237917820987559,
+      "69": 0.5
+    }
+  },
+  "aadAppId": null,
+  "latestBreach": {
+    "date": null
+  },
+  "protected": false,
+  "domainYear": 969926400,
+  "urls": [],
+  "organization": null,
+  "security": {
+    "drownVulnerable": true,
+    "adminAuditTrail": null,
+    "restEncryptionType": null,
+    "heartbleedProof": true,
+    "MFA": null,
+    "rememberPassword": null,
+    "supportUserRoles": null,
+    "certIsTrusted": true,
+    "latestValidSSL": "SAASDB_ENCRYPTION_PROTOCOL_VALUE_TLS_1_2",
+    "validCertName": true,
+    "dataClassification": null,
+    "ipRestriction": null,
+    "passwordPolicy": null,
+    "dataAuditTrail": null,
+    "httpsSecurityHeaders": {
+      "x-frame-options": false,
+      "x-xss-protection": false,
+      "strict-transport-security": false,
+      "x-content-type-options": false,
+      "content-security-policy": false
+    },
+    "anonymous_usage": null,
+    "penTest": null,
+    "supportsSAML": null,
+    "dataOwnership": null,
+    "userAuditLogs": null,
+    "userCanUploadData": null
+  },
+  "_id": "5b314e00c05fd5320056713a",
+  "is_score_customized": false,
+  "revised_score": {
+    "compliance": 0,
+    "security": 8.571428571428571,
+    "total": 3.1500112813238283,
+    "legal": 0,
+    "provider": 4.907221826409657
+  },
+  "suffixes": []
+}

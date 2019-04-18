@@ -1,0 +1,269 @@
+{
+  "validScore": true,
+  "authTypes": [
+    "Form-based",
+    "Provisioning"
+  ],
+  "location": {
+    "hq": "US",
+    "dc": "US"
+  },
+  "searchFieldList": [
+    "clarizen.com",
+    "clarizen"
+  ],
+  "ip": {
+    "v4_addressRangeList": [],
+    "v6_addressRangeList": [],
+    "v6_addressList": [],
+    "v4_addressList": [],
+    "v4_addressBlacklist": [
+      "199.15.213.19",
+      "104.25.26.12",
+      "104.25.27.12",
+      "52.30.169.87",
+      "108.168.224.131",
+      "216.58.216.168",
+      "216.58.216.164",
+      "172.217.3.162"
+    ]
+  },
+  "appIdentityRealm": null,
+  "appLevel": "parent_app",
+  "service": {
+    "termsOfService": "https://app2.clarizen.com/Clarizen/Pages/Service/Terms_Conditions.htm?CSRT=18241948004155967799",
+    "privacyPolicy": "https://www.clarizen.com/privacy-policy",
+    "gdprLink": null,
+    "fileSharing": true
+  },
+  "consumer_popularity": 9,
+  "childApps": [],
+  "isWorkload": false,
+  "hasFiles": false,
+  "category": "SAASDB_CATEGORY_PROJECT_MANAGEMENT",
+  "domainBlacklist": [
+    "munchkin.marketo.net",
+    "ajax.googleapis.com",
+    "ins5.hotjar.com",
+    "googletagmanager.com",
+    "cdn.optimizely.com",
+    "static.hotjar.com",
+    "cdn.luckyorange.com",
+    "dev.visualwebsiteoptimizer.com",
+    "googleadservices.com",
+    "pixel.captora.com",
+    "cdn.captora.com",
+    "js.bizographics.com",
+    "815-btz-117.mktoresp.com"
+  ],
+  "subCategory": "Collaboration",
+  "domainList": [
+    "clarizen.com"
+  ],
+  "instancesTopLevelDomain": null,
+  "allDomains": "clarizen.com",
+  "instanceNamesEnabled": false,
+  "lastBreach": null,
+  "panAppName": [],
+  "dataTypes": [],
+  "type": 3,
+  "hasImage": true,
+  "appKey": null,
+  "scoreConfidence": 3,
+  "description": "Clarizen is cloud-based project management software that lets you manage work and collaborate across the enterprise-all from a single, intuitive solution.",
+  "hasAccount": false,
+  "oktaNames": [
+    "clarizen"
+  ],
+  "proxied": false,
+  "company": {
+    "founded": 2006,
+    "hold": "SAASDB_HOLDING_VALUE_PRIVATE"
+  },
+  "parentService": null,
+  "deliveryMethod": {
+    "OAuthClientIds": null
+  },
+  "proxy": {
+    "oidcLoginUrl": null,
+    "aadInfraAppIDs": null,
+    "urlOverrides": [],
+    "aadAppIDs": null,
+    "ignoredDownloadPaths": [],
+    "isNoncedLogin": false,
+    "oidcDisableLandingStateRestore": null,
+    "appIdOverride": null
+  },
+  "instanceNamesBlacklist": [],
+  "appId": 10082,
+  "active": true,
+  "name_l": "clarizen",
+  "legal": {
+    "reportingDataBreaches": null,
+    "rightToErasure": null,
+    "userOwnership": {
+      "rightToObject": false,
+      "rightToAccess": null,
+      "rightToDataPortability": null,
+      "rightToBeInformed": null,
+      "rightTorRestrictionOfProcessing": null,
+      "rightsRelatedToAutomatedDecisionMaking": null,
+      "lawfulBasisForProcessing": null,
+      "rightToRectification": null
+    },
+    "DMCA": null,
+    "dataProtection": {
+      "impactAssessments": null,
+      "secureCrossBorderDataTransfer": null,
+      "officers": null
+    }
+  },
+  "discovered": false,
+  "panAppNameBlacklist": [],
+  "categoryWeights": [],
+  "name": "Clarizen",
+  "compliance": {
+    "ISO-27018": null,
+    "SSAE-16": true,
+    "ISO-27017": null,
+    "ITAR": null,
+    "ISAE-3402": null,
+    "GLBA": null,
+    "GAAP": null,
+    "FISMA": true,
+    "FINRA": null,
+    "pci_version": null,
+    "SP800-53": null,
+    "SOX": null,
+    "SOC_1": true,
+    "SOC_3": null,
+    "SOC_2": true,
+    "FFIEC": null,
+    "ISO-27001": true,
+    "Safe_Harbor": true,
+    "CSAStar": null,
+    "Privacy_Shield": null,
+    "FedRAMP_level": "SAASDB_VALUE_NOT_SUPPORTED",
+    "DataTermination": null,
+    "HIPAA": false
+  },
+  "loginUrls": [
+    "app2.clarizen.com/Clarizen/Pages/Service/Login.aspx"
+  ],
+  "hosting": {
+    "companyName": "GoDaddy"
+  },
+  "rawScores": {
+    "SECURITY": {
+      "13": 1,
+      "34": 1,
+      "35": 1,
+      "36": 1,
+      "37": 1,
+      "38": 1,
+      "40": null,
+      "41": 1,
+      "47": null,
+      "58": 1,
+      "59": 1,
+      "60": 1,
+      "61": 1,
+      "90": 0.4,
+      "91": 1,
+      "92": 1,
+      "94": 1,
+      "96": 1,
+      "102": null,
+      "106": null
+    },
+    "COMPLIANCE": {
+      "15": null,
+      "16": 1,
+      "18": null,
+      "19": 0,
+      "20": null,
+      "21": 1,
+      "22": null,
+      "26": 1,
+      "27": 1,
+      "28": null,
+      "29": null,
+      "31": 1,
+      "32": 1,
+      "72": null,
+      "93": null,
+      "97": null,
+      "98": 0,
+      "99": null,
+      "101": null,
+      "104": null,
+      "122": null
+    },
+    "LEGAL": {
+      "42": null,
+      "89": null,
+      "103": null,
+      "107": null,
+      "108": null,
+      "120": null,
+      "121": 0
+    },
+    "PROVIDER": {
+      "4": 0.6188748570836915,
+      "5": 0,
+      "52": 0.8652629512236488,
+      "69": 0.9
+    }
+  },
+  "aadAppId": "79eecb4c-772e-40c8-8e04-613ad86cc14c",
+  "latestBreach": {
+    "date": null
+  },
+  "protected": false,
+  "domainYear": 1158624000,
+  "urls": [
+    "www.clarizen.com"
+  ],
+  "organization": "Clarizen",
+  "security": {
+    "drownVulnerable": true,
+    "adminAuditTrail": true,
+    "restEncryptionType": "SAASDB_REST_ENCRYPTION_TYPE_VALUE_AES",
+    "heartbleedProof": true,
+    "MFA": true,
+    "rememberPassword": null,
+    "supportUserRoles": null,
+    "certIsTrusted": true,
+    "latestValidSSL": "SAASDB_ENCRYPTION_PROTOCOL_VALUE_TLS_1_2",
+    "validCertName": true,
+    "dataClassification": null,
+    "ipRestriction": true,
+    "passwordPolicy": null,
+    "dataAuditTrail": true,
+    "httpsSecurityHeaders": {
+      "x-frame-options": false,
+      "x-xss-protection": true,
+      "strict-transport-security": true,
+      "x-content-type-options": false,
+      "content-security-policy": false
+    },
+    "anonymous_usage": null,
+    "penTest": true,
+    "supportsSAML": true,
+    "dataOwnership": null,
+    "userAuditLogs": true,
+    "userCanUploadData": true
+  },
+  "_id": "5b314debc05fd5320056316a",
+  "is_score_customized": false,
+  "revised_score": {
+    "compliance": 7.5,
+    "security": 9.625,
+    "total": 5.744334931538335,
+    "legal": 0,
+    "provider": 5.96034452076835
+  },
+  "suffixes": [
+    "clarizen.com"
+  ]
+}

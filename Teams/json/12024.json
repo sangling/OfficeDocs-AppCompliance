@@ -1,0 +1,250 @@
+{
+  "validScore": true,
+  "authTypes": [
+    "Google Apps",
+    "OpenID"
+  ],
+  "location": {
+    "hq": "US",
+    "dc": "US"
+  },
+  "searchFieldList": [
+    "surveymonkey.com",
+    "surveymonkey"
+  ],
+  "ip": {
+    "v4_addressRangeList": [],
+    "v6_addressRangeList": [],
+    "v6_addressList": [],
+    "v4_addressList": [
+      "64.191.16.50"
+    ],
+    "v4_addressBlacklist": []
+  },
+  "appIdentityRealm": null,
+  "appLevel": "parent_app",
+  "service": {
+    "termsOfService": "http://surveymonkey.com/mp/policy/terms-of-use",
+    "privacyPolicy": "http://surveymonkey.com/mp/policy/privacy-policy",
+    "gdprLink": "https://www.surveymonkey.com/mp/gdpr/",
+    "fileSharing": null
+  },
+  "consumer_popularity": 10,
+  "childApps": [],
+  "isWorkload": false,
+  "hasFiles": false,
+  "category": "SAASDB_CATEGORY_DATA_ANALYTICS",
+  "domainBlacklist": [],
+  "subCategory": null,
+  "domainList": [
+    "surveymonkey.com"
+  ],
+  "instancesTopLevelDomain": null,
+  "allDomains": "surveymonkey.com",
+  "instanceNamesEnabled": false,
+  "lastBreach": null,
+  "panAppName": [
+    "surveymonkey"
+  ],
+  "dataTypes": [],
+  "type": 3,
+  "hasImage": true,
+  "appKey": null,
+  "scoreConfidence": 3,
+  "description": "SurveyMonkey provides free online questionnaire and survey software.",
+  "hasAccount": false,
+  "oktaNames": [
+    "surveymonkey"
+  ],
+  "proxied": false,
+  "company": {
+    "founded": 1999,
+    "hold": "SAASDB_HOLDING_VALUE_PRIVATE"
+  },
+  "parentService": null,
+  "deliveryMethod": {
+    "OAuthClientIds": null
+  },
+  "proxy": {
+    "oidcLoginUrl": null,
+    "aadInfraAppIDs": null,
+    "urlOverrides": [],
+    "aadAppIDs": null,
+    "ignoredDownloadPaths": [],
+    "isNoncedLogin": false,
+    "oidcDisableLandingStateRestore": null,
+    "appIdOverride": null
+  },
+  "instanceNamesBlacklist": [],
+  "appId": 12024,
+  "active": true,
+  "name_l": "surveymonkey",
+  "legal": {
+    "reportingDataBreaches": true,
+    "rightToErasure": true,
+    "userOwnership": {
+      "rightToObject": true,
+      "rightToAccess": true,
+      "rightToDataPortability": true,
+      "rightToBeInformed": null,
+      "rightTorRestrictionOfProcessing": true,
+      "rightsRelatedToAutomatedDecisionMaking": null,
+      "lawfulBasisForProcessing": null,
+      "rightToRectification": true
+    },
+    "DMCA": true,
+    "dataProtection": {
+      "impactAssessments": null,
+      "secureCrossBorderDataTransfer": null,
+      "officers": null
+    }
+  },
+  "discovered": false,
+  "panAppNameBlacklist": [],
+  "categoryWeights": [],
+  "name": "SurveyMonkey",
+  "compliance": {
+    "ISO-27018": null,
+    "SSAE-16": false,
+    "ISO-27017": null,
+    "ITAR": null,
+    "ISAE-3402": null,
+    "GLBA": null,
+    "GAAP": null,
+    "FISMA": false,
+    "FINRA": null,
+    "pci_version": "SAASDB_PCI_DSS_VERSION_VALUE_3_2",
+    "SP800-53": null,
+    "SOX": false,
+    "SOC_1": false,
+    "SOC_3": null,
+    "SOC_2": true,
+    "FFIEC": null,
+    "ISO-27001": false,
+    "Safe_Harbor": true,
+    "CSAStar": null,
+    "Privacy_Shield": true,
+    "FedRAMP_level": "SAASDB_VALUE_NOT_SUPPORTED",
+    "DataTermination": null,
+    "HIPAA": true
+  },
+  "loginUrls": [
+    "www.surveymonkey.com/user/sign-in"
+  ],
+  "hosting": {
+    "companyName": "SurveyMonkey"
+  },
+  "rawScores": {
+    "SECURITY": {
+      "13": null,
+      "34": null,
+      "35": null,
+      "36": 1,
+      "37": null,
+      "38": 1,
+      "40": null,
+      "41": null,
+      "47": null,
+      "58": 1,
+      "59": 1,
+      "60": 1,
+      "61": 1,
+      "90": 0.4,
+      "91": 1,
+      "92": 1,
+      "94": 1,
+      "96": null,
+      "102": null,
+      "106": null
+    },
+    "COMPLIANCE": {
+      "15": null,
+      "16": 0,
+      "18": null,
+      "19": 1,
+      "20": null,
+      "21": 0,
+      "22": null,
+      "26": 0,
+      "27": 1,
+      "28": null,
+      "29": 0,
+      "31": 0,
+      "32": 1,
+      "72": 1,
+      "93": null,
+      "97": null,
+      "98": 0,
+      "99": null,
+      "101": 1,
+      "104": null,
+      "122": null
+    },
+    "LEGAL": {
+      "42": null,
+      "89": 1,
+      "103": null,
+      "107": 1,
+      "108": 1,
+      "120": null,
+      "121": 1
+    },
+    "PROVIDER": {
+      "4": 0.6768320757035481,
+      "5": 0,
+      "52": 0.9304357610779805,
+      "69": 1
+    }
+  },
+  "aadAppId": "07978fee-621a-42df-82bb-3eabc6511c26",
+  "latestBreach": {
+    "date": null
+  },
+  "protected": false,
+  "domainYear": 941846400,
+  "urls": [
+    "www.surveymonkey.com"
+  ],
+  "organization": "SurveyMonkey",
+  "security": {
+    "drownVulnerable": true,
+    "adminAuditTrail": null,
+    "restEncryptionType": null,
+    "heartbleedProof": true,
+    "MFA": null,
+    "rememberPassword": true,
+    "supportUserRoles": null,
+    "certIsTrusted": true,
+    "latestValidSSL": "SAASDB_ENCRYPTION_PROTOCOL_VALUE_TLS_1_2",
+    "validCertName": true,
+    "dataClassification": null,
+    "ipRestriction": null,
+    "passwordPolicy": null,
+    "dataAuditTrail": true,
+    "httpsSecurityHeaders": {
+      "x-frame-options": false,
+      "x-xss-protection": true,
+      "strict-transport-security": false,
+      "x-content-type-options": true,
+      "content-security-policy": false
+    },
+    "anonymous_usage": null,
+    "penTest": null,
+    "supportsSAML": true,
+    "dataOwnership": null,
+    "userAuditLogs": true,
+    "userCanUploadData": true
+  },
+  "_id": "5b314e0dc05fd53200569f20",
+  "is_score_customized": false,
+  "revised_score": {
+    "compliance": 4.545454545454545,
+    "security": 9.4,
+    "total": 7.772725526123274,
+    "legal": 10,
+    "provider": 6.518169591953821
+  },
+  "suffixes": [
+    "surveymonkey.com"
+  ]
+}

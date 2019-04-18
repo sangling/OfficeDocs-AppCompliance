@@ -1,1 +1,3 @@
-# Welcome to OfficeDocs-AppCompliance-Teams!
+---
+redirect_url: 'all-apps'
+---

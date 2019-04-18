@@ -1,0 +1,243 @@
+{
+  "validScore": true,
+  "authTypes": null,
+  "location": {
+    "hq": "US",
+    "dc": "US"
+  },
+  "searchFieldList": [
+    "enterprise.github.com",
+    "github enterprise"
+  ],
+  "ip": {
+    "v4_addressRangeList": [],
+    "v6_addressRangeList": [],
+    "v6_addressList": [],
+    "v4_addressList": [],
+    "v4_addressBlacklist": []
+  },
+  "appIdentityRealm": null,
+  "appLevel": null,
+  "service": {
+    "termsOfService": "https://github.com/site/terms",
+    "privacyPolicy": "https://github.com/site/privacy",
+    "gdprLink": null,
+    "fileSharing": false
+  },
+  "consumer_popularity": 10,
+  "childApps": [],
+  "isWorkload": false,
+  "hasFiles": false,
+  "category": "SAASDB_CATEGORY_CODE_HOSTING",
+  "domainBlacklist": [],
+  "subCategory": null,
+  "domainList": [
+    "enterprise.github.com"
+  ],
+  "instancesTopLevelDomain": "[]",
+  "allDomains": null,
+  "instanceNamesEnabled": false,
+  "lastBreach": 1432944000,
+  "panAppName": [],
+  "dataTypes": [
+    "SAASDB_DATA_TYPES_DOCUMENTS",
+    "SAASDB_DATA_TYPES_MEDIA_FILES",
+    "SAASDB_DATA_TYPES_DATABASE_FILES",
+    "SAASDB_DATA_TYPES_CODING_FILES",
+    "SAASDB_DATA_TYPES_CREDIT_CARDS"
+  ],
+  "type": 3,
+  "hasImage": false,
+  "appKey": null,
+  "scoreConfidence": 3,
+  "description": "GitHub is where people build software.",
+  "hasAccount": false,
+  "oktaNames": [],
+  "proxied": false,
+  "company": {
+    "founded": 2008,
+    "hold": "SAASDB_HOLDING_VALUE_PRIVATE"
+  },
+  "parentService": null,
+  "deliveryMethod": {
+    "OAuthClientIds": null
+  },
+  "proxy": {
+    "oidcLoginUrl": null,
+    "aadInfraAppIDs": null,
+    "urlOverrides": [],
+    "aadAppIDs": null,
+    "ignoredDownloadPaths": [],
+    "isNoncedLogin": false,
+    "oidcDisableLandingStateRestore": null,
+    "appIdOverride": null
+  },
+  "instanceNamesBlacklist": [],
+  "appId": 34749,
+  "active": true,
+  "name_l": "github enterprise",
+  "legal": {
+    "reportingDataBreaches": null,
+    "rightToErasure": null,
+    "userOwnership": {
+      "rightToObject": false,
+      "rightToAccess": null,
+      "rightToDataPortability": null,
+      "rightToBeInformed": null,
+      "rightTorRestrictionOfProcessing": null,
+      "rightsRelatedToAutomatedDecisionMaking": null,
+      "lawfulBasisForProcessing": null,
+      "rightToRectification": null
+    },
+    "DMCA": false,
+    "dataProtection": {
+      "impactAssessments": null,
+      "secureCrossBorderDataTransfer": null,
+      "officers": null
+    }
+  },
+  "discovered": false,
+  "panAppNameBlacklist": [],
+  "categoryWeights": [],
+  "name": "GitHub Enterprise",
+  "compliance": {
+    "ISO-27018": null,
+    "SSAE-16": null,
+    "ISO-27017": null,
+    "ITAR": null,
+    "ISAE-3402": null,
+    "GLBA": null,
+    "GAAP": null,
+    "FISMA": null,
+    "FINRA": null,
+    "pci_version": "SAASDB_PCI_DSS_VERSION_VALUE_1",
+    "SP800-53": null,
+    "SOX": false,
+    "SOC_1": null,
+    "SOC_3": null,
+    "SOC_2": true,
+    "FFIEC": null,
+    "ISO-27001": null,
+    "Safe_Harbor": false,
+    "CSAStar": "SAASDB_VALUE_NOT_SUPPORTED",
+    "Privacy_Shield": true,
+    "FedRAMP_level": "SAASDB_VALUE_NOT_SUPPORTED",
+    "DataTermination": null,
+    "HIPAA": null
+  },
+  "loginUrls": [
+    "github.com/login"
+  ],
+  "hosting": {
+    "companyName": "GitHub"
+  },
+  "rawScores": {
+    "SECURITY": {
+      "13": 0,
+      "34": 1,
+      "35": null,
+      "36": null,
+      "37": null,
+      "38": null,
+      "40": null,
+      "41": null,
+      "47": 1,
+      "58": 1,
+      "59": 1,
+      "60": 1,
+      "61": 1,
+      "90": 1,
+      "91": 1,
+      "92": 1,
+      "94": 1,
+      "96": 1,
+      "102": null,
+      "106": null
+    },
+    "COMPLIANCE": {
+      "15": null,
+      "16": null,
+      "18": null,
+      "19": null,
+      "20": null,
+      "21": null,
+      "22": null,
+      "26": null,
+      "27": 1,
+      "28": null,
+      "29": 0,
+      "31": null,
+      "32": 0,
+      "72": 0.7,
+      "93": null,
+      "97": null,
+      "98": 0,
+      "99": 0,
+      "101": 1,
+      "104": null,
+      "122": null
+    },
+    "LEGAL": {
+      "42": 0,
+      "89": 0,
+      "103": null,
+      "107": null,
+      "108": null,
+      "120": null,
+      "121": 0
+    },
+    "PROVIDER": {
+      "4": 0.5969212552525595,
+      "5": 0,
+      "52": 0.8529566108144875,
+      "69": 1
+    }
+  },
+  "aadAppId": null,
+  "latestBreach": {
+    "date": 1432944000
+  },
+  "protected": false,
+  "domainYear": 1191888000,
+  "urls": [],
+  "organization": "GitHub",
+  "security": {
+    "drownVulnerable": true,
+    "adminAuditTrail": null,
+    "restEncryptionType": "SAASDB_VALUE_NOT_SUPPORTED",
+    "heartbleedProof": true,
+    "MFA": true,
+    "rememberPassword": false,
+    "supportUserRoles": true,
+    "certIsTrusted": true,
+    "latestValidSSL": "SAASDB_ENCRYPTION_PROTOCOL_VALUE_TLS_1_2",
+    "validCertName": true,
+    "dataClassification": null,
+    "ipRestriction": null,
+    "passwordPolicy": null,
+    "dataAuditTrail": null,
+    "httpsSecurityHeaders": {
+      "x-frame-options": true,
+      "x-xss-protection": true,
+      "strict-transport-security": true,
+      "x-content-type-options": true,
+      "content-security-policy": true
+    },
+    "anonymous_usage": null,
+    "penTest": true,
+    "supportsSAML": true,
+    "dataOwnership": false,
+    "userAuditLogs": null,
+    "userCanUploadData": null
+  },
+  "_id": "5b314deec05fd5320056372a",
+  "is_score_customized": false,
+  "revised_score": {
+    "compliance": 3.857142857142857,
+    "security": 9.166666666666666,
+    "total": 4.59604481611238,
+    "legal": 0,
+    "provider": 6.124694665167619
+  },
+  "suffixes": []
+}
