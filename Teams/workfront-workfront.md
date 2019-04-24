@@ -1,7 +1,7 @@
 ---
 title: Application Information for Workfront by Workfront
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Workfront
 
 Published by Workfront
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/27f76e1a-da1e-4a46-b3fc-4b6799fa716f" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381886" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Workfront to Microsoft:
 |:----------------|:-------------|
 | App name | Workfront |
 | ID | 27f76e1a-da1e-4a46-b3fc-4b6799fa716f |
+| Capabilities | Bot, Messaging Extension |
 | Partner company name | Workfront |
-| URL of partner website | [https://www.workfront.com] |
-| URL of Teams application info page | [https://support.workfront.com/hc/en-us/sections/360001830194-Using-Workfront-for-Microsoft-Teams] |
-| URL of Privacy Policy | [https://www.workfront.com/privacy-policy] |
-| URL of Terms of Use | [https://www.workfront.com/terms-of-service] |
+| URL of partner website | <https://www.workfront.com> |
+| URL of Privacy Policy | <https://www.workfront.com/privacy-policy> |
+| URL of Terms of Use | <https://www.workfront.com/terms-of-service> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Workfront to Microsoft:
 
 Information on Workfront from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10927
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10927' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10927.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10927" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

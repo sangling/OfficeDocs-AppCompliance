@@ -1,7 +1,7 @@
 ---
 title: Application Information for Site24x7 by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Site24x7
 
 Published by Zoho Corporation Private Limited
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/9ce8b7b7-4435-4edb-9c6f-205a9efe944d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381289" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Zoho Corporation Private Limited to Microsoft:
 |:----------------|:-------------|
 | App name | Site24x7 |
 | ID | 9ce8b7b7-4435-4edb-9c6f-205a9efe944d |
+| Capabilities | Bot, Tab, Connector |
 | Partner company name | Zoho Corporation Private Limited |
-| URL of partner website | [https://www.site24x7.com/features.html] |
-| URL of Teams application info page | [https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html] |
-| URL of Privacy Policy | [https://www.site24x7.com/privacypolicy.html] |
-| URL of Terms of Use | [https://www.site24x7.com/terms.html] |
+| URL of partner website | <https://www.site24x7.com/features.html> |
+| URL of Privacy Policy | <https://www.site24x7.com/privacypolicy.html> |
+| URL of Terms of Use | <https://www.site24x7.com/terms.html> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Zoho Corporation Private Limited to Microsoft:
 
 Information on Zoho Corporation Private Limited from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 19224
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/19224' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/19224.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/19224" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

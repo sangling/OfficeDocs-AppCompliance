@@ -1,7 +1,7 @@
 ---
 title: Application Information for AVA by AvePoint, Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-csa
 # AVA
 
 Published by AvePoint, Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/93106045-6f96-41e3-8a9d-694b6bbcac60" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381883" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by AvePoint, Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | AVA |
 | ID | 93106045-6f96-41e3-8a9d-694b6bbcac60 |
+| Capabilities | Bot, Tab |
 | Partner company name | AvePoint, Inc. |
-| URL of partner website | [https://www.avepoint.com] |
-| URL of Teams application info page | [http://www.avepoint.com/support/] |
-| URL of Privacy Policy | [https://www.avepoint.com/privacy-policy] |
-| URL of Terms of Use | [https://www.avepoint.com/company/terms-of-use] |
+| URL of partner website | <https://www.avepoint.com> |
+| URL of Privacy Policy | <https://www.avepoint.com/privacy-policy> |
+| URL of Terms of Use | <https://www.avepoint.com/company/terms-of-use> |
 
 ::: zone-end
 
@@ -47,6 +50,6 @@ Information provided by AvePoint, Inc. to Microsoft:
 > [!NOTE]
 > This information is self-reported by AvePoint, Inc. and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/27/AvePoint Online Services' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/27/AvePoint Online Services' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

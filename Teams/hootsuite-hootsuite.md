@@ -1,7 +1,7 @@
 ---
 title: Application Information for Hootsuite by Hootsuite
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Hootsuite
 
 Published by Hootsuite
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/01b22ab6-c657-491c-97a0-d745bea11269" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Hootsuite to Microsoft:
 |:----------------|:-------------|
 | App name | Hootsuite |
 | ID | 01b22ab6-c657-491c-97a0-d745bea11269 |
+| Capabilities | Tab |
 | Partner company name | Hootsuite |
-| URL of partner website | [https://hootsuite.com] |
-| URL of Privacy Policy | [https://hootsuite.com/legal/privacy] |
-| URL of Terms of Use | [https://hootsuite.com/legal/terms] |
+| URL of partner website | <https://hootsuite.com> |
+| URL of Privacy Policy | <https://hootsuite.com/legal/privacy> |
+| URL of Terms of Use | <https://hootsuite.com/legal/terms> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Hootsuite to Microsoft:
 
 Information on Hootsuite from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 11804
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11804' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/11804.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11804" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

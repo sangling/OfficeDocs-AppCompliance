@@ -1,7 +1,7 @@
 ---
 title: Application Information for ProjectWise by Bentley Systems, Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # ProjectWise
 
 Published by Bentley Systems, Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/6d45a192-7d23-425a-b832-9281747d209e" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381873" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Bentley Systems, Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | ProjectWise |
 | ID | 6d45a192-7d23-425a-b832-9281747d209e |
+| Capabilities | Tab, Connector |
 | Partner company name | Bentley Systems, Inc. |
-| URL of partner website | [https://www.bentley.com/en/products/brands/projectwise] |
-| URL of Teams application info page | [https://communities.bentley.com/products/betas/projectwise-project-and-microsoft-teams-integration/] |
-| URL of Privacy Policy | [https://www.bentley.com/en/privacy-policy] |
-| URL of Terms of Use | [https://www.bentley.com/en/terms-of-use-and-select-online-agreement] |
+| URL of partner website | <https://www.bentley.com/en/products/brands/projectwise> |
+| URL of Privacy Policy | <https://www.bentley.com/en/privacy-policy> |
+| URL of Terms of Use | <https://www.bentley.com/en/terms-of-use-and-select-online-agreement> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Bentley Systems, Inc. to Microsoft:
 
 Information on Bentley Systems, Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 20296
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20296' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/20296.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20296" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

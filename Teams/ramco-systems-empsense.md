@@ -1,7 +1,7 @@
 ---
 title: Application Information for Empsense by Ramco Systems
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Empsense
 
 Published by Ramco Systems
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/d7c11157-7535-44c4-af2d-48d286a311ed" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Ramco Systems to Microsoft:
 |:----------------|:-------------|
 | App name | Empsense |
 | ID | d7c11157-7535-44c4-af2d-48d286a311ed |
+| Capabilities | Tab |
 | Partner company name | Ramco Systems |
-| URL of partner website | [https://empsense.ramco.com] |
-| URL of Privacy Policy | [https://empsense.ramco.com/app/#!/privacy] |
-| URL of Terms of Use | [https://empsense.ramco.com/app/#!/terms] |
+| URL of partner website | <https://empsense.ramco.com> |
+| URL of Privacy Policy | <https://empsense.ramco.com/app/#!/privacy> |
+| URL of Terms of Use | <https://empsense.ramco.com/app/#!/terms> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Ramco Systems to Microsoft:
 
 Information on Ramco Systems from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 16190
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/16190' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/16190.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/16190" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for GlobalMeet by Premiere Global Services
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # GlobalMeet
 
 Published by Premiere Global Services
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/9382c296-8948-483c-acb4-7953606decfd" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381784" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Premiere Global Services to Microsoft:
 |:----------------|:-------------|
 | App name | GlobalMeet |
 | ID | 9382c296-8948-483c-acb4-7953606decfd |
+| Capabilities | Bot, Messaging Extension |
 | Partner company name | Premiere Global Services |
-| URL of partner website | [https://www.pgi.com] |
-| URL of Teams application info page | [https://www.mymeetinghelp.com/Home/GlobalMeet/GlobalMeet/Tools_and_Settings/Third-Party_Integrations/GlobalMeet_for_Microsoft_Teams] |
-| URL of Privacy Policy | [https://www.pgi.com/privacy-policy/] |
-| URL of Terms of Use | [https://pgi.com/terms-of-service/] |
+| URL of partner website | <https://www.pgi.com> |
+| URL of Privacy Policy | <https://www.pgi.com/privacy-policy/> |
+| URL of Terms of Use | <https://pgi.com/terms-of-service/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Premiere Global Services to Microsoft:
 
 Information on Premiere Global Services from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10537
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10537' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10537.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10537" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

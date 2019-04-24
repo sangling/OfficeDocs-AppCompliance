@@ -1,7 +1,7 @@
 ---
 title: Application Information for Droplr by Droplr
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Droplr
 
 Published by Droplr
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/3763b495-45c3-4fd4-a64c-944aa8aabf53" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381718" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Droplr to Microsoft:
 |:----------------|:-------------|
 | App name | Droplr |
 | ID | 3763b495-45c3-4fd4-a64c-944aa8aabf53 |
+| Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Droplr |
-| URL of partner website | [https://droplr.com] |
-| URL of Teams application info page | [http://droplr.com/contact] |
-| URL of Privacy Policy | [https://droplr.com/privacy] |
-| URL of Terms of Use | [https://droplr.com/terms] |
+| URL of partner website | <https://droplr.com> |
+| URL of Privacy Policy | <https://droplr.com/privacy> |
+| URL of Terms of Use | <https://droplr.com/terms> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Droplr to Microsoft:
 
 Information on Droplr from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 23296
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/23296' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/23296.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/23296" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

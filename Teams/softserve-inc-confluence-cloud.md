@@ -1,7 +1,7 @@
 ---
 title: Application Information for Confluence Cloud by SoftServe, Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Confluence Cloud
 
 Published by SoftServe, Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by SoftServe, Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Confluence Cloud |
 | ID | 30bb610c-6321-40fe-a047-056e7d0dac96 |
+| Capabilities | Bot, Tab, Messaging Extension, Connector |
 | Partner company name | SoftServe, Inc. |
-| URL of partner website | [https://www.atlassian.com/software/confluence] |
-| URL of Privacy Policy | [https://www.softserveinc.com/en-us/msteams-atlassian-privacy-policy/] |
-| URL of Terms of Use | [https://www.atlassian.com/licensing/marketplace/termsofuse] |
+| URL of partner website | <https://www.atlassian.com/software/confluence> |
+| URL of Privacy Policy | <https://www.softserveinc.com/en-us/msteams-atlassian-privacy-policy/> |
+| URL of Terms of Use | <https://www.atlassian.com/licensing/marketplace/termsofuse> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by SoftServe, Inc. to Microsoft:
 
 Information on SoftServe, Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 22926
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/22926' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/22926.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/22926" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

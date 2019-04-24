@@ -1,7 +1,7 @@
 ---
 title: Application Information for Rollbar by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Rollbar
 
 Published by Microsoft Teams Ecosystem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/0cfe9788-f809-4118-b171-5e56851a229f" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381602" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 |:----------------|:-------------|
 | App name | Rollbar |
 | ID | 0cfe9788-f809-4118-b171-5e56851a229f |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
-| URL of partner website | [https://go.microsoft.com/fwlink/?LinkID&#x3D;798164] |
-| URL of Teams application info page | [https://go.microsoft.com/fwlink/?LinkID&#x3D;798164] |
-| URL of Privacy Policy | [https://rollbar.com/privacy/] |
-| URL of Terms of Use | [https://go.microsoft.com/fwlink/?LinkID&#x3D;798164] |
+| URL of partner website | <https://go.microsoft.com/fwlink/?LinkID&#x3D;798164> |
+| URL of Privacy Policy | <https://rollbar.com/privacy/> |
+| URL of Terms of Use | <https://go.microsoft.com/fwlink/?LinkID&#x3D;798164> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 
 Information on Microsoft Teams Ecosystem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 26440
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/26440' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/26440.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/26440" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

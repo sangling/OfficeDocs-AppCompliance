@@ -1,7 +1,7 @@
 ---
 title: Application Information for ApproveSimple by Capriza, Inc
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-csa
 # ApproveSimple
 
 Published by Capriza, Inc
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/c920bd4d-3e2a-449a-b30a-26d2a73fa875" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381812" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Capriza, Inc to Microsoft:
 |:----------------|:-------------|
 | App name | ApproveSimple |
 | ID | c920bd4d-3e2a-449a-b30a-26d2a73fa875 |
+| Capabilities | Bot |
 | Partner company name | Capriza, Inc |
-| URL of partner website | [https://www.capriza.com/msteams-landing-page] |
-| URL of Teams application info page | [https://support.capriza.com/] |
-| URL of Privacy Policy | [https://www.capriza.com/privacy-policy/] |
-| URL of Terms of Use | [https://www.capriza.com/mla/] |
+| URL of partner website | <https://www.capriza.com/msteams-landing-page> |
+| URL of Privacy Policy | <https://www.capriza.com/privacy-policy/> |
+| URL of Terms of Use | <https://www.capriza.com/mla/> |
 
 ::: zone-end
 
@@ -47,6 +50,6 @@ Information provided by Capriza, Inc to Microsoft:
 > [!NOTE]
 > This information is self-reported by Capriza, Inc and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/49/Capriza' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/49/Capriza' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

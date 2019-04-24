@@ -1,7 +1,7 @@
 ---
 title: Application Information for How-To by CoreView
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # How-To
 
 Published by CoreView
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/ca1f6710-15e1-4f63-b26e-5fffab8e3609" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381870" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by CoreView to Microsoft:
 |:----------------|:-------------|
 | App name | How-To |
 | ID | ca1f6710-15e1-4f63-b26e-5fffab8e3609 |
+| Capabilities | Tab |
 | Partner company name | CoreView |
-| URL of partner website | [https://www.coreview.com] |
-| URL of Teams application info page | [https://training.lightup365.com/TeamsAppSupport-F.html] |
-| URL of Privacy Policy | [https://www.coreview.com/privacy-policy] |
-| URL of Terms of Use | [https://www.coreview.com/terms-conditions] |
+| URL of partner website | <https://www.coreview.com> |
+| URL of Privacy Policy | <https://www.coreview.com/privacy-policy> |
+| URL of Terms of Use | <https://www.coreview.com/terms-conditions> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by CoreView to Microsoft:
 
 Information on CoreView from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 33385
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/33385' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/33385.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/33385" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

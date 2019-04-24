@@ -1,7 +1,7 @@
 ---
 title: Application Information for Smartsheet by Smartsheet
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Smartsheet
 
 Published by Smartsheet
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/f4d81e8e-4500-44c2-8328-9e06cbe037c5" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104380975" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Smartsheet to Microsoft:
 |:----------------|:-------------|
 | App name | Smartsheet |
 | ID | f4d81e8e-4500-44c2-8328-9e06cbe037c5 |
+| Capabilities | Bot, Tab |
 | Partner company name | Smartsheet |
-| URL of partner website | [https://help.smartsheet.com/articles/2476201] |
-| URL of Teams application info page | [https://help.smartsheet.com/articles/2476201-interact-with-smartsheet-items-in-microsoft-teams] |
-| URL of Privacy Policy | [https://www.smartsheet.com/privacy] |
-| URL of Terms of Use | [https://www.smartsheet.com/user-agreement] |
+| URL of partner website | <https://help.smartsheet.com/articles/2476201> |
+| URL of Privacy Policy | <https://www.smartsheet.com/privacy> |
+| URL of Terms of Use | <https://www.smartsheet.com/user-agreement> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Smartsheet to Microsoft:
 
 Information on Smartsheet from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 11934
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11934' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/11934.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11934" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

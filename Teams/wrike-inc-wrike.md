@@ -1,7 +1,7 @@
 ---
 title: Application Information for Wrike by Wrike Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Wrike
 
 Published by Wrike Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/05274a45-7312-4c23-8f64-d57fe4a28d6d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381390" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Wrike Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Wrike |
 | ID | 05274a45-7312-4c23-8f64-d57fe4a28d6d |
+| Capabilities | Bot, Tab, Messaging Extension, Connector |
 | Partner company name | Wrike Inc. |
-| URL of partner website | [https://www.wrike.com] |
-| URL of Teams application info page | [https://help.wrike.com/hc/en-us/articles/115001825869-Microsoft-Teams] |
-| URL of Privacy Policy | [https://www.wrike.com/security/privacy/] |
-| URL of Terms of Use | [https://www.wrike.com/security/terms/] |
+| URL of partner website | <https://www.wrike.com> |
+| URL of Privacy Policy | <https://www.wrike.com/security/privacy/> |
+| URL of Terms of Use | <https://www.wrike.com/security/terms/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Wrike Inc. to Microsoft:
 
 Information on Wrike Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 21522
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/21522' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/21522.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/21522" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -56,6 +59,6 @@ TODO: Show MCAS info for ID: 21522
 > [!NOTE]
 > This information is self-reported by Wrike Inc. and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/347/Wrike' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/347/Wrike' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

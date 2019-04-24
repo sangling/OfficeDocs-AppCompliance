@@ -1,7 +1,7 @@
 ---
 title: Application Information for Asana by Asana, Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Asana
 
 Published by Asana, Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/f0e33e18-08fc-4511-a2a7-c6bdff367263" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Asana, Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Asana |
 | ID | f0e33e18-08fc-4511-a2a7-c6bdff367263 |
+| Capabilities | Tab, Connector |
 | Partner company name | Asana, Inc. |
-| URL of partner website | [https://asana.com/?noredirect&amp;utm_source&#x3D;asana_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams_launch] |
-| URL of Privacy Policy | [https://asana.com/terms?privacy-policy#privacy-policy] |
-| URL of Terms of Use | [https://asana.com/terms?privacy-policy#terms-of-service] |
+| URL of partner website | <https://asana.com/?noredirect&amp;utm_source&#x3D;asana_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams_launch> |
+| URL of Privacy Policy | <https://asana.com/terms?privacy-policy#privacy-policy> |
+| URL of Terms of Use | <https://asana.com/terms?privacy-policy#terms-of-service> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Asana, Inc. to Microsoft:
 
 Information on Asana, Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10417
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10417' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10417.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10417" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

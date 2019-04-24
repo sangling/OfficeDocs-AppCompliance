@@ -1,7 +1,7 @@
 ---
 title: Application Information for Mindomo by Expert Software Applications Srl
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Mindomo
 
 Published by Expert Software Applications Srl
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/327e83d3-5ab9-490c-a5a0-70600f6e84ac" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381995" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Expert Software Applications Srl to Microsoft:
 |:----------------|:-------------|
 | App name | Mindomo |
 | ID | 327e83d3-5ab9-490c-a5a0-70600f6e84ac |
+| Capabilities | Tab |
 | Partner company name | Expert Software Applications Srl |
-| URL of partner website | [https://www.mindomo.com/] |
-| URL of Teams application info page | [https://www.mindomo.com/help/index.htm] |
-| URL of Privacy Policy | [https://www.mindomo.com/privacy.htm] |
-| URL of Terms of Use | [https://www.mindomo.com/terms-of-use.htm] |
+| URL of partner website | <https://www.mindomo.com/> |
+| URL of Privacy Policy | <https://www.mindomo.com/privacy.htm> |
+| URL of Terms of Use | <https://www.mindomo.com/terms-of-use.htm> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Expert Software Applications Srl to Microsoft:
 
 Information on Expert Software Applications Srl from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 21559
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/21559' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/21559.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/21559" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

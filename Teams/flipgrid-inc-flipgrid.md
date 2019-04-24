@@ -1,7 +1,7 @@
 ---
 title: Application Information for Flipgrid by Flipgrid, Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Flipgrid
 
 Published by Flipgrid, Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/aa5fe6c5-f91c-45ed-88de-640e235ad21b" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381048" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Flipgrid, Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Flipgrid |
 | ID | aa5fe6c5-f91c-45ed-88de-640e235ad21b |
+| Capabilities | Tab, Connector |
 | Partner company name | Flipgrid, Inc. |
-| URL of partner website | [https://flipgrid.com/] |
-| URL of Teams application info page | [https://support.flipgrid.com/] |
-| URL of Privacy Policy | [https://legal.flipgrid.com/privacy.html] |
-| URL of Terms of Use | [https://legal.flipgrid.com/terms-of-use.html] |
+| URL of partner website | <https://flipgrid.com/> |
+| URL of Privacy Policy | <https://legal.flipgrid.com/privacy.html> |
+| URL of Terms of Use | <https://legal.flipgrid.com/terms-of-use.html> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Flipgrid, Inc. to Microsoft:
 
 Information on Flipgrid, Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 35416
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35416' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/35416.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35416" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

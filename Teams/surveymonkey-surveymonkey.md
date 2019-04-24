@@ -1,7 +1,7 @@
 ---
 title: Application Information for SurveyMonkey by SurveyMonkey
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # SurveyMonkey
 
 Published by SurveyMonkey
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/0fd925a0-357f-4d25-8456-b3022aaa41a9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381088" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by SurveyMonkey to Microsoft:
 |:----------------|:-------------|
 | App name | SurveyMonkey |
 | ID | 0fd925a0-357f-4d25-8456-b3022aaa41a9 |
+| Capabilities | Bot, Tab, Connector |
 | Partner company name | SurveyMonkey |
-| URL of partner website | [https://www.surveymonkey.com] |
-| URL of Teams application info page | [https://help.surveymonkey.com/articles/en_US/kb/Microsoft-Teams-Integration] |
-| URL of Privacy Policy | [https://www.surveymonkey.com/privacy] |
-| URL of Terms of Use | [https://www.surveymonkey.com/mp/policy/terms-of-use/] |
+| URL of partner website | <https://www.surveymonkey.com> |
+| URL of Privacy Policy | <https://www.surveymonkey.com/privacy> |
+| URL of Terms of Use | <https://www.surveymonkey.com/mp/policy/terms-of-use/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by SurveyMonkey to Microsoft:
 
 Information on SurveyMonkey from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 12024
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/12024' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/12024.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/12024" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

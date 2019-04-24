@@ -1,7 +1,7 @@
 ---
 title: Application Information for Workbot by Workato
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Workbot
 
 Published by Workato
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/785b5e1d-93e7-48a1-bdad-2d150392935d" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Workato to Microsoft:
 |:----------------|:-------------|
 | App name | Workbot |
 | ID | 785b5e1d-93e7-48a1-bdad-2d150392935d |
+| Capabilities | Bot, Tab |
 | Partner company name | Workato |
-| URL of partner website | [https://get.workato.com/workbot-teams] |
-| URL of Privacy Policy | [https://www.workato.com/privacy] |
-| URL of Terms of Use | [https://www.workato.com/terms] |
+| URL of partner website | <https://get.workato.com/workbot-teams> |
+| URL of Privacy Policy | <https://www.workato.com/privacy> |
+| URL of Terms of Use | <https://www.workato.com/terms> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Workato to Microsoft:
 
 Information on Workato from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 34036
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/34036' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/34036.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/34036" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

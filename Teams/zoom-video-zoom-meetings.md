@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zoom Meetings by Zoom Video
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Zoom Meetings
 
 Published by Zoom Video
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/8a1da635-5729-4456-b43a-56cbd795c3cf" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381441" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Zoom Video to Microsoft:
 |:----------------|:-------------|
 | App name | Zoom Meetings |
 | ID | 8a1da635-5729-4456-b43a-56cbd795c3cf |
+| Capabilities | Bot |
 | Partner company name | Zoom Video |
-| URL of partner website | [https://zoom.us] |
-| URL of Teams application info page | [https://zoomappdocs.docs.stoplight.io/microsoft-teams-zoom-bot] |
-| URL of Privacy Policy | [https://zoom.us/privacy] |
-| URL of Terms of Use | [https://zoom.us/terms] |
+| URL of partner website | <https://zoom.us> |
+| URL of Privacy Policy | <https://zoom.us/privacy> |
+| URL of Terms of Use | <https://zoom.us/terms> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Zoom Video to Microsoft:
 
 Information on Zoom Video from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 14233
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14233' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/14233.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14233" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -56,6 +59,6 @@ TODO: Show MCAS info for ID: 14233
 > [!NOTE]
 > This information is self-reported by Zoom Video and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/353/Zoom Video Communications, Inc.' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/353/Zoom Video Communications, Inc.' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

@@ -1,7 +1,7 @@
 ---
 title: Application Information for GitHub by Tata Consultancy Services
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # GitHub
 
 Published by Tata Consultancy Services
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/37567f93-e2a7-4e2a-ad37-a9160fc62647" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Tata Consultancy Services to Microsoft:
 |:----------------|:-------------|
 | App name | GitHub |
 | ID | 37567f93-e2a7-4e2a-ad37-a9160fc62647 |
+| Capabilities | Bot, Tab, Messaging Extension, Connector |
 | Partner company name | Tata Consultancy Services |
-| URL of partner website | [https://www.tcs.com] |
-| URL of Privacy Policy | [https://msteams-ghub.com/privacy] |
-| URL of Terms of Use | [https://msteams-ghub.com/termsofuse] |
+| URL of partner website | <https://www.tcs.com> |
+| URL of Privacy Policy | <https://msteams-ghub.com/privacy> |
+| URL of Terms of Use | <https://msteams-ghub.com/termsofuse> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Tata Consultancy Services to Microsoft:
 
 Information on Tata Consultancy Services from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 11760
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11760' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/11760.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11760" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -54,6 +58,6 @@ TODO: Show MCAS info for ID: 11760
 > [!NOTE]
 > This information is self-reported by Tata Consultancy Services and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/426/GitHub' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/426/GitHub' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

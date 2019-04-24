@@ -1,7 +1,7 @@
 ---
 title: Application Information for Workboard by Workboard
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Workboard
 
 Published by Workboard
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/28d0282b-3cd2-49f0-90bb-a016843750c6" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381599" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Workboard to Microsoft:
 |:----------------|:-------------|
 | App name | Workboard |
 | ID | 28d0282b-3cd2-49f0-90bb-a016843750c6 |
+| Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Workboard |
-| URL of partner website | [https://www.workboard.com] |
-| URL of Teams application info page | [https://workboard.zendesk.com/hc/en-us] |
-| URL of Privacy Policy | [https://www.workboard.com/license/privacy-policy.html] |
-| URL of Terms of Use | [https://www.workboard.com/license/terms_of_use_v1.html] |
+| URL of partner website | <https://www.workboard.com> |
+| URL of Privacy Policy | <https://www.workboard.com/license/privacy-policy.html> |
+| URL of Terms of Use | <https://www.workboard.com/license/terms_of_use_v1.html> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Workboard to Microsoft:
 
 Information on Workboard from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 29004
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/29004' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/29004.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/29004" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

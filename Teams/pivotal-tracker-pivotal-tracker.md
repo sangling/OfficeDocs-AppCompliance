@@ -1,7 +1,7 @@
 ---
 title: Application Information for Pivotal Tracker by Pivotal Tracker
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Pivotal Tracker
 
 Published by Pivotal Tracker
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/02d14659-a28b-4007-8544-b279c0d3628b" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Pivotal Tracker to Microsoft:
 |:----------------|:-------------|
 | App name | Pivotal Tracker |
 | ID | 02d14659-a28b-4007-8544-b279c0d3628b |
+| Capabilities | Connector |
 | Partner company name | Pivotal Tracker |
-| URL of partner website | [http://go.microsoft.com/fwlink/?LinkId&#x3D;724004] |
-| URL of Privacy Policy | [http://go.microsoft.com/fwlink/?LinkId&#x3D;724004] |
-| URL of Terms of Use | [http://go.microsoft.com/fwlink/?LinkId&#x3D;724004] |
+| URL of partner website | <http://go.microsoft.com/fwlink/?LinkId&#x3D;724004> |
+| URL of Privacy Policy | <http://go.microsoft.com/fwlink/?LinkId&#x3D;724004> |
+| URL of Terms of Use | <http://go.microsoft.com/fwlink/?LinkId&#x3D;724004> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Pivotal Tracker to Microsoft:
 
 Information on Pivotal Tracker from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10024
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10024' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10024.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10024" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

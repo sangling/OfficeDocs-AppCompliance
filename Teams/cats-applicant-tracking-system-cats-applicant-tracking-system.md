@@ -1,7 +1,7 @@
 ---
 title: Application Information for CATS Applicant Tracking System by CATS Applicant Tracking System
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # CATS Applicant Tracking System
 
 Published by CATS Applicant Tracking System
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/e8e1d53c-6eea-489a-a066-9640dfe506e4" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by CATS Applicant Tracking System to Microsoft:
 |:----------------|:-------------|
 | App name | CATS Applicant Tracking System |
 | ID | e8e1d53c-6eea-489a-a066-9640dfe506e4 |
+| Capabilities | Connector |
 | Partner company name | CATS Applicant Tracking System |
-| URL of partner website | [https://go.microsoft.com/fwlink/?linkid&#x3D;820920] |
-| URL of Privacy Policy | [https://go.microsoft.com/fwlink/?linkid&#x3D;820920] |
-| URL of Terms of Use | [https://go.microsoft.com/fwlink/?linkid&#x3D;820920] |
+| URL of partner website | <https://go.microsoft.com/fwlink/?linkid&#x3D;820920> |
+| URL of Privacy Policy | <https://go.microsoft.com/fwlink/?linkid&#x3D;820920> |
+| URL of Terms of Use | <https://go.microsoft.com/fwlink/?linkid&#x3D;820920> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by CATS Applicant Tracking System to Microsoft:
 
 Information on CATS Applicant Tracking System from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10531
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10531' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10531.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10531" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

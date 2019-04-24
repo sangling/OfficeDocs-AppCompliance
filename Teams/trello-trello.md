@@ -1,7 +1,7 @@
 ---
 title: Application Information for Trello by Trello
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Trello
 
 Published by Trello
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/49e6f432-d79c-49e8-94f7-89b94f3672fd" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Trello to Microsoft:
 |:----------------|:-------------|
 | App name | Trello |
 | ID | 49e6f432-d79c-49e8-94f7-89b94f3672fd |
+| Capabilities | Bot, Tab, Messaging Extension, Connector |
 | Partner company name | Trello |
-| URL of partner website | [https://trello.com] |
-| URL of Privacy Policy | [https://trello.com/privacy] |
-| URL of Terms of Use | [https://trello.com/legal] |
+| URL of partner website | <https://trello.com> |
+| URL of Privacy Policy | <https://trello.com/privacy> |
+| URL of Terms of Use | <https://trello.com/legal> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Trello to Microsoft:
 
 Information on Trello from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 12114
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/12114' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/12114.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/12114" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -54,6 +58,6 @@ TODO: Show MCAS info for ID: 12114
 > [!NOTE]
 > This information is self-reported by Trello and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/495/Trello' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/495/Trello' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

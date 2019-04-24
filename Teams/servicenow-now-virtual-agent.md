@@ -1,7 +1,7 @@
 ---
 title: Application Information for Now Virtual Agent by ServiceNow
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-data-mcas-csa
 # Now Virtual Agent
 
 Published by ServiceNow
+
+$TODO - attested image
+
 * <a href="https://teams.microsoft.com/l/app/49471a10-fdbc-4ffb-b0b8-944f3df985d9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381816" target="_blank">View in AppSource</a>
 
@@ -28,13 +31,13 @@ Information provided by ServiceNow to Microsoft:
 |:----------------|:-------------|
 | App name | Now Virtual Agent |
 | ID | 49471a10-fdbc-4ffb-b0b8-944f3df985d9 |
+| Capabilities | Bot |
 | Partner company name | ServiceNow |
 | Physical address | 2225 Lawson Lane, Santa Clara, CA 95054 |
 | Contact information for this app | https://www.servicenow.com/contact-us-request-info.html |
-| URL of partner website | [https://www.servicenow.com/] |
-| URL of Teams application info page | [https://docs.servicenow.com/bundle/london-servicenow-platform/page/administer/virtual-agent/task/install-va-integrations.html#install-va-integrations] |
-| URL of Privacy Policy | [https://www.servicenow.com/service-privacy.html] |
-| URL of Terms of Use | [https://www.servicenow.com/terms-of-use.html] |
+| URL of partner website | <https://www.servicenow.com/> |
+| URL of Privacy Policy | <https://www.servicenow.com/service-privacy.html> |
+| URL of Terms of Use | <https://www.servicenow.com/terms-of-use.html> |
 | Main telephone number | +1 (408) 501?8550 |
 | Description of available licensing options, if any | Customers need to be on a ServiceNow package that includes Virtual Agent access, starting with ServiceNow London release.  We encourage customers to reach out to their ServiceNow account team for more information. |
 | Licensing contact | We encourage customers to reach out to their ServiceNow account team for more information. |
@@ -91,9 +94,9 @@ Describe any capabilities an organization's administrators have to control their
 
 Information on ServiceNow from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10638
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10638' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10638.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10638" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -106,6 +109,6 @@ TODO: Show MCAS info for ID: 10638
 > [!NOTE]
 > This information is self-reported by ServiceNow and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/281/ServiceNow' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/281/ServiceNow' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

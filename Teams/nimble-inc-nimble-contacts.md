@@ -1,7 +1,7 @@
 ---
 title: Application Information for Nimble Contacts by Nimble Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Nimble Contacts
 
 Published by Nimble Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/efe3ee7c-3637-4064-b8a9-20fd3b34f36d" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Nimble Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Nimble Contacts |
 | ID | efe3ee7c-3637-4064-b8a9-20fd3b34f36d |
+| Capabilities | Bot, Tab |
 | Partner company name | Nimble Inc. |
-| URL of partner website | [http://nimble.com] |
-| URL of Privacy Policy | [http://www.nimble.com/company/privacy/] |
-| URL of Terms of Use | [http://www.nimble.com/company/terms-of-service/] |
+| URL of partner website | <http://nimble.com> |
+| URL of Privacy Policy | <http://www.nimble.com/company/privacy/> |
+| URL of Terms of Use | <http://www.nimble.com/company/terms-of-service/> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Nimble Inc. to Microsoft:
 
 Information on Nimble Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10740
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10740' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10740.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10740" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

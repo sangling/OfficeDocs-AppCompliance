@@ -1,7 +1,7 @@
 ---
 title: Application Information for Intercom by Intercom
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Intercom
 
 Published by Intercom
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/d3e6a505-8fbe-419c-ae64-00025cb33b10" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Intercom to Microsoft:
 |:----------------|:-------------|
 | App name | Intercom |
 | ID | d3e6a505-8fbe-419c-ae64-00025cb33b10 |
+| Capabilities | Tab, Connector |
 | Partner company name | Intercom |
-| URL of partner website | [https://docs.intercom.com/integrations/microsoft-teams-integration] |
-| URL of Privacy Policy | [https://www.intercom.com/privacy] |
-| URL of Terms of Use | [https://docs.intercom.com/pricing-privacy-and-terms/intercom-terms-of-service] |
+| URL of partner website | <https://docs.intercom.com/integrations/microsoft-teams-integration> |
+| URL of Privacy Policy | <https://www.intercom.com/privacy> |
+| URL of Terms of Use | <https://docs.intercom.com/pricing-privacy-and-terms/intercom-terms-of-service> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Intercom to Microsoft:
 
 Information on Intercom from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 22796
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/22796' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/22796.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/22796" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

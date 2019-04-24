@@ -1,7 +1,7 @@
 ---
 title: Application Information for GetResponse by GetResponse
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # GetResponse
 
 Published by GetResponse
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/dc14a953-c1c4-425d-85b8-88b77fbe4c15" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by GetResponse to Microsoft:
 |:----------------|:-------------|
 | App name | GetResponse |
 | ID | dc14a953-c1c4-425d-85b8-88b77fbe4c15 |
+| Capabilities | Connector |
 | Partner company name | GetResponse |
-| URL of partner website | [http://www.getresponse.com/] |
-| URL of Privacy Policy | [http://www.getresponse.com/] |
-| URL of Terms of Use | [http://www.getresponse.com/] |
+| URL of partner website | <http://www.getresponse.com/> |
+| URL of Privacy Policy | <http://www.getresponse.com/> |
+| URL of Terms of Use | <http://www.getresponse.com/> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by GetResponse to Microsoft:
 
 Information on GetResponse from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 11758
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11758' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/11758.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/11758" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

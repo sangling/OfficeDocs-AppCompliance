@@ -1,7 +1,7 @@
 ---
 title: Application Information for Pickit Images by Pickit
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Pickit Images
 
 Published by Pickit
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/012be6ac-6f34-4ffa-9344-b857f7bc74e1" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381391" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Pickit to Microsoft:
 |:----------------|:-------------|
 | App name | Pickit Images |
 | ID | 012be6ac-6f34-4ffa-9344-b857f7bc74e1 |
+| Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Pickit |
-| URL of partner website | [https://pickit.com/] |
-| URL of Teams application info page | [https://pickit.zendesk.com/hc/en-us] |
-| URL of Privacy Policy | [https://pickit.com/privacy-policy] |
-| URL of Terms of Use | [https://www.pickit.com/tos] |
+| URL of partner website | <https://pickit.com/> |
+| URL of Privacy Policy | <https://pickit.com/privacy-policy> |
+| URL of Terms of Use | <https://www.pickit.com/tos> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Pickit to Microsoft:
 
 Information on Pickit from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 27551
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27551' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/27551.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27551" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

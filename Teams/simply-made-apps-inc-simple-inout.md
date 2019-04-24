@@ -1,7 +1,7 @@
 ---
 title: Application Information for Simple In/Out by Simply Made Apps, Inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Simple In/Out
 
 Published by Simply Made Apps, Inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/fcc850f5-c210-45a2-9576-4ca4e34b6d09" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104382084" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Simply Made Apps, Inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Simple In/Out |
 | ID | fcc850f5-c210-45a2-9576-4ca4e34b6d09 |
+| Capabilities | Connector |
 | Partner company name | Simply Made Apps, Inc. |
-| URL of partner website | [https://www.simpleinout.com/en] |
-| URL of Teams application info page | [https://simpleinout.helpscoutdocs.com/article/262-microsoft-teams] |
-| URL of Privacy Policy | [https://www.simpleinout.com/en/legal/privacy] |
-| URL of Terms of Use | [https://www.simpleinout.com/en/legal/terms] |
+| URL of partner website | <https://www.simpleinout.com/en> |
+| URL of Privacy Policy | <https://www.simpleinout.com/en/legal/privacy> |
+| URL of Terms of Use | <https://www.simpleinout.com/en/legal/terms> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Simply Made Apps, Inc. to Microsoft:
 
 Information on Simply Made Apps, Inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 28352
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28352' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/28352.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28352" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

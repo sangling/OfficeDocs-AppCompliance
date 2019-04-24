@@ -1,7 +1,7 @@
 ---
 title: Application Information for Wikipedia Search by Microsoft Corporation
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Wikipedia Search
 
 Published by Microsoft Corporation
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/25492237-70ef-4c56-a36e-dd3405edd40e" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381597" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Corporation to Microsoft:
 |:----------------|:-------------|
 | App name | Wikipedia Search |
 | ID | 25492237-70ef-4c56-a36e-dd3405edd40e |
+| Capabilities | Bot, Messaging Extension |
 | Partner company name | Microsoft Corporation |
-| URL of partner website | [https://www.microsoft.com/en-us/] |
-| URL of Teams application info page | [https://answers.microsoft.com/en-us/msoffice/forum?] |
-| URL of Privacy Policy | [https://privacy.microsoft.com/en-us/privacystatement] |
-| URL of Terms of Use | [https://www.microsoft.com/en-us/servicesagreement] |
+| URL of partner website | <https://www.microsoft.com/en-us/> |
+| URL of Privacy Policy | <https://privacy.microsoft.com/en-us/privacystatement> |
+| URL of Terms of Use | <https://www.microsoft.com/en-us/servicesagreement> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Corporation to Microsoft:
 
 Information on Microsoft Corporation from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 33476
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/33476' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/33476.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/33476" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zendesk by Zendesk Support
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Zendesk
 
 Published by Zendesk Support
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/d57df3b4-c70a-4e6b-9292-0539b54fce7b" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Zendesk Support to Microsoft:
 |:----------------|:-------------|
 | App name | Zendesk |
 | ID | d57df3b4-c70a-4e6b-9292-0539b54fce7b |
+| Capabilities | Tab, Connector |
 | Partner company name | Zendesk Support |
-| URL of partner website | [http://www.zendesk.com/microsoft-teams] |
-| URL of Privacy Policy | [https://www.zendesk.com/company/customers-partners/#privacy-policy] |
-| URL of Terms of Use | [https://www.zendesk.com/company/customers-partners/#master-subscription-agreement] |
+| URL of partner website | <http://www.zendesk.com/microsoft-teams> |
+| URL of Privacy Policy | <https://www.zendesk.com/company/customers-partners/#privacy-policy> |
+| URL of Terms of Use | <https://www.zendesk.com/company/customers-partners/#master-subscription-agreement> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Zendesk Support to Microsoft:
 
 Information on Zendesk Support from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10921
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10921' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10921.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10921" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -54,6 +58,6 @@ TODO: Show MCAS info for ID: 10921
 > [!NOTE]
 > This information is self-reported by Zendesk Support and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/349/Zendesk' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/349/Zendesk' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

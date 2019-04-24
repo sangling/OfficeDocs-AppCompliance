@@ -1,7 +1,7 @@
 ---
 title: Application Information for Freehand by InVision by InVision app
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Freehand by InVision
 
 Published by InVision app
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381362" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by InVision app to Microsoft:
 |:----------------|:-------------|
 | App name | Freehand by InVision |
 | ID | 67cf2c5a-db0e-4256-a423-14010cbeafdd |
+| Capabilities | Tab |
 | Partner company name | InVision app |
-| URL of partner website | [https://www.invisionapp.com/] |
-| URL of Teams application info page | [https://support.invisionapp.com/hc/en-us/articles/115003814746-Freehand-Projects] |
-| URL of Privacy Policy | [https://www.invisionapp.com/privacy] |
-| URL of Terms of Use | [https://www.invisionapp.com/terms] |
+| URL of partner website | <https://www.invisionapp.com/> |
+| URL of Privacy Policy | <https://www.invisionapp.com/privacy> |
+| URL of Terms of Use | <https://www.invisionapp.com/terms> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by InVision app to Microsoft:
 
 Information on InVision app from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 20788
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20788' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/20788.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20788" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -56,6 +59,6 @@ TODO: Show MCAS info for ID: 20788
 > [!NOTE]
 > This information is self-reported by InVision app and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/172/InVision' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/172/InVision' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

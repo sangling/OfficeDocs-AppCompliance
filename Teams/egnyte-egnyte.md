@@ -1,7 +1,7 @@
 ---
 title: Application Information for Egnyte by Egnyte
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Egnyte
 
 Published by Egnyte
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/28b871ff-85bf-48a5-9bee-364f2b74d104" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381174" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Egnyte to Microsoft:
 |:----------------|:-------------|
 | App name | Egnyte |
 | ID | 28b871ff-85bf-48a5-9bee-364f2b74d104 |
+| Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Egnyte |
-| URL of partner website | [https://www.egnyte.com] |
-| URL of Teams application info page | [https://helpdesk.egnyte.com/hc/en-us/articles/115000999611] |
-| URL of Privacy Policy | [https://www.egnyte.com/corp/privacy_policy.html] |
-| URL of Terms of Use | [https://www.egnyte.com/corp/terms_of_service.html] |
+| URL of partner website | <https://www.egnyte.com> |
+| URL of Privacy Policy | <https://www.egnyte.com/corp/privacy_policy.html> |
+| URL of Terms of Use | <https://www.egnyte.com/corp/terms_of_service.html> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Egnyte to Microsoft:
 
 Information on Egnyte from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 15585
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/15585' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/15585.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/15585" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -56,6 +59,6 @@ TODO: Show MCAS info for ID: 15585
 > [!NOTE]
 > This information is self-reported by Egnyte and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/116/Egnyte' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/116/Egnyte' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

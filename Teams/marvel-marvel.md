@@ -1,7 +1,7 @@
 ---
 title: Application Information for Marvel by Marvel
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Marvel
 
 Published by Marvel
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/2e7fb70e-f75d-4e85-997e-90ce89000f43" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381801" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Marvel to Microsoft:
 |:----------------|:-------------|
 | App name | Marvel |
 | ID | 2e7fb70e-f75d-4e85-997e-90ce89000f43 |
+| Capabilities | Tab |
 | Partner company name | Marvel |
-| URL of partner website | [https://marvelapp.com] |
-| URL of Teams application info page | [https://help.marvelapp.com/hc/en-us/articles/360000052778] |
-| URL of Privacy Policy | [https://marvelapp.com/privacy/] |
-| URL of Terms of Use | [https://marvelapp.com/terms/] |
+| URL of partner website | <https://marvelapp.com> |
+| URL of Privacy Policy | <https://marvelapp.com/privacy/> |
+| URL of Terms of Use | <https://marvelapp.com/terms/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Marvel to Microsoft:
 
 Information on Marvel from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 32883
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/32883' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/32883.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/32883" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

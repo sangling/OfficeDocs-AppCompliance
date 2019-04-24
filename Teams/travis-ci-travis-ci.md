@@ -1,7 +1,7 @@
 ---
 title: Application Information for Travis CI by Travis CI
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Travis CI
 
 Published by Travis CI
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/8e9edb9d-1008-40b0-84ac-c929b9622afc" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Travis CI to Microsoft:
 |:----------------|:-------------|
 | App name | Travis CI |
 | ID | 8e9edb9d-1008-40b0-84ac-c929b9622afc |
+| Capabilities | Connector |
 | Partner company name | Travis CI |
-| URL of partner website | [http://go.microsoft.com/fwlink/?LinkId&#x3D;730649] |
-| URL of Privacy Policy | [http://go.microsoft.com/fwlink/?LinkId&#x3D;730649] |
-| URL of Terms of Use | [http://go.microsoft.com/fwlink/?LinkId&#x3D;730649] |
+| URL of partner website | <http://go.microsoft.com/fwlink/?LinkId&#x3D;730649> |
+| URL of Privacy Policy | <http://go.microsoft.com/fwlink/?LinkId&#x3D;730649> |
+| URL of Terms of Use | <http://go.microsoft.com/fwlink/?LinkId&#x3D;730649> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Travis CI to Microsoft:
 
 Information on Travis CI from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 27579
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27579' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/27579.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27579" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

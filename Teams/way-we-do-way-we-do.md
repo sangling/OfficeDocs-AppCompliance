@@ -1,7 +1,7 @@
 ---
 title: Application Information for Way We Do by Way We Do
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Way We Do
 
 Published by Way We Do
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/09c58a7e-cc9f-4e80-8455-d3f08a8d1a72" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381662" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Way We Do to Microsoft:
 |:----------------|:-------------|
 | App name | Way We Do |
 | ID | 09c58a7e-cc9f-4e80-8455-d3f08a8d1a72 |
+| Capabilities | Tab |
 | Partner company name | Way We Do |
-| URL of partner website | [https://www.waywedo.com/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams] |
-| URL of Teams application info page | [http://support.waywedo.com/] |
-| URL of Privacy Policy | [https://www.waywedo.com/privacy-policy/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams] |
-| URL of Terms of Use | [https://www.waywedo.com/supply-agreement/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams] |
+| URL of partner website | <https://www.waywedo.com/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
+| URL of Privacy Policy | <https://www.waywedo.com/privacy-policy/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
+| URL of Terms of Use | <https://www.waywedo.com/supply-agreement/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Way We Do to Microsoft:
 
 Information on Way We Do from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 28865
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28865' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/28865.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28865" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

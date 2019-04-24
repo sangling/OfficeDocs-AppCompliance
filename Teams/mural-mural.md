@@ -1,7 +1,7 @@
 ---
 title: Application Information for MURAL by MURAL
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-csa
 # MURAL
 
 Published by MURAL
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381626" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by MURAL to Microsoft:
 |:----------------|:-------------|
 | App name | MURAL |
 | ID | c738b607-88dd-4f16-aefe-6a824c65d25d |
+| Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | MURAL |
-| URL of partner website | [https://mural.co/] |
-| URL of Teams application info page | [https://support.mural.co/] |
-| URL of Privacy Policy | [https://mural.co/terms/privacy-policy] |
-| URL of Terms of Use | [https://mural.co/terms] |
+| URL of partner website | <https://mural.co/> |
+| URL of Privacy Policy | <https://mural.co/terms/privacy-policy> |
+| URL of Terms of Use | <https://mural.co/terms> |
 
 ::: zone-end
 
@@ -47,6 +50,6 @@ Information provided by MURAL to Microsoft:
 > [!NOTE]
 > This information is self-reported by MURAL and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/385/MURAL' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/385/MURAL' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

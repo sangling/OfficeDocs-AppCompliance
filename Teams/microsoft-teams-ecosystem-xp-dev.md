@@ -1,7 +1,7 @@
 ---
 title: Application Information for XP-Dev by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # XP-Dev
 
 Published by Microsoft Teams Ecosystem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/6083a275-76c8-4769-9be0-e4c4734df100" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381590" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 |:----------------|:-------------|
 | App name | XP-Dev |
 | ID | 6083a275-76c8-4769-9be0-e4c4734df100 |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
-| URL of partner website | [https://go.microsoft.com/fwlink/?LinkId&#x3D;730503] |
-| URL of Teams application info page | [https://go.microsoft.com/fwlink/?LinkId&#x3D;730503] |
-| URL of Privacy Policy | [https://xp-dev.com/docs/legals/privacy-statement.html] |
-| URL of Terms of Use | [https://go.microsoft.com/fwlink/?LinkId&#x3D;730503] |
+| URL of partner website | <https://go.microsoft.com/fwlink/?LinkId&#x3D;730503> |
+| URL of Privacy Policy | <https://xp-dev.com/docs/legals/privacy-statement.html> |
+| URL of Terms of Use | <https://go.microsoft.com/fwlink/?LinkId&#x3D;730503> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 
 Information on Microsoft Teams Ecosystem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 26136
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/26136' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/26136.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/26136" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

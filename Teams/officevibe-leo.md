@@ -1,7 +1,7 @@
 ---
 title: Application Information for Leo by Officevibe
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Leo
 
 Published by Officevibe
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/9bc21e40-7947-4248-9966-f58c6e5c12d3" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Officevibe to Microsoft:
 |:----------------|:-------------|
 | App name | Leo |
 | ID | 9bc21e40-7947-4248-9966-f58c6e5c12d3 |
+| Capabilities | Bot |
 | Partner company name | Officevibe |
-| URL of partner website | [http://officevibe.com] |
-| URL of Privacy Policy | [https://www.officevibe.com/privacy] |
-| URL of Terms of Use | [https://www.officevibe.com/terms] |
+| URL of partner website | <http://officevibe.com> |
+| URL of Privacy Policy | <https://www.officevibe.com/privacy> |
+| URL of Terms of Use | <https://www.officevibe.com/terms> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Officevibe to Microsoft:
 
 Information on Officevibe from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 35160
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35160' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/35160.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35160" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

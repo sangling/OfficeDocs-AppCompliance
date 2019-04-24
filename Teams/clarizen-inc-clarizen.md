@@ -1,7 +1,7 @@
 ---
 title: Application Information for Clarizen by Clarizen inc.
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Clarizen
 
 Published by Clarizen inc.
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/e5141304-052d-4678-aeb6-8e4110aedc21" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381748" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Clarizen inc. to Microsoft:
 |:----------------|:-------------|
 | App name | Clarizen |
 | ID | e5141304-052d-4678-aeb6-8e4110aedc21 |
+| Capabilities | Bot |
 | Partner company name | Clarizen inc. |
-| URL of partner website | [https://www.clarizen.com] |
-| URL of Teams application info page | [https://success.clarizen.com/hc/en-us/sections/115000201553-Clarizen-Bot] |
-| URL of Privacy Policy | [https://www.clarizen.com/privacy-policy/] |
-| URL of Terms of Use | [https://app2.clarizen.com/Clarizen/Pages/Service/Terms_Conditions.htm] |
+| URL of partner website | <https://www.clarizen.com> |
+| URL of Privacy Policy | <https://www.clarizen.com/privacy-policy/> |
+| URL of Terms of Use | <https://app2.clarizen.com/Clarizen/Pages/Service/Terms_Conditions.htm> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Clarizen inc. to Microsoft:
 
 Information on Clarizen inc. from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10082
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10082' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10082.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10082" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -56,6 +59,6 @@ TODO: Show MCAS info for ID: 10082
 > [!NOTE]
 > This information is self-reported by Clarizen inc. and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/70/Clarizen' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/70/Clarizen' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

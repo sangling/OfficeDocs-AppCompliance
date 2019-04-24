@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zenefits by Zenefits
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Zenefits
 
 Published by Zenefits
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/8b3f8cfa-83d1-40d7-8634-8dfd42a3ea46" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Zenefits to Microsoft:
 |:----------------|:-------------|
 | App name | Zenefits |
 | ID | 8b3f8cfa-83d1-40d7-8634-8dfd42a3ea46 |
+| Capabilities | Bot, Tab |
 | Partner company name | Zenefits |
-| URL of partner website | [https://www.zenefits.com] |
-| URL of Privacy Policy | [https://www.zenefits.com/privacy/] |
-| URL of Terms of Use | [https://www.zenefits.com/tos/] |
+| URL of partner website | <https://www.zenefits.com> |
+| URL of Privacy Policy | <https://www.zenefits.com/privacy/> |
+| URL of Terms of Use | <https://www.zenefits.com/tos/> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Zenefits to Microsoft:
 
 Information on Zenefits from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 20626
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20626' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/20626.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20626" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Sociabble by Sociabble
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Sociabble
 
 Published by Sociabble
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/afe63f50-aadc-4139-82dc-ba8da6270be9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381258" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Sociabble to Microsoft:
 |:----------------|:-------------|
 | App name | Sociabble |
 | ID | afe63f50-aadc-4139-82dc-ba8da6270be9 |
+| Capabilities | Tab, Connector |
 | Partner company name | Sociabble |
-| URL of partner website | [https://www.sociabble.com] |
-| URL of Teams application info page | [https://www.sociabble.com/contact-us/] |
-| URL of Privacy Policy | [https://www.sociabble.com/privacy-policy/] |
-| URL of Terms of Use | [https://www.sociabble.com/terms-conditions/] |
+| URL of partner website | <https://www.sociabble.com> |
+| URL of Privacy Policy | <https://www.sociabble.com/privacy-policy/> |
+| URL of Terms of Use | <https://www.sociabble.com/terms-conditions/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Sociabble to Microsoft:
 
 Information on Sociabble from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 28361
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28361' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/28361.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28361" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

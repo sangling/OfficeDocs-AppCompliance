@@ -1,7 +1,7 @@
 ---
 title: Application Information for Beanstalk by Beanstalk
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Beanstalk
 
 Published by Beanstalk
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/b79dae50-f89e-45ac-a634-a08e1b0af26d" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Beanstalk to Microsoft:
 |:----------------|:-------------|
 | App name | Beanstalk |
 | ID | b79dae50-f89e-45ac-a634-a08e1b0af26d |
+| Capabilities | Connector |
 | Partner company name | Beanstalk |
-| URL of partner website | [http://go.microsoft.com/fwlink/?LinkId&#x3D;733389] |
-| URL of Privacy Policy | [http://go.microsoft.com/fwlink/?LinkId&#x3D;733389] |
-| URL of Terms of Use | [http://go.microsoft.com/fwlink/?LinkId&#x3D;733389] |
+| URL of partner website | <http://go.microsoft.com/fwlink/?LinkId&#x3D;733389> |
+| URL of Privacy Policy | <http://go.microsoft.com/fwlink/?LinkId&#x3D;733389> |
+| URL of Terms of Use | <http://go.microsoft.com/fwlink/?LinkId&#x3D;733389> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Beanstalk to Microsoft:
 
 Information on Beanstalk from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 20456
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20456' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/20456.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20456" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

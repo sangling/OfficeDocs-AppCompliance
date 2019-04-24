@@ -1,7 +1,7 @@
 ---
 title: Application Information for Raygun by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Raygun
 
 Published by Microsoft Teams Ecosystem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/33be6aa5-4443-4d85-bb60-e4b64b9bc332" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381574" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 |:----------------|:-------------|
 | App name | Raygun |
 | ID | 33be6aa5-4443-4d85-bb60-e4b64b9bc332 |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
-| URL of partner website | [https://go.microsoft.com/fwlink/?LinkId&#x3D;724322] |
-| URL of Teams application info page | [https://go.microsoft.com/fwlink/?LinkId&#x3D;724322] |
-| URL of Privacy Policy | [https://raygun.com/privacy] |
-| URL of Terms of Use | [https://go.microsoft.com/fwlink/?LinkId&#x3D;724322] |
+| URL of partner website | <https://go.microsoft.com/fwlink/?LinkId&#x3D;724322> |
+| URL of Privacy Policy | <https://raygun.com/privacy> |
+| URL of Terms of Use | <https://go.microsoft.com/fwlink/?LinkId&#x3D;724322> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 
 Information on Microsoft Teams Ecosystem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 35272
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35272' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/35272.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35272" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

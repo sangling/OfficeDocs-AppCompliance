@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams App Security and Compliance - All Apps
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -53,7 +53,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Freehand by InVision](~/invision-app-freehand-by-invision.md) | InVision app | No | Yes | Yes | Tab |
 | [Freshdesk](~/freshworks-inc-freshdesk.md) | Freshworks INC | No | Yes | No | Bot |
 | [GetResponse](~/getresponse-getresponse.md) | GetResponse | No | Yes | No | Connector |
-| [GitHub](~/tata-consultancy-services-github.md) | Tata Consultancy Services | No | Yes | Yes | Tab, Connector |
+| [GitHub](~/tata-consultancy-services-github.md) | Tata Consultancy Services | No | Yes | Yes | Bot, Tab, Messaging Extension, Connector |
 | [GitHub Enterprise](~/microsoft-teams-ecosystem-github-enterprise.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [GlobalMeet](~/premiere-global-services-globalmeet.md) | Premiere Global Services | No | Yes | No | Bot, Messaging Extension |
 | [GoSquared](~/gosquared-gosquared.md) | GoSquared | No | Yes | No | Connector |
@@ -78,6 +78,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [MeisterTask](~/meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | No | Yes | No | Tab |
 | [MindMeister](~/meisterlabs-gmbh-mindmeister.md) | MeisterLabs GmbH | No | Yes | No | Tab |
 | [Mindomo](~/expert-software-applications-srl-mindomo.md) | Expert Software Applications Srl | No | Yes | No | Tab |
+| [Miro (formerly RealtimeBoard)](~/realtimeboard-inc-miro-(formerly-realtimeboard).md) | Realtimeboard Inc. | No | Yes | Yes | Bot, Tab |
 | [Nearpod](~/nearpod-nearpod.md) | Nearpod | No | Yes | No | Tab |
 | [New Relic](~/microsoft-teams-ecosystem-new-relic.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [Nimble Contacts](~/nimble-inc-nimble-contacts.md) | Nimble Inc. | No | Yes | No | Bot, Tab |
@@ -91,7 +92,6 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [ProjectWise](~/bentley-systems-inc-projectwise.md) | Bentley Systems, Inc. | No | Yes | No | Tab, Connector |
 | [Ramen](~/ramen-ramen.md) | Ramen | No | Yes | No | Connector |
 | [Raygun](~/microsoft-teams-ecosystem-raygun.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
-| [RealtimeBoard](~/realtimeboard-realtimeboard.md) | RealtimeBoard | No | Yes | Yes | Bot, Tab |
 | [Rollbar](~/microsoft-teams-ecosystem-rollbar.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [Runscope](~/microsoft-teams-ecosystem-runscope.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [Salesforce](~/microsoft-teams-ecosystem-salesforce.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |

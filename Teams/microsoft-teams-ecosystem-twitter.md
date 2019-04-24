@@ -1,7 +1,7 @@
 ---
 title: Application Information for Twitter by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Twitter
 
 Published by Microsoft Teams Ecosystem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/75a6c3a3-aadd-4f97-8118-99e7c2335cb2" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381549" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 |:----------------|:-------------|
 | App name | Twitter |
 | ID | 75a6c3a3-aadd-4f97-8118-99e7c2335cb2 |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
-| URL of partner website | [https://twitter.com/] |
-| URL of Teams application info page | [https://twitter.com/] |
-| URL of Privacy Policy | [https://twitter.com/en/privacy] |
-| URL of Terms of Use | [https://twitter.com/] |
+| URL of partner website | <https://twitter.com/> |
+| URL of Privacy Policy | <https://twitter.com/en/privacy> |
+| URL of Terms of Use | <https://twitter.com/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 
 Information on Microsoft Teams Ecosystem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 12127
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/12127' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/12127.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/12127" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

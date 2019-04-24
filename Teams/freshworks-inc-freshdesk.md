@@ -1,7 +1,7 @@
 ---
 title: Application Information for Freshdesk by Freshworks INC
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Freshdesk
 
 Published by Freshworks INC
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/86ce8ab3-7472-47ef-9cf5-7225ff0c77d5" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381505" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Freshworks INC to Microsoft:
 |:----------------|:-------------|
 | App name | Freshdesk |
 | ID | 86ce8ab3-7472-47ef-9cf5-7225ff0c77d5 |
+| Capabilities | Bot |
 | Partner company name | Freshworks INC |
-| URL of partner website | [https://www.freshdesk.com] |
-| URL of Teams application info page | [https://support.freshdesk.com/] |
-| URL of Privacy Policy | [https://www.freshdesk.com/privacy/] |
-| URL of Terms of Use | [https://www.freshworks.com/terms/] |
+| URL of partner website | <https://www.freshdesk.com> |
+| URL of Privacy Policy | <https://www.freshdesk.com/privacy/> |
+| URL of Terms of Use | <https://www.freshworks.com/terms/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Freshworks INC to Microsoft:
 
 Information on Freshworks INC from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 18791
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/18791' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/18791.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/18791" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

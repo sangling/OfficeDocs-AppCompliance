@@ -1,7 +1,7 @@
 ---
 title: Application Information for Bugsnag by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas-csa
 # Bugsnag
 
 Published by Microsoft Teams Ecosystem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/a6fb754a-8cf4-4722-8935-6bf46eab2c61" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381581" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 |:----------------|:-------------|
 | App name | Bugsnag |
 | ID | a6fb754a-8cf4-4722-8935-6bf46eab2c61 |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
-| URL of partner website | [https://go.microsoft.com/fwlink/?LinkId&#x3D;730651] |
-| URL of Teams application info page | [https://go.microsoft.com/fwlink/?LinkId&#x3D;730651] |
-| URL of Privacy Policy | [https://docs.bugsnag.com/legal/privacy-policy/] |
-| URL of Terms of Use | [https://go.microsoft.com/fwlink/?LinkId&#x3D;730651] |
+| URL of partner website | <https://go.microsoft.com/fwlink/?LinkId&#x3D;730651> |
+| URL of Privacy Policy | <https://docs.bugsnag.com/legal/privacy-policy/> |
+| URL of Terms of Use | <https://go.microsoft.com/fwlink/?LinkId&#x3D;730651> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 
 Information on Microsoft Teams Ecosystem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 21677
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/21677' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/21677.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/21677" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
@@ -56,6 +59,6 @@ TODO: Show MCAS info for ID: 21677
 > [!NOTE]
 > This information is self-reported by Microsoft Teams Ecosystem and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
-<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/393/Bugsnag' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>
+<iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/393/Bugsnag' frameborder='no' style='width: 100%;'>
 
 ::: zone-end

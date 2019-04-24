@@ -1,7 +1,7 @@
 ---
 title: Application Information for Delighted by Delighted
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Delighted
 
 Published by Delighted
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/690b3dfd-bc07-4265-b2eb-edffc0d74fa4" target="_blank">View in Teams store</a>
 
 ::: zone pivot="general"
@@ -27,10 +30,11 @@ Information provided by Delighted to Microsoft:
 |:----------------|:-------------|
 | App name | Delighted |
 | ID | 690b3dfd-bc07-4265-b2eb-edffc0d74fa4 |
+| Capabilities | Connector |
 | Partner company name | Delighted |
-| URL of partner website | [https://delighted.com] |
-| URL of Privacy Policy | [https://delighted.com] |
-| URL of Terms of Use | [https://delighted.com] |
+| URL of partner website | <https://delighted.com> |
+| URL of Privacy Policy | <https://delighted.com> |
+| URL of Terms of Use | <https://delighted.com> |
 
 ::: zone-end
 
@@ -39,9 +43,9 @@ Information provided by Delighted to Microsoft:
 
 Information on Delighted from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 27164
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27164' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/27164.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27164" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

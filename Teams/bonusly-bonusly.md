@@ -1,7 +1,7 @@
 ---
 title: Application Information for Bonusly by Bonusly
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # Bonusly
 
 Published by Bonusly
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/c06753b3-85de-4054-9a99-dcd869dc0836" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381622" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Bonusly to Microsoft:
 |:----------------|:-------------|
 | App name | Bonusly |
 | ID | c06753b3-85de-4054-9a99-dcd869dc0836 |
+| Capabilities | Bot |
 | Partner company name | Bonusly |
-| URL of partner website | [https://bonus.ly/] |
-| URL of Teams application info page | [http://help.bonus.ly/] |
-| URL of Privacy Policy | [https://bonus.ly/privacy_policy] |
-| URL of Terms of Use | [https://bonus.ly/terms_of_service] |
+| URL of partner website | <https://bonus.ly/> |
+| URL of Privacy Policy | <https://bonus.ly/privacy_policy> |
+| URL of Terms of Use | <https://bonus.ly/terms_of_service> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Bonusly to Microsoft:
 
 Information on Bonusly from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 26579
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/26579' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/26579.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/26579" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

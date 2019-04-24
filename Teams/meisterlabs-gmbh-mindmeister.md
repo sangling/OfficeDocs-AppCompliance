@@ -1,7 +1,7 @@
 ---
 title: Application Information for MindMeister by MeisterLabs GmbH
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # MindMeister
 
 Published by MeisterLabs GmbH
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/b66766e5-61ce-4001-b2e6-6817710d6d02" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381116" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by MeisterLabs GmbH to Microsoft:
 |:----------------|:-------------|
 | App name | MindMeister |
 | ID | b66766e5-61ce-4001-b2e6-6817710d6d02 |
+| Capabilities | Tab |
 | Partner company name | MeisterLabs GmbH |
-| URL of partner website | [https://www.mindmeister.com] |
-| URL of Teams application info page | [https://support.mindmeister.com/] |
-| URL of Privacy Policy | [https://www.mindmeister.com/privacy] |
-| URL of Terms of Use | [https://www.mindmeister.com/legal] |
+| URL of partner website | <https://www.mindmeister.com> |
+| URL of Privacy Policy | <https://www.mindmeister.com/privacy> |
+| URL of Terms of Use | <https://www.mindmeister.com/legal> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by MeisterLabs GmbH to Microsoft:
 
 Information on MeisterLabs GmbH from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 20874
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20874' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/20874.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20874" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

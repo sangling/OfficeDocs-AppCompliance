@@ -1,7 +1,7 @@
 ---
 title: Application Information for New Relic by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # New Relic
 
 Published by Microsoft Teams Ecosystem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/081aafe0-930e-4fcd-9f17-c16f41eba4e0" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381573" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 |:----------------|:-------------|
 | App name | New Relic |
 | ID | 081aafe0-930e-4fcd-9f17-c16f41eba4e0 |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
-| URL of partner website | [https://newrelic.com/] |
-| URL of Teams application info page | [https://newrelic.com/] |
-| URL of Privacy Policy | [https://newrelic.com/privacy] |
-| URL of Terms of Use | [https://newrelic.com/] |
+| URL of partner website | <https://newrelic.com/> |
+| URL of Privacy Policy | <https://newrelic.com/privacy> |
+| URL of Terms of Use | <https://newrelic.com/> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 
 Information on Microsoft Teams Ecosystem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 10012
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10012' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/10012.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10012" target="_blank">View in a new tab</a>
 
 ::: zone-end
 

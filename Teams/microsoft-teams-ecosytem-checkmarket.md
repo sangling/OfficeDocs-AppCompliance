@@ -1,7 +1,7 @@
 ---
 title: Application Information for CheckMarket by Microsoft Teams Ecosytem
 ms.author: 
-ms.date: 04/17/2019
+ms.date: 04/24/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,9 @@ zone_pivot_groups: app-info-mcas
 # CheckMarket
 
 Published by Microsoft Teams Ecosytem
+
+$TODO - unattested image
+
 * <a href="https://teams.microsoft.com/l/app/58376fa4-7632-480c-8666-2bb8c87125d8" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381551" target="_blank">View in AppSource</a>
 
@@ -28,11 +31,11 @@ Information provided by Microsoft Teams Ecosytem to Microsoft:
 |:----------------|:-------------|
 | App name | CheckMarket |
 | ID | 58376fa4-7632-480c-8666-2bb8c87125d8 |
+| Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosytem |
-| URL of partner website | [https://go.microsoft.com/fwlink/?LinkId&#x3D;733619] |
-| URL of Teams application info page | [https://go.microsoft.com/fwlink/?LinkId&#x3D;733619] |
-| URL of Privacy Policy | [https://www.checkmarket.com/privacy-policy/] |
-| URL of Terms of Use | [https://go.microsoft.com/fwlink/?LinkId&#x3D;733619] |
+| URL of partner website | <https://go.microsoft.com/fwlink/?LinkId&#x3D;733619> |
+| URL of Privacy Policy | <https://www.checkmarket.com/privacy-policy/> |
+| URL of Terms of Use | <https://go.microsoft.com/fwlink/?LinkId&#x3D;733619> |
 
 ::: zone-end
 
@@ -41,9 +44,9 @@ Information provided by Microsoft Teams Ecosytem to Microsoft:
 
 Information on Microsoft Teams Ecosytem from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
 
-TODO: Show MCAS info for ID: 29481
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/29481' frameborder='no'  style='width: 100%;'>
 
-[!code-json[](./json/29481.json)]
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/29481" target="_blank">View in a new tab</a>
 
 ::: zone-end
 
