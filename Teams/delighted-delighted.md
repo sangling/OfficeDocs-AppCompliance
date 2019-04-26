@@ -1,7 +1,7 @@
 ---
 title: Application Information for Delighted by Delighted
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Delighted
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/690b3dfd-bc07-4265-b2eb-edffc0d74fa4" target="_blank">View in Teams store</a>
 

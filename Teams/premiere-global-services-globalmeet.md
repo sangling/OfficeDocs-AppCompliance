@@ -1,7 +1,7 @@
 ---
 title: Application Information for GlobalMeet by Premiere Global Services
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Premiere Global Services
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/9382c296-8948-483c-acb4-7953606decfd" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381784" target="_blank">View in AppSource</a>

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Wikipedia Search by Microsoft Corporation
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Microsoft Corporation
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/25492237-70ef-4c56-a36e-dd3405edd40e" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381597" target="_blank">View in AppSource</a>

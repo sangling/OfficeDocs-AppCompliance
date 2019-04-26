@@ -1,7 +1,7 @@
 ---
 title: Application Information for How-To by CoreView
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by CoreView
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/ca1f6710-15e1-4f63-b26e-5fffab8e3609" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381870" target="_blank">View in AppSource</a>

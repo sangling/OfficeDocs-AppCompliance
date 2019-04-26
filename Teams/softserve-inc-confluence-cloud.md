@@ -1,7 +1,7 @@
 ---
 title: Application Information for Confluence Cloud by SoftServe, Inc.
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by SoftServe, Inc.
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">View in Teams store</a>
 

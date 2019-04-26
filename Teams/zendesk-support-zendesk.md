@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zendesk by Zendesk Support
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Zendesk Support
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/d57df3b4-c70a-4e6b-9292-0539b54fce7b" target="_blank">View in Teams store</a>
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for StubHub by StubHub Inc.
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by StubHub Inc.
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/e33eb54a-e562-4cc5-891f-73c8087e47e1" target="_blank">View in Teams store</a>
 

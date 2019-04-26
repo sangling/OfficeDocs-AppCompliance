@@ -4,7 +4,7 @@
       {
         "files": [
           "**/*.md",
-          "**/**.yml"
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -35,7 +35,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/MicrosoftTeams/AppCompliance/breadcrumb/toc.json",
+      "breadcrumb_path": "/AppCompliance/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },

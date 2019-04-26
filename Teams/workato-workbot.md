@@ -1,7 +1,7 @@
 ---
 title: Application Information for Workbot by Workato
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Workato
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/785b5e1d-93e7-48a1-bdad-2d150392935d" target="_blank">View in Teams store</a>
 

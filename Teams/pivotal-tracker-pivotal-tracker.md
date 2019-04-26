@@ -1,7 +1,7 @@
 ---
 title: Application Information for Pivotal Tracker by Pivotal Tracker
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Pivotal Tracker
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/02d14659-a28b-4007-8544-b279c0d3628b" target="_blank">View in Teams store</a>
 

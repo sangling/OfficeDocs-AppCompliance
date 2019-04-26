@@ -1,7 +1,7 @@
 ---
 title: Application Information for GitHub by Tata Consultancy Services
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Tata Consultancy Services
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/37567f93-e2a7-4e2a-ad37-a9160fc62647" target="_blank">View in Teams store</a>
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Mindomo by Expert Software Applications Srl
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Expert Software Applications Srl
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/327e83d3-5ab9-490c-a5a0-70600f6e84ac" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381995" target="_blank">View in AppSource</a>

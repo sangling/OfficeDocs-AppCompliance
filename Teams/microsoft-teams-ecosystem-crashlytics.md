@@ -1,7 +1,7 @@
 ---
 title: Application Information for Crashlytics by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Microsoft Teams Ecosystem
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/d3193953-8111-4e58-a5a5-c1e717604f78" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381582" target="_blank">View in AppSource</a>

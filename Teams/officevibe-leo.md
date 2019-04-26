@@ -1,7 +1,7 @@
 ---
 title: Application Information for Leo by Officevibe
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Officevibe
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/9bc21e40-7947-4248-9966-f58c6e5c12d3" target="_blank">View in Teams store</a>
 

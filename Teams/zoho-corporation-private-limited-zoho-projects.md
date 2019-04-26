@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zoho Projects by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Zoho Corporation Private Limited
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/4a39aea9-8537-4c2f-b66d-ca364eb3b80d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381668" target="_blank">View in AppSource</a>

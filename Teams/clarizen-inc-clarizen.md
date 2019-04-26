@@ -1,7 +1,7 @@
 ---
 title: Application Information for Clarizen by Clarizen inc.
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Clarizen inc.
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/e5141304-052d-4678-aeb6-8e4110aedc21" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381748" target="_blank">View in AppSource</a>

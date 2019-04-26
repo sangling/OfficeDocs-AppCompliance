@@ -1,7 +1,7 @@
 ---
 title: Application Information for ApproveSimple by Capriza, Inc
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-csa
 
 Published by Capriza, Inc
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/c920bd4d-3e2a-449a-b30a-26d2a73fa875" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381812" target="_blank">View in AppSource</a>

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Intercom by Intercom
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Intercom
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/d3e6a505-8fbe-419c-ae64-00025cb33b10" target="_blank">View in Teams store</a>
 

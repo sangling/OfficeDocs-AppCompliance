@@ -1,7 +1,7 @@
 ---
 title: Application Information for Nimble Contacts by Nimble Inc.
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Nimble Inc.
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/efe3ee7c-3637-4064-b8a9-20fd3b34f36d" target="_blank">View in Teams store</a>
 

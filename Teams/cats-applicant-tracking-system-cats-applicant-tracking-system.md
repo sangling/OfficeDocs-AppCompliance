@@ -1,7 +1,7 @@
 ---
 title: Application Information for CATS Applicant Tracking System by CATS Applicant Tracking System
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by CATS Applicant Tracking System
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/e8e1d53c-6eea-489a-a066-9640dfe506e4" target="_blank">View in Teams store</a>
 

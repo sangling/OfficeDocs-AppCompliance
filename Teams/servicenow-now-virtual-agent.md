@@ -1,7 +1,7 @@
 ---
 title: Application Information for Now Virtual Agent by ServiceNow
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-data-mcas-csa
 
 Published by ServiceNow
 
-$TODO - attested image
+![Self-attestation logo](./images/attested.png)
 
 * <a href="https://teams.microsoft.com/l/app/49471a10-fdbc-4ffb-b0b8-944f3df985d9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381816" target="_blank">View in AppSource</a>

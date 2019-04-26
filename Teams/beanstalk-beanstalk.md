@@ -1,7 +1,7 @@
 ---
 title: Application Information for Beanstalk by Beanstalk
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Beanstalk
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/b79dae50-f89e-45ac-a634-a08e1b0af26d" target="_blank">View in Teams store</a>
 

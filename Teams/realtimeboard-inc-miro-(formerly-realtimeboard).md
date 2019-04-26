@@ -1,7 +1,7 @@
 ---
 title: Application Information for Miro (formerly RealtimeBoard) by Realtimeboard Inc.
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Realtimeboard Inc.
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/8216e453-3db5-48ee-a3d6-5122f505c8a3" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381906" target="_blank">View in AppSource</a>

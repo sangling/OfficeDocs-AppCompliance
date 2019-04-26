@@ -1,7 +1,7 @@
 ---
 title: Application Information for Constant Contact by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Microsoft Teams Ecosystem
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/60ef408c-afde-482e-a77b-b8439def9634" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381583" target="_blank">View in AppSource</a>

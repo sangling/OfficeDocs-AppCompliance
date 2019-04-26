@@ -1,7 +1,7 @@
 ---
 title: Application Information for Codeship by Codeship
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Codeship
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/5e33d3a7-0949-4548-9588-15f791e60b1c" target="_blank">View in Teams store</a>
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Travis CI by Travis CI
 ms.author: 
-ms.date: 04/24/2019
+ms.date: 04/26/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Travis CI
 
-$TODO - unattested image
+![Non-attested image](./images/unattested.png)
 
 * <a href="https://teams.microsoft.com/l/app/8e9edb9d-1008-40b0-84ac-c929b9622afc" target="_blank">View in Teams store</a>
 
