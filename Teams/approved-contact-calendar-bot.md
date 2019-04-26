@@ -35,16 +35,20 @@ Information provided by Approved Contact to Microsoft:
 | URL of Privacy Policy | <https://approvedcontact.com/Privacy%20Policy%20Bot.pdf> |
 | URL of Terms of Use | <https://approvedcontact.com/Terms%20of%20use.pdf> |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 
 ::: zone pivot="mcas"
 
-Information on Approved Contact from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20445' frameborder='no'  style='width: 100%;'>
 
-<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20445" target="_blank">View in a new tab</a>
+Open <a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/20445" target="_blank">in a new tab</a>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 

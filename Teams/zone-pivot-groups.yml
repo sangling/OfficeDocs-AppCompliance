@@ -9,7 +9,7 @@ groups:
     - id: data
       title: Data Handling
     - id: mcas
-      title: Microsoft Cloud App Security
+      title: Security and Compliance
     - id: csa
       title: CSA STAR
 - id: app-info-data-csa
@@ -31,7 +31,7 @@ groups:
     - id: data
       title: Data Handling
     - id: mcas
-      title: Microsoft Cloud App Security
+      title: Security and Compliance
 - id: app-info-mcas-csa
   title: App Information Categories
   prompt: "Choose the category of information you want to see for this app:"
@@ -39,7 +39,7 @@ groups:
     - id: general
       title: General
     - id: mcas
-      title: Microsoft Cloud App Security
+      title: Security and Compliance
     - id: csa
       title: CSA STAR
 - id: app-info-mcas
@@ -49,7 +49,7 @@ groups:
     - id: general
       title: General
     - id: mcas
-      title: Microsoft Cloud App Security
+      title: Security and Compliance
 - id: app-info-csa
   title: App Information Categories
   prompt: "Choose the category of information you want to see for this app:"

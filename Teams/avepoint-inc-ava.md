@@ -35,6 +35,8 @@ Information provided by AvePoint, Inc. to Microsoft:
 | URL of Privacy Policy | <https://www.avepoint.com/privacy-policy> |
 | URL of Terms of Use | <https://www.avepoint.com/company/terms-of-use> |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 
@@ -49,5 +51,7 @@ Information provided by AvePoint, Inc. to Microsoft:
 > This information is self-reported by AvePoint, Inc. and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
 <iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/27/AvePoint Online Services' frameborder='no' style='width: 100%;'>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end

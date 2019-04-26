@@ -35,16 +35,20 @@ Information provided by Decisions to Microsoft:
 | URL of Privacy Policy | <https://www.boarddecisions.com/privacy-statement.html> |
 | URL of Terms of Use | <https://www.boarddecisions.com/termsofservice.html> |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 
 ::: zone pivot="mcas"
 
-Information on Decisions from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14491' frameborder='no'  style='width: 100%;'>
 
-<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14491" target="_blank">View in a new tab</a>
+Open <a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14491" target="_blank">in a new tab</a>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 

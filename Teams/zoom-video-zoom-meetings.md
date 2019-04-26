@@ -35,16 +35,20 @@ Information provided by Zoom Video to Microsoft:
 | URL of Privacy Policy | <https://zoom.us/privacy> |
 | URL of Terms of Use | <https://zoom.us/terms> |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 
 ::: zone pivot="mcas"
 
-Information on Zoom Video from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14233' frameborder='no'  style='width: 100%;'>
 
-<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14233" target="_blank">View in a new tab</a>
+Open <a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/14233" target="_blank">in a new tab</a>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
@@ -58,5 +62,7 @@ Information on Zoom Video from the [Microsoft Cloud App Security](https://www.mi
 > This information is self-reported by Zoom Video and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
 <iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/353/Zoom Video Communications, Inc.' frameborder='no' style='width: 100%;'>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end

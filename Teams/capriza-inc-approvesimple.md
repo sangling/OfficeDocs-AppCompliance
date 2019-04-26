@@ -35,6 +35,8 @@ Information provided by Capriza, Inc to Microsoft:
 | URL of Privacy Policy | <https://www.capriza.com/privacy-policy/> |
 | URL of Terms of Use | <https://www.capriza.com/mla/> |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 
@@ -49,5 +51,7 @@ Information provided by Capriza, Inc to Microsoft:
 > This information is self-reported by Capriza, Inc and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
 <iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/49/Capriza' frameborder='no' style='width: 100%;'>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end

@@ -35,16 +35,20 @@ Information provided by Way We Do to Microsoft:
 | URL of Privacy Policy | <https://www.waywedo.com/privacy-policy/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
 | URL of Terms of Use | <https://www.waywedo.com/supply-agreement/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 
 ::: zone pivot="mcas"
 
-Information on Way We Do from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28865' frameborder='no'  style='width: 100%;'>
 
-<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28865" target="_blank">View in a new tab</a>
+Open <a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28865" target="_blank">in a new tab</a>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 

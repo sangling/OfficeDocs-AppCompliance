@@ -41,6 +41,8 @@ Information provided by ServiceNow to Microsoft:
 | Licensing contact | We encourage customers to reach out to their ServiceNow account team for more information. |
 | Licensing telephone number | We encourage customers to reach out to their ServiceNow account team for more information. |
 
+ [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 ::: zone pivot="data"
@@ -86,15 +88,19 @@ Describe any capabilities an organization's administrators have to control their
 
 >Refer to the [Cloud Security Alliance section](servicenow?pivots=csa) for details.
 
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
 ::: zone-end
 
 ::: zone pivot="mcas"
 
-Information on ServiceNow from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) cloud app catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10638' frameborder='no'  style='width: 100%;'>
 
-<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10638" target="_blank">View in a new tab</a>
+Open <a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/10638" target="_blank">in a new tab</a>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
@@ -108,5 +114,7 @@ Information on ServiceNow from the [Microsoft Cloud App Security](https://www.mi
 > This information is self-reported by ServiceNow and directly submitted to and retrieved from CSA STAR. Microsoft is not responsible for the accuracy of this information.
 
 <iframe height='798' scrolling='yes' title='Microsoft Teams App Information: CSA STAR' src='https://66eac45ba2a0418f9cfa290fcad4072b.codepen.website/#/details/281/ServiceNow' frameborder='no' style='width: 100%;'>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
