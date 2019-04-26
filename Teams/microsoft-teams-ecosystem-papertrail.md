@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Papertrail
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/9659a350-de07-468c-b4fb-a497fd59a99d" target="_blank">View in Teams store</a>

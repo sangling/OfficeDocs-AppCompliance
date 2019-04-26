@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Aha!
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/83071ebb-65ae-4049-ab0b-63407cf38303" target="_blank">View in Teams store</a>

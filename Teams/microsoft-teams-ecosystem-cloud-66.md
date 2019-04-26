@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Cloud 66
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/40e932e6-6c45-4084-9408-ead4311e9f9d" target="_blank">View in Teams store</a>

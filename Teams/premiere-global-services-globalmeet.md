@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # GlobalMeet
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/9382c296-8948-483c-acb4-7953606decfd" target="_blank">View in Teams store</a>

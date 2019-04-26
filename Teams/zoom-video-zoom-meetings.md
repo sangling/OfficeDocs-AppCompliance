@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # Zoom Meetings
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/8a1da635-5729-4456-b43a-56cbd795c3cf" target="_blank">View in Teams store</a>

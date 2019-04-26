@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Wikipedia Search
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/25492237-70ef-4c56-a36e-dd3405edd40e" target="_blank">View in Teams store</a>

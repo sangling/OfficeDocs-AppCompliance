@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Sociabble
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/afe63f50-aadc-4139-82dc-ba8da6270be9" target="_blank">View in Teams store</a>

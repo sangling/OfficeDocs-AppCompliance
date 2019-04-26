@@ -14,6 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # SignalFx
 
+
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/32a5e6c4-c9dd-4c12-89a8-34d2c496312f" target="_blank">View in Teams store</a>
