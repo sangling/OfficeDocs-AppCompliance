@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Way We Do
 
-Published by Way We Do
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/09c58a7e-cc9f-4e80-8455-d3f08a8d1a72" target="_blank">View in Teams store</a>

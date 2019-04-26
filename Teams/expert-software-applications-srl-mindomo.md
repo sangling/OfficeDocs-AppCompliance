@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Mindomo
 
-Published by Expert Software Applications Srl
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/327e83d3-5ab9-490c-a5a0-70600f6e84ac" target="_blank">View in Teams store</a>

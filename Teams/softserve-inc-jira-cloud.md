@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Jira Cloud
 
-Published by SoftServe, Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/aa183fd9-7104-46c4-af9f-9ee9b81d717e" target="_blank">View in Teams store</a>

@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # ProjectWise
 
-Published by Bentley Systems, Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/6d45a192-7d23-425a-b832-9281747d209e" target="_blank">View in Teams store</a>

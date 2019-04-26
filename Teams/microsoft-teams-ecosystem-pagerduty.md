@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # PagerDuty
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/577cd547-2f87-4176-b3b6-571a9010042d" target="_blank">View in Teams store</a>

@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # Wrike
 
-Published by Wrike Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/05274a45-7312-4c23-8f64-d57fe4a28d6d" target="_blank">View in Teams store</a>

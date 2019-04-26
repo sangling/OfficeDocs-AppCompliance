@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Lucidchart
 
-Published by Lucid Software
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/7f905be6-3226-4a4c-9c54-ab1edce3c99c" target="_blank">View in Teams store</a>

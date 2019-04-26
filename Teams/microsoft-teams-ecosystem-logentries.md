@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Logentries
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/2a863664-32cf-4690-b1a5-833d1a6912b2" target="_blank">View in Teams store</a>

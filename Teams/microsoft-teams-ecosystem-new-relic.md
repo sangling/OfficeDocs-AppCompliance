@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # New Relic
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/081aafe0-930e-4fcd-9f17-c16f41eba4e0" target="_blank">View in Teams store</a>

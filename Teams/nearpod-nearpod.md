@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Nearpod
 
-Published by Nearpod
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/627bdb14-de72-4b86-9f12-e8c2654259f4" target="_blank">View in Teams store</a>

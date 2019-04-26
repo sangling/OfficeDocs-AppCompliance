@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Evernote
 
-Published by Evernote
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/4e1f8576-93d5-4c24-abb5-f02782e00a4e" target="_blank">View in Teams store</a>

@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Flipgrid
 
-Published by Flipgrid, Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/aa5fe6c5-f91c-45ed-88de-640e235ad21b" target="_blank">View in Teams store</a>

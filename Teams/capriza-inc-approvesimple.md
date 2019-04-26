@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-csa
 ---
 # ApproveSimple
 
-Published by Capriza, Inc
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/c920bd4d-3e2a-449a-b30a-26d2a73fa875" target="_blank">View in Teams store</a>

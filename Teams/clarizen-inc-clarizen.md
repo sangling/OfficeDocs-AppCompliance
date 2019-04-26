@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # Clarizen
 
-Published by Clarizen inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/e5141304-052d-4678-aeb6-8e4110aedc21" target="_blank">View in Teams store</a>

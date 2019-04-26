@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Smartsheet
 
-Published by Smartsheet
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/f4d81e8e-4500-44c2-8328-9e06cbe037c5" target="_blank">View in Teams store</a>

@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Freshdesk
 
-Published by Freshworks INC
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/86ce8ab3-7472-47ef-9cf5-7225ff0c77d5" target="_blank">View in Teams store</a>

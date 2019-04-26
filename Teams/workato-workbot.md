@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Workbot
 
-Published by Workato
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/785b5e1d-93e7-48a1-bdad-2d150392935d" target="_blank">View in Teams store</a>

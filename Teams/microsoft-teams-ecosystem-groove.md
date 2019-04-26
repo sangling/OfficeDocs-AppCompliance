@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Groove
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/be5cbc21-7aa5-4ea8-8dc1-af356eff535e" target="_blank">View in Teams store</a>

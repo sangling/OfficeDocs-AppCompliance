@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Marvel
 
-Published by Marvel
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/2e7fb70e-f75d-4e85-997e-90ce89000f43" target="_blank">View in Teams store</a>

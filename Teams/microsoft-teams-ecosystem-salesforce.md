@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Salesforce
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/3b08b627-1279-4d42-9409-329d321fda94" target="_blank">View in Teams store</a>

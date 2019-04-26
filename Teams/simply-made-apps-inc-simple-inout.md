@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Simple In/Out
 
-Published by Simply Made Apps, Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/fcc850f5-c210-45a2-9576-4ca4e34b6d09" target="_blank">View in Teams store</a>

@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # MeisterTask
 
-Published by MeisterLabs GmbH
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/4d0f0848-3fdd-4046-9976-d5568c8b71f4" target="_blank">View in Teams store</a>

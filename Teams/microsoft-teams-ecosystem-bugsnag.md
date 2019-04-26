@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # Bugsnag
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/a6fb754a-8cf4-4722-8935-6bf46eab2c61" target="_blank">View in Teams store</a>

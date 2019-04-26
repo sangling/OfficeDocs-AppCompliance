@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # UserVoice
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/814aa004-1323-4784-8c96-14900ae55b24" target="_blank">View in Teams store</a>

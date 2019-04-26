@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Sentry
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/7f87ec3d-e837-4371-976d-cb824302849c" target="_blank">View in Teams store</a>

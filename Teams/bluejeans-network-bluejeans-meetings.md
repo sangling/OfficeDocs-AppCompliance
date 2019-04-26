@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # BlueJeans Meetings
 
-Published by BlueJeans Network
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/904dce15-56b4-475e-b352-676e748e5130" target="_blank">View in Teams store</a>

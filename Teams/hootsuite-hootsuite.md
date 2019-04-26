@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Hootsuite
 
-Published by Hootsuite
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/01b22ab6-c657-491c-97a0-d745bea11269" target="_blank">View in Teams store</a>

@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Confluence Cloud
 
-Published by SoftServe, Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/30bb610c-6321-40fe-a047-056e7d0dac96" target="_blank">View in Teams store</a>

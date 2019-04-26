@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Rollbar
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/0cfe9788-f809-4118-b171-5e56851a229f" target="_blank">View in Teams store</a>

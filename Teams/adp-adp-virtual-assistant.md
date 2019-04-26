@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # ADP Virtual Assistant
 
-Published by ADP
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/2405e655-76fa-4104-b4b8-e4fb525d0f1a" target="_blank">View in Teams store</a>

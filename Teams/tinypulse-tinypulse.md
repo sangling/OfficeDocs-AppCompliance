@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # TINYpulse
 
-Published by TINYpulse
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/1950b3dc-66fc-4c5f-bbbe-e411ad91a49f" target="_blank">View in Teams store</a>

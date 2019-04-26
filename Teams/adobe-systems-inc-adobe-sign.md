@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Adobe Sign
 
-Published by Adobe Systems Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/0f56a9d1-f502-40f9-a9e8-816d7adbb68b" target="_blank">View in Teams store</a>

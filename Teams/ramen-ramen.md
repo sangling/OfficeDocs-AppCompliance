@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Ramen
 
-Published by Ramen
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/378ada85-138b-4b07-920a-28d4e583ce3f" target="_blank">View in Teams store</a>

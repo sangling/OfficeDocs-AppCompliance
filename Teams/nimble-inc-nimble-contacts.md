@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Nimble Contacts
 
-Published by Nimble Inc.
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/efe3ee7c-3637-4064-b8a9-20fd3b34f36d" target="_blank">View in Teams store</a>

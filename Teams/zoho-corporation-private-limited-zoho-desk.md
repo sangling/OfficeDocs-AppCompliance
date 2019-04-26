@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Zoho Desk
 
-Published by Zoho Corporation Private Limited
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c" target="_blank">View in Teams store</a>

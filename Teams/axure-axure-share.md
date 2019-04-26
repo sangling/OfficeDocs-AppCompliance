@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Axure Share
 
-Published by Axure
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/40733ef5-45e1-44f7-8fae-4a4ac3b23d77" target="_blank">View in Teams store</a>

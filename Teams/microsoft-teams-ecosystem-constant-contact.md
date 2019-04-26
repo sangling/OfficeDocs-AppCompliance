@@ -14,8 +14,6 @@ zone_pivot_groups: app-info-mcas
 ---
 # Constant Contact
 
-Published by Microsoft Teams Ecosystem
-
 <img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/60ef408c-afde-482e-a77b-b8439def9634" target="_blank">View in Teams store</a>
