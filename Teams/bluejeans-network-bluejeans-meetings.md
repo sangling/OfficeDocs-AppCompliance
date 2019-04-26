@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by BlueJeans Network
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/904dce15-56b4-475e-b352-676e748e5130" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381866" target="_blank">View in AppSource</a>

@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Zoom Video
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/8a1da635-5729-4456-b43a-56cbd795c3cf" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381441" target="_blank">View in AppSource</a>

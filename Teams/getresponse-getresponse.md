@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by GetResponse
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/dc14a953-c1c4-425d-85b8-88b77fbe4c15" target="_blank">View in Teams store</a>
 

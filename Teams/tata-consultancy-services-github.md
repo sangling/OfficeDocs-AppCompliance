@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Tata Consultancy Services
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/37567f93-e2a7-4e2a-ad37-a9160fc62647" target="_blank">View in Teams store</a>
 

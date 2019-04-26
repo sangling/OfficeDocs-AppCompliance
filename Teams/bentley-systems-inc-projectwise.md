@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Bentley Systems, Inc.
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/6d45a192-7d23-425a-b832-9281747d209e" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381873" target="_blank">View in AppSource</a>

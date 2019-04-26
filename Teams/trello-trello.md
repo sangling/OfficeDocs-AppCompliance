@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by Trello
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/49e6f432-d79c-49e8-94f7-89b94f3672fd" target="_blank">View in Teams store</a>
 

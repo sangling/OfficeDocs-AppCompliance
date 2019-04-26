@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Expert Software Applications Srl
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/327e83d3-5ab9-490c-a5a0-70600f6e84ac" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381995" target="_blank">View in AppSource</a>

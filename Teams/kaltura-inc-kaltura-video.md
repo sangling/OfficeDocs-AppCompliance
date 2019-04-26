@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Kaltura, Inc.
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/c4512b86-0efa-4451-a9c3-b4d1a2b0795e" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381962" target="_blank">View in AppSource</a>

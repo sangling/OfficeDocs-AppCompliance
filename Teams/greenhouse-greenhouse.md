@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Greenhouse
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/da4f4b4c-c03b-4918-8afd-ab55045e31e2" target="_blank">View in Teams store</a>
 

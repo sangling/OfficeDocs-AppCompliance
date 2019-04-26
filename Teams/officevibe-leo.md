@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Officevibe
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/9bc21e40-7947-4248-9966-f58c6e5c12d3" target="_blank">View in Teams store</a>
 

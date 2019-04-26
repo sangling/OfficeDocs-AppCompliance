@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Beanstalk
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/b79dae50-f89e-45ac-a634-a08e1b0af26d" target="_blank">View in Teams store</a>
 

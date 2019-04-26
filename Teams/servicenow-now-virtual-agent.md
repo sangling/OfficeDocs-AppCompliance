@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-data-mcas-csa
 
 Published by ServiceNow
 
-![Self-attestation logo](./images/attested.png)
+<img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/49471a10-fdbc-4ffb-b0b8-944f3df985d9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381816" target="_blank">View in AppSource</a>

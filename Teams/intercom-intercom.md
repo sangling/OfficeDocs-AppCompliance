@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Intercom
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/d3e6a505-8fbe-419c-ae64-00025cb33b10" target="_blank">View in Teams store</a>
 

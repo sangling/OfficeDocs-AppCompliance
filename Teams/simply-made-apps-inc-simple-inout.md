@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Simply Made Apps, Inc.
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/fcc850f5-c210-45a2-9576-4ca4e34b6d09" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104382084" target="_blank">View in AppSource</a>

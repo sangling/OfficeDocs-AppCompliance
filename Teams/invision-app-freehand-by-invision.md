@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas-csa
 
 Published by InVision app
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/67cf2c5a-db0e-4256-a423-14010cbeafdd" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381362" target="_blank">View in AppSource</a>

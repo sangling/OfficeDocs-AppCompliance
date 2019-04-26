@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Microsoft Teams Ecosystem
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/fe4a1e80-afc7-48c2-b7dd-b61e5fe09c3c" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381576" target="_blank">View in AppSource</a>

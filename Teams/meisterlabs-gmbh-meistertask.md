@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by MeisterLabs GmbH
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/4d0f0848-3fdd-4046-9976-d5568c8b71f4" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381349" target="_blank">View in AppSource</a>

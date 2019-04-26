@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Pivotal Tracker
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/02d14659-a28b-4007-8544-b279c0d3628b" target="_blank">View in Teams store</a>
 

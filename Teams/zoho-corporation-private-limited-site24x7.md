@@ -16,7 +16,7 @@ zone_pivot_groups: app-info-mcas
 
 Published by Zoho Corporation Private Limited
 
-![Non-attested image](./images/unattested.png)
+<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/9ce8b7b7-4435-4edb-9c6f-205a9efe944d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381289" target="_blank">View in AppSource</a>
