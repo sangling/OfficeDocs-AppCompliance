@@ -12,6 +12,7 @@
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content",
+        "Tutorial": "Content",
         "ZonePivotGroups": "Toc"
       },
       "build_entry_point": "docs",
