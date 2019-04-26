@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # CircleCI
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/f5b5eda1-e8f8-40a6-81b3-3b1708425d89" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381588" target="_blank">View in AppSource</a>

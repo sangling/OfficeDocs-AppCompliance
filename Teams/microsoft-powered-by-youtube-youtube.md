@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # YouTube
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/com.microsoft.teamspace.tab.youtube" target="_blank">View in Teams store</a>
 

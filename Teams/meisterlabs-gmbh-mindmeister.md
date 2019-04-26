@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # MindMeister
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/b66766e5-61ce-4001-b2e6-6817710d6d02" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381116" target="_blank">View in AppSource</a>

@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Stack Overflow
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/2e3e1d4c-e082-43fa-963a-7c15e9a23659" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381571" target="_blank">View in AppSource</a>

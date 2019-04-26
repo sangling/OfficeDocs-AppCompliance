@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Google Analytics
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/4fcf98ff-e696-44e3-b4df-a6aff076ee1b" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381577" target="_blank">View in AppSource</a>

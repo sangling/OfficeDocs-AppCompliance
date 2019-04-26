@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Droplr
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/3763b495-45c3-4fd4-a64c-944aa8aabf53" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381718" target="_blank">View in AppSource</a>

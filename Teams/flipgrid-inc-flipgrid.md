@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Flipgrid
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/aa5fe6c5-f91c-45ed-88de-640e235ad21b" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381048" target="_blank">View in AppSource</a>

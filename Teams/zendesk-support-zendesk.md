@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas-csa
 ---
 # Zendesk
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/d57df3b4-c70a-4e6b-9292-0539b54fce7b" target="_blank">View in Teams store</a>
 

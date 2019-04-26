@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Sentry
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/7f87ec3d-e837-4371-976d-cb824302849c" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381566" target="_blank">View in AppSource</a>

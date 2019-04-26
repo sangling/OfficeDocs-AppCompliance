@@ -14,7 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Pickit Images
 
-<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/012be6ac-6f34-4ffa-9344-b857f7bc74e1" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381391" target="_blank">View in AppSource</a>
