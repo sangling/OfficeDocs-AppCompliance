@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-csa
 ---
 # MURAL
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/c738b607-88dd-4f16-aefe-6a824c65d25d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381626" target="_blank">View in AppSource</a>

@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # GoSquared
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/843d0408-1c8c-4c81-ba4f-15235e71c231" target="_blank">View in Teams store</a>
 

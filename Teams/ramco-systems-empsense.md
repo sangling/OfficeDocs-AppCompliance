@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Empsense
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/d7c11157-7535-44c4-af2d-48d286a311ed" target="_blank">View in Teams store</a>
 

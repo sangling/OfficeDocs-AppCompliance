@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Workfront
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/27f76e1a-da1e-4a46-b3fc-4b6799fa716f" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381886" target="_blank">View in AppSource</a>

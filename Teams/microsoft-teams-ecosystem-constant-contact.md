@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Constant Contact
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/60ef408c-afde-482e-a77b-b8439def9634" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381583" target="_blank">View in AppSource</a>

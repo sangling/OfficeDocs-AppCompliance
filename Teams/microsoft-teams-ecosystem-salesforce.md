@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Salesforce
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/3b08b627-1279-4d42-9409-329d321fda94" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381580" target="_blank">View in AppSource</a>

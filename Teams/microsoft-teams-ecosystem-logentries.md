@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # Logentries
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/2a863664-32cf-4690-b1a5-833d1a6912b2" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381601" target="_blank">View in AppSource</a>

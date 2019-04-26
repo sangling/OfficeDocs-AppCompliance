@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # CheckMarket
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/58376fa4-7632-480c-8666-2bb8c87125d8" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381551" target="_blank">View in AppSource</a>

@@ -14,8 +14,7 @@ zone_pivot_groups: app-info-mcas
 ---
 # GitHub Enterprise
 
-
-<img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<br/><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
 
 * <a href="https://teams.microsoft.com/l/app/ca319335-400e-43c1-bca4-b6c745ce3093" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381552" target="_blank">View in AppSource</a>
