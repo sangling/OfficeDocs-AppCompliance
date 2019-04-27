@@ -43,9 +43,9 @@ Information provided by Travis CI to Microsoft:
 
 Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
 
-<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27579' frameborder='no'  style='width: 100%;'>
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27579' frameborder='no'  style='width: 100%;'></iframe>
 
-Open <a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27579" target="_blank">in a new tab</a>
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/27579" target="_blank">View in a new tab</a>
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
