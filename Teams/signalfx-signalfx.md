@@ -1,7 +1,7 @@
 ---
 title: Application Information for SignalFx by SignalFx
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by SignalFx to Microsoft:
 | Capabilities | Connector |
 | Partner company name | SignalFx |
 | URL of partner website | <https://docs.signalfx.com/en/latest/admin-guide/integrate-notifications.html#office365> |
+| URL of Teams application info page | <https://docs.signalfx.com/en/latest/admin-guide/integrate-notifications.html#office365> |
 | URL of Privacy Policy | <https://signalfx.com/privacy-policy/> |
 | URL of Terms of Use | <https://signalfx.com/terms-and-conditions/> |
 

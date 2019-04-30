@@ -1,7 +1,7 @@
 ---
 title: Application Information for Clarizen by Clarizen inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Clarizen inc. to Microsoft:
 | Capabilities | Bot |
 | Partner company name | Clarizen inc. |
 | URL of partner website | <https://www.clarizen.com> |
+| URL of Teams application info page | <https://success.clarizen.com/hc/en-us/sections/115000201553-Clarizen-Bot> |
 | URL of Privacy Policy | <https://www.clarizen.com/privacy-policy/> |
 | URL of Terms of Use | <https://app2.clarizen.com/Clarizen/Pages/Service/Terms_Conditions.htm> |
 

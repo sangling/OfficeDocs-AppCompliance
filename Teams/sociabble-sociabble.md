@@ -1,7 +1,7 @@
 ---
 title: Application Information for Sociabble by Sociabble
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Sociabble to Microsoft:
 | Capabilities | Tab, Connector |
 | Partner company name | Sociabble |
 | URL of partner website | <https://www.sociabble.com> |
+| URL of Teams application info page | <https://www.sociabble.com/contact-us/> |
 | URL of Privacy Policy | <https://www.sociabble.com/privacy-policy/> |
 | URL of Terms of Use | <https://www.sociabble.com/terms-conditions/> |
 

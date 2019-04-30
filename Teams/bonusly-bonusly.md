@@ -1,7 +1,7 @@
 ---
 title: Application Information for Bonusly by Bonusly
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -10,7 +10,7 @@ localization_priority: Normal
 MS.collection: Teams_ITAdmin_PracticalGuidance
 appliesto:
 - Microsoft Teams
-zone_pivot_groups: app-info-mcas
+zone_pivot_groups: app-info-data-mcas
 ---
 # Bonusly
 
@@ -31,14 +31,65 @@ Information provided by Bonusly to Microsoft:
 | ID | c06753b3-85de-4054-9a99-dcd869dc0836 |
 | Capabilities | Bot |
 | Partner company name | Bonusly |
+| Physical address | 1928 Pearl Street, Boulder, CO |
+| Contact information for this app | support@bonus.ly |
 | URL of partner website | <https://bonus.ly/> |
+| URL of Teams application info page | <http://help.bonus.ly/> |
 | URL of Privacy Policy | <https://bonus.ly/privacy_policy> |
 | URL of Terms of Use | <https://bonus.ly/terms_of_service> |
+| Main telephone number | 442 222-8325 |
+| Description of available licensing options, if any | N/A |
+| Licensing contact | N/A |
+| Licensing telephone number | N/A |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="data"
+
+### How the app handles data
+
+Information provided by Bonusly on how this app collects and stores organizational data, and what control an organization has over this data.
+
+#### Data access using Microsoft Graph
+
+List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+
+>| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
+>| N/A | N/A | N/A | N/A |
+
+#### Data access via bots
+
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+
+
+>| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| Yes | We access user emails to find the associated users in our system. | User emails are stored in our system, but they are not entered into the system from Teams. |
+
+#### Telemetry data
+
+Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
+
+>Yes, user emails appear in our logs when interacting with our Teams bot. Log data is stored for one year and then removed.
+
+#### Storing and securing organizational data
+
+Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
+
+>Application data is encrypted at rest, transmitted over TLS 1.2, and is accessible only by developers. Automated database snapshots are taken every 6 hours. Only a whitelisted set of IP addresses may communicate with the database servers.
+
+#### Organizational controls for data stored by partner
+
+Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
+
+>Customers can request to have data deleted at any time.
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
+::: zone-end
 
 ::: zone pivot="mcas"
 

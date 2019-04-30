@@ -1,7 +1,7 @@
 ---
 title: Application Information for Kaltura Video by Kaltura, Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Kaltura, Inc. to Microsoft:
 | Capabilities | Tab, Connector |
 | Partner company name | Kaltura, Inc. |
 | URL of partner website | <https://corp.kaltura.com> |
+| URL of Teams application info page | <https://corp.kaltura.com/company/customer-care/> |
 | URL of Privacy Policy | <https://corp.kaltura.com/privacy-policy> |
 | URL of Terms of Use | <https://site.kaltura.com/Kaltura-Hosted-Services-Agreement.html> |
 

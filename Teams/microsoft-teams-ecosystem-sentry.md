@@ -1,7 +1,7 @@
 ---
 title: Application Information for Sentry by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 | Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
 | URL of partner website | <https://sentry.io/welcome/> |
+| URL of Teams application info page | <https://sentry.io/welcome/> |
 | URL of Privacy Policy | <https://sentry.io/privacy/> |
 | URL of Terms of Use | <https://sentry.io/terms/> |
 

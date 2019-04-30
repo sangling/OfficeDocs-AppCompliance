@@ -1,7 +1,7 @@
 ---
 title: Application Information for Kronos by Kronos, Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -10,7 +10,7 @@ localization_priority: Normal
 MS.collection: Teams_ITAdmin_PracticalGuidance
 appliesto:
 - Microsoft Teams
-zone_pivot_groups: app-info-mcas
+zone_pivot_groups: app-info-data-mcas
 ---
 # Kronos
 
@@ -31,14 +31,66 @@ Information provided by Kronos, Inc. to Microsoft:
 | ID | 1e582d3c-1393-4186-ab5b-eac92d3b0cd0 |
 | Capabilities | Bot, Tab |
 | Partner company name | Kronos, Inc. |
+| Physical address | 900 Chelmsford St Lowell, MA 01851 |
+| Contact information for this app | pr@kronos.com |
 | URL of partner website | <https://www.kronos.com/> |
+| URL of Teams application info page | <https://www.kronos.com/contact/en-us/form> |
 | URL of Privacy Policy | <https://www.kronos.com/privacy-policy> |
 | URL of Terms of Use | <https://www.kronos.com/terms-of-use> |
+| Main telephone number | (978) 250 9800 |
+| Description of available licensing options, if any | Free license but hosting charge may apply if using Kronos hosting option |
+| Licensing contact | Customers should be using the marketsource for more information.  https://marketplace.kronos.com/apps/221384/microsoft-teams#!overview |
+| Licensing telephone number | N/A |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="data"
+
+### How the app handles data
+
+Information provided by Kronos, Inc. on how this app collects and stores organizational data, and what control an organization has over this data.
+
+#### Data access using Microsoft Graph
+
+List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+
+>| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
+>| N/A | N/A | N/A | N/A |
+
+#### Data access via bots
+
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+
+>Workforce Management data is accessible via API to Kronos
+
+>| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>| We only allow personal chat for bot |  |  |
+
+#### Telemetry data
+
+Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
+
+>This is stored only on the tenant management system separate from Teams
+
+#### Storing and securing organizational data
+
+Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
+
+>Application data is stored on Kronos data center and all data is encrypted in transit and at rest.  Only users with proper access can view data and Kronos has various profiles within the application to manage authorization on who can access the data and what information they can access.
+
+#### Organizational controls for data stored by partner
+
+Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
+
+>Customer can modify data only using Kronos application
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
+::: zone-end
 
 ::: zone pivot="mcas"
 

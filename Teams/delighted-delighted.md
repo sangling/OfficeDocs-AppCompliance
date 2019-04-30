@@ -1,7 +1,7 @@
 ---
 title: Application Information for Delighted by Delighted
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Miro (formerly RealtimeBoard) by Realtimeboard Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Realtimeboard Inc. to Microsoft:
 | Capabilities | Bot, Tab |
 | Partner company name | Realtimeboard Inc. |
 | URL of partner website | <https://miro.com> |
+| URL of Teams application info page | <https://help.miro.com/hc/en-us/articles/360017572514-Microsoft-Teams> |
 | URL of Privacy Policy | <https://miro.com/legal/privacy-policy/> |
 | URL of Terms of Use | <https://miro.com/legal/terms-of-service/> |
 

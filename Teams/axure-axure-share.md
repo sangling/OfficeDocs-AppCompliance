@@ -1,7 +1,7 @@
 ---
 title: Application Information for Axure Share by Axure
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Axure to Microsoft:
 | Capabilities | Connector |
 | Partner company name | Axure |
 | URL of partner website | <https://www.axure.com/> |
+| URL of Teams application info page | <https://www.axure.com/support/reference/microsoft-teams> |
 | URL of Privacy Policy | <https://www.axure.com/privacy> |
 | URL of Terms of Use | <https://www.axure.com/terms> |
 

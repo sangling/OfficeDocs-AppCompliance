@@ -1,7 +1,7 @@
 ---
 title: Application Information for Datadog by Datadog
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Datadog to Microsoft:
 | Capabilities | Connector |
 | Partner company name | Datadog |
 | URL of partner website | <https://www.datadoghq.com/> |
+| URL of Teams application info page | <https://www.datadoghq.com/support/> |
 | URL of Privacy Policy | <https://www.datadoghq.com/legal/privacy/> |
 | URL of Terms of Use | <https://www.datadoghq.com/legal/> |
 

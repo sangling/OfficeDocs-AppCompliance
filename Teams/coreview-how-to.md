@@ -1,7 +1,7 @@
 ---
 title: Application Information for How-To by CoreView
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by CoreView to Microsoft:
 | Capabilities | Tab |
 | Partner company name | CoreView |
 | URL of partner website | <https://www.coreview.com> |
+| URL of Teams application info page | <https://training.lightup365.com/TeamsAppSupport-F.html> |
 | URL of Privacy Policy | <https://www.coreview.com/privacy-policy> |
 | URL of Terms of Use | <https://www.coreview.com/terms-conditions> |
 

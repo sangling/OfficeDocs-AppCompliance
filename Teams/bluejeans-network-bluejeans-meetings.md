@@ -1,7 +1,7 @@
 ---
 title: Application Information for BlueJeans Meetings by BlueJeans Network
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by BlueJeans Network to Microsoft:
 | Capabilities | Bot |
 | Partner company name | BlueJeans Network |
 | URL of partner website | <https://www.bluejeans.com> |
+| URL of Teams application info page | <https://support.bluejeans.com/knowledge/bot-ms-teams> |
 | URL of Privacy Policy | <https://www.bluejeans.com/privacy-policy> |
 | URL of Terms of Use | <https://www.bluejeans.com/terms-of-service> |
 

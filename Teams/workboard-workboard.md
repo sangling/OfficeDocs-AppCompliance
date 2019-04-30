@@ -1,7 +1,7 @@
 ---
 title: Application Information for Workboard by Workboard
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Workboard to Microsoft:
 | Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Workboard |
 | URL of partner website | <https://www.workboard.com> |
+| URL of Teams application info page | <https://workboard.zendesk.com/hc/en-us> |
 | URL of Privacy Policy | <https://www.workboard.com/license/privacy-policy.html> |
 | URL of Terms of Use | <https://www.workboard.com/license/terms_of_use_v1.html> |
 

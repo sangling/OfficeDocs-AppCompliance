@@ -1,7 +1,7 @@
 ---
 title: Application Information for MindMeister by MeisterLabs GmbH
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by MeisterLabs GmbH to Microsoft:
 | Capabilities | Tab |
 | Partner company name | MeisterLabs GmbH |
 | URL of partner website | <https://www.mindmeister.com> |
+| URL of Teams application info page | <https://support.mindmeister.com/> |
 | URL of Privacy Policy | <https://www.mindmeister.com/privacy> |
 | URL of Terms of Use | <https://www.mindmeister.com/legal> |
 

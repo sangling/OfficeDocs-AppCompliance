@@ -1,7 +1,7 @@
 ---
 title: Application Information for Decisions by Decisions
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Decisions to Microsoft:
 | Capabilities | Tab |
 | Partner company name | Decisions |
 | URL of partner website | <https://www.boarddecisions.com> |
+| URL of Teams application info page | <https://support.meetingdecisions.com/> |
 | URL of Privacy Policy | <https://www.boarddecisions.com/privacy-statement.html> |
 | URL of Terms of Use | <https://www.boarddecisions.com/termsofservice.html> |
 

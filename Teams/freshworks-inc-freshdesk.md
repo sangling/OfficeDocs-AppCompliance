@@ -1,7 +1,7 @@
 ---
 title: Application Information for Freshdesk by Freshworks INC
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Freshworks INC to Microsoft:
 | Capabilities | Bot |
 | Partner company name | Freshworks INC |
 | URL of partner website | <https://www.freshdesk.com> |
+| URL of Teams application info page | <https://support.freshdesk.com/> |
 | URL of Privacy Policy | <https://www.freshdesk.com/privacy/> |
 | URL of Terms of Use | <https://www.freshworks.com/terms/> |
 

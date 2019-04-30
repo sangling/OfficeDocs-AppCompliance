@@ -1,7 +1,7 @@
 ---
 title: Application Information for Way We Do by Way We Do
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Way We Do to Microsoft:
 | Capabilities | Tab |
 | Partner company name | Way We Do |
 | URL of partner website | <https://www.waywedo.com/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
+| URL of Teams application info page | <http://support.waywedo.com/> |
 | URL of Privacy Policy | <https://www.waywedo.com/privacy-policy/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
 | URL of Terms of Use | <https://www.waywedo.com/supply-agreement/?noredirect&amp;utm_source&#x3D;wwd_inproduct&amp;utm_medium&#x3D;organic_inproduct&amp;utm_campaign&#x3D;msft_teams> |
 

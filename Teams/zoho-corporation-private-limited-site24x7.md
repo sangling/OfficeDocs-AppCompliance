@@ -1,7 +1,7 @@
 ---
 title: Application Information for Site24x7 by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Zoho Corporation Private Limited to Microsoft:
 | Capabilities | Bot, Tab, Connector |
 | Partner company name | Zoho Corporation Private Limited |
 | URL of partner website | <https://www.site24x7.com/features.html> |
+| URL of Teams application info page | <https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html> |
 | URL of Privacy Policy | <https://www.site24x7.com/privacypolicy.html> |
 | URL of Terms of Use | <https://www.site24x7.com/terms.html> |
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for OpsGenie by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 | Capabilities | Connector |
 | Partner company name | Microsoft Teams Ecosystem |
 | URL of partner website | <https://go.microsoft.com/fwlink/?LinkId&#x3D;724008> |
+| URL of Teams application info page | <https://go.microsoft.com/fwlink/?LinkId&#x3D;724008> |
 | URL of Privacy Policy | <https://www.opsgenie.com/privacy> |
 | URL of Terms of Use | <https://go.microsoft.com/fwlink/?LinkId&#x3D;724008> |
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Now Virtual Agent by ServiceNow
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,6 +15,7 @@ zone_pivot_groups: app-info-data-mcas-csa
 # Now Virtual Agent
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: —</p>
 
 * <a href="https://teams.microsoft.com/l/app/49471a10-fdbc-4ffb-b0b8-944f3df985d9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381816" target="_blank">View in AppSource</a>
@@ -34,6 +35,7 @@ Information provided by ServiceNow to Microsoft:
 | Physical address | 2225 Lawson Lane, Santa Clara, CA 95054 |
 | Contact information for this app | https://www.servicenow.com/contact-us-request-info.html |
 | URL of partner website | <https://www.servicenow.com/> |
+| URL of Teams application info page | <https://docs.servicenow.com/bundle/london-servicenow-platform/page/administer/virtual-agent/task/install-va-integrations.html#install-va-integrations> |
 | URL of Privacy Policy | <https://www.servicenow.com/service-privacy.html> |
 | URL of Terms of Use | <https://www.servicenow.com/terms-of-use.html> |
 | Main telephone number | +1 (408) 501?8550 |
@@ -58,7 +60,6 @@ List any Microsoft Graph permissions this app requires, and for each, whether th
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
 >| User.Read | Delegated | When ServiceNow admin installs the integration with MS Teams, the admin needs to log into their MS Teams account. We read the domain from the email address (not full email address). | The domain is stored in our data center for future message routing purposes. |
->| User.ReadBasic | Delegated | Blah blah blah | Blah blah blah |
 
 #### Data access via bots
 

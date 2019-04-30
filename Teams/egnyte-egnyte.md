@@ -1,7 +1,7 @@
 ---
 title: Application Information for Egnyte by Egnyte
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Egnyte to Microsoft:
 | Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Egnyte |
 | URL of partner website | <https://www.egnyte.com> |
+| URL of Teams application info page | <https://helpdesk.egnyte.com/hc/en-us/articles/115000999611> |
 | URL of Privacy Policy | <https://www.egnyte.com/corp/privacy_policy.html> |
 | URL of Terms of Use | <https://www.egnyte.com/corp/terms_of_service.html> |
 

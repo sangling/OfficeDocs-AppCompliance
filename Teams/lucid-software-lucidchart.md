@@ -1,7 +1,7 @@
 ---
 title: Application Information for Lucidchart by Lucid Software
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Lucid Software to Microsoft:
 | Capabilities | Tab |
 | Partner company name | Lucid Software |
 | URL of partner website | <https://www.lucidchart.com> |
+| URL of Teams application info page | <https://lucidchart.zendesk.com/> |
 | URL of Privacy Policy | <https://www.lucidchart.com/pages/privacy> |
 | URL of Terms of Use | <https://www.lucidchart.com/pages/tos> |
 

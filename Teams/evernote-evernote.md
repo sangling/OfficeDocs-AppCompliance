@@ -1,7 +1,7 @@
 ---
 title: Application Information for Evernote by Evernote
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -10,7 +10,7 @@ localization_priority: Normal
 MS.collection: Teams_ITAdmin_PracticalGuidance
 appliesto:
 - Microsoft Teams
-zone_pivot_groups: app-info-mcas
+zone_pivot_groups: app-info-data-mcas
 ---
 # Evernote
 
@@ -31,14 +31,75 @@ Information provided by Evernote to Microsoft:
 | ID | 4e1f8576-93d5-4c24-abb5-f02782e00a4e |
 | Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Evernote |
+| Physical address | 305 Walnut Street, Redwood City, CA 94063 |
+| Contact information for this app | help.evernote.com |
 | URL of partner website | <https://evernote.com/> |
+| URL of Teams application info page | <https://help.evernote.com/hc/en-us/articles/360001244667> |
 | URL of Privacy Policy | <https://evernote.com/privacy> |
 | URL of Terms of Use | <https://evernote.com/legal/terms-of-service> |
+| Main telephone number | N/A |
+| Description of available licensing options, if any | Evernote Basic, Premium and Business https://evernote.com/basic ; https://evernote.com/premium ; https://evernote.com/business |
+| Licensing contact | help.evernote.com |
+| Licensing telephone number | N/A |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="data"
+
+### How the app handles data
+
+Information provided by Evernote on how this app collects and stores organizational data, and what control an organization has over this data.
+
+#### Data access using Microsoft Graph
+
+List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+
+>| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
+>| identity |  | Link MS teams user with Evernote user information for authentication purposes | Tenant ID, User ID |
+>| messageTeamMembers |  | An ability to send an IM message to the user of the integration (e.g. welcome message; not currently utilized) |  |
+
+#### Data access via bots
+
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+
+
+>| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>|  |  |  |
+
+#### Telemetry data
+
+Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
+
+>
+
+#### Storing and securing organizational data
+
+Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
+
+>Customer data that we store in GCP will be protected using Google�s built-in encryption-at-rest features. 
+User generated content access is 
+- restricted based on business need 
+- requires customer approval, and internal manager approval prior to accessing user generated content 
+Access is granted following least privilege principles: role based access control in the service admin tool and access to systems within production environment is based on business needs. Both 2FA and IP whitelisting are used for customer service team members.
+
+#### Organizational controls for data stored by partner
+
+Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
+
+>The admin console is where account admins can manage Evernote Business account information, users, and content. Some of things account admins can do in admin console:
+- View account summary
+- Add and manage users
+- View and manage spaces, notebooks, notes, tags, and trash
+- View and manage account billing, security, and integrations
+https://help.evernote.com/hc/en-us/articles/209005497-Evernote-Business-Admin-Console-Overview
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
+::: zone-end
 
 ::: zone pivot="mcas"
 

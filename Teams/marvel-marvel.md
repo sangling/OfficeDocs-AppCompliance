@@ -1,7 +1,7 @@
 ---
 title: Application Information for Marvel by Marvel
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Marvel to Microsoft:
 | Capabilities | Tab |
 | Partner company name | Marvel |
 | URL of partner website | <https://marvelapp.com> |
+| URL of Teams application info page | <https://help.marvelapp.com/hc/en-us/articles/360000052778> |
 | URL of Privacy Policy | <https://marvelapp.com/privacy/> |
 | URL of Terms of Use | <https://marvelapp.com/terms/> |
 

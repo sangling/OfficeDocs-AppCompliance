@@ -1,7 +1,7 @@
 ---
 title: Application Information for Calendar BOT by Approved Contact
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Approved Contact to Microsoft:
 | Capabilities | Bot, Tab |
 | Partner company name | Approved Contact |
 | URL of partner website | <https://approvedcontact.com> |
+| URL of Teams application info page | <https://approvedcontact.com/Help.aspx> |
 | URL of Privacy Policy | <https://approvedcontact.com/Privacy%20Policy%20Bot.pdf> |
 | URL of Terms of Use | <https://approvedcontact.com/Terms%20of%20use.pdf> |
 

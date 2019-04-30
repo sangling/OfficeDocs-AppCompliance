@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zoom Meetings by Zoom Video
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Zoom Video to Microsoft:
 | Capabilities | Bot |
 | Partner company name | Zoom Video |
 | URL of partner website | <https://zoom.us> |
+| URL of Teams application info page | <https://zoomappdocs.docs.stoplight.io/microsoft-teams-zoom-bot> |
 | URL of Privacy Policy | <https://zoom.us/privacy> |
 | URL of Terms of Use | <https://zoom.us/terms> |
 

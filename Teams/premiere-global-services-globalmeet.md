@@ -1,7 +1,7 @@
 ---
 title: Application Information for GlobalMeet by Premiere Global Services
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Premiere Global Services to Microsoft:
 | Capabilities | Bot, Messaging Extension |
 | Partner company name | Premiere Global Services |
 | URL of partner website | <https://www.pgi.com> |
+| URL of Teams application info page | <https://www.mymeetinghelp.com/Home/GlobalMeet/GlobalMeet/Tools_and_Settings/Third-Party_Integrations/GlobalMeet_for_Microsoft_Teams> |
 | URL of Privacy Policy | <https://www.pgi.com/privacy-policy/> |
 | URL of Terms of Use | <https://pgi.com/terms-of-service/> |
 

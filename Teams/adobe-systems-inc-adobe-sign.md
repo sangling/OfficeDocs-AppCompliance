@@ -1,7 +1,7 @@
 ---
 title: Application Information for Adobe Sign by Adobe Systems Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Adobe Systems Inc. to Microsoft:
 | Capabilities | Bot, Tab |
 | Partner company name | Adobe Systems Inc. |
 | URL of partner website | <https://acrobat.adobe.com/us/en/sign.html> |
+| URL of Teams application info page | <https://helpx.adobe.com/sign/help/adobesign_microsoft_teams.html> |
 | URL of Privacy Policy | <https://www.adobe.com/privacy/policy.html> |
 | URL of Terms of Use | <https://www.adobe.com/legal/licenses-terms.html> |
 

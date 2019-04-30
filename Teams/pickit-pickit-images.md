@@ -1,7 +1,7 @@
 ---
 title: Application Information for Pickit Images by Pickit
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Pickit to Microsoft:
 | Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Pickit |
 | URL of partner website | <https://pickit.com/> |
+| URL of Teams application info page | <https://pickit.zendesk.com/hc/en-us> |
 | URL of Privacy Policy | <https://pickit.com/privacy-policy> |
 | URL of Terms of Use | <https://www.pickit.com/tos> |
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for ProjectWise by Bentley Systems, Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Bentley Systems, Inc. to Microsoft:
 | Capabilities | Tab, Connector |
 | Partner company name | Bentley Systems, Inc. |
 | URL of partner website | <https://www.bentley.com/en/products/brands/projectwise> |
+| URL of Teams application info page | <https://communities.bentley.com/products/betas/projectwise-project-and-microsoft-teams-integration/> |
 | URL of Privacy Policy | <https://www.bentley.com/en/privacy-policy> |
 | URL of Terms of Use | <https://www.bentley.com/en/terms-of-use-and-select-online-agreement> |
 

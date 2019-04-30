@@ -1,7 +1,7 @@
 ---
 title: Application Information for Flipgrid by Flipgrid, Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Flipgrid, Inc. to Microsoft:
 | Capabilities | Tab, Connector |
 | Partner company name | Flipgrid, Inc. |
 | URL of partner website | <https://flipgrid.com/> |
+| URL of Teams application info page | <https://support.flipgrid.com/> |
 | URL of Privacy Policy | <https://legal.flipgrid.com/privacy.html> |
 | URL of Terms of Use | <https://legal.flipgrid.com/terms-of-use.html> |
 

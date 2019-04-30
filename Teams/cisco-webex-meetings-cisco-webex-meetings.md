@@ -1,7 +1,7 @@
 ---
 title: Application Information for Cisco Webex Meetings by Cisco Webex Meetings
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Cisco Webex Meetings to Microsoft:
 | Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Cisco Webex Meetings |
 | URL of partner website | <https://www.webex.com> |
+| URL of Teams application info page | <https://collaborationhelp.cisco.com/> |
 | URL of Privacy Policy | <https://www.cisco.com/c/en/us/about/legal/privacy.html> |
 | URL of Terms of Use | <https://www.cisco.com/c/en/us/products/universal-cloud-agreement.html> |
 

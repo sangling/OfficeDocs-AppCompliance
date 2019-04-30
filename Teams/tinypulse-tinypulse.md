@@ -1,7 +1,7 @@
 ---
 title: Application Information for TINYpulse by TINYpulse
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by TINYpulse to Microsoft:
 | Capabilities | Bot |
 | Partner company name | TINYpulse |
 | URL of partner website | <https://www.tinypulse.com/> |
+| URL of Teams application info page | <https://docs.tinypulse.com/hc/en-us/articles/360005035374> |
 | URL of Privacy Policy | <https://www.tinypulse.com/privacy-policy> |
 | URL of Terms of Use | <https://www.tinypulse.com/terms-of-use> |
 

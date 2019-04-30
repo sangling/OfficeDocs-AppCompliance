@@ -1,7 +1,7 @@
 ---
 title: Application Information for Wikipedia Search by Microsoft Corporation
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Microsoft Corporation to Microsoft:
 | Capabilities | Bot, Messaging Extension |
 | Partner company name | Microsoft Corporation |
 | URL of partner website | <https://www.microsoft.com/en-us/> |
+| URL of Teams application info page | <https://answers.microsoft.com/en-us/msoffice/forum?> |
 | URL of Privacy Policy | <https://privacy.microsoft.com/en-us/privacystatement> |
 | URL of Terms of Use | <https://www.microsoft.com/en-us/servicesagreement> |
 

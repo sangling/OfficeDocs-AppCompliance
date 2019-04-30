@@ -1,7 +1,7 @@
 ---
 title: Application Information for Freehand by InVision by InVision app
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by InVision app to Microsoft:
 | Capabilities | Tab |
 | Partner company name | InVision app |
 | URL of partner website | <https://www.invisionapp.com/> |
+| URL of Teams application info page | <https://support.invisionapp.com/hc/en-us/articles/115003814746-Freehand-Projects> |
 | URL of Privacy Policy | <https://www.invisionapp.com/privacy> |
 | URL of Terms of Use | <https://www.invisionapp.com/terms> |
 

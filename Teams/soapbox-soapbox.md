@@ -1,7 +1,7 @@
 ---
 title: Application Information for SoapBox by SoapBox
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by SoapBox to Microsoft:
 | Capabilities | Bot, Tab |
 | Partner company name | SoapBox |
 | URL of partner website | <https://soapboxhq.com> |
+| URL of Teams application info page | <https://msteams.services.soapboxhq.com/faqs> |
 | URL of Privacy Policy | <https://soapboxhq.com/privacy-policy/microsoft-teams> |
 | URL of Terms of Use | <https://soapboxhq.com/terms-of-service> |
 

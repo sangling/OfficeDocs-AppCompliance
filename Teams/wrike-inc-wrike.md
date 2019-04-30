@@ -1,7 +1,7 @@
 ---
 title: Application Information for Wrike by Wrike Inc.
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -10,7 +10,7 @@ localization_priority: Normal
 MS.collection: Teams_ITAdmin_PracticalGuidance
 appliesto:
 - Microsoft Teams
-zone_pivot_groups: app-info-mcas-csa
+zone_pivot_groups: app-info-data-mcas-csa
 ---
 # Wrike
 
@@ -31,14 +31,68 @@ Information provided by Wrike Inc. to Microsoft:
 | ID | 05274a45-7312-4c23-8f64-d57fe4a28d6d |
 | Capabilities | Bot, Tab, Messaging Extension, Connector |
 | Partner company name | Wrike Inc. |
+| Physical address | 70 N 2nd Street San Jose, CA 95113 |
+| Contact information for this app | N/A |
 | URL of partner website | <https://www.wrike.com> |
+| URL of Teams application info page | <https://help.wrike.com/hc/en-us/articles/115001825869-Microsoft-Teams> |
 | URL of Privacy Policy | <https://www.wrike.com/security/privacy/> |
 | URL of Terms of Use | <https://www.wrike.com/security/terms/> |
+| Main telephone number | 18777797453 |
+| Description of available licensing options, if any | Free, Pro, Business, Enterprise, Wrike for Marketers. Licensing plans described here: https://www.wrike.com/price/ Wrike for Teams does&#x27;n require a paid plan to be used |
+| Licensing contact | N/A |
+| Licensing telephone number | 1 877 779 7453 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
 ::: zone-end
 
+::: zone pivot="data"
+
+### How the app handles data
+
+Information provided by Wrike Inc. on how this app collects and stores organizational data, and what control an organization has over this data.
+
+#### Data access using Microsoft Graph
+
+List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+
+>| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
+>| N/A | N/A | N/A | N/A |
+
+#### Data access via bots
+
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+
+>Our app creates data only on our side
+
+>| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:--------------------------------|:---------------------|:--------------------------|
+>|  |  |  |
+
+#### Telemetry data
+
+Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
+
+>1. We&#x27;re logging invalid attempts to login. Such information is archived in 1 month.
+2. Looks like that&#x27;s the only case when we&#x27;re logging anything similar to EUII/OII.
+
+#### Storing and securing organizational data
+
+Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
+
+>Data is partially incrypted (we encrypt information like labels/titles/descriptions/usernmes/etc. Channel ids/user ids/account ids/etc are not encrupted). - Access by Wrike Support team: in case of troubleshooting or verifying the issue requires Support to access to your account; that access can only be granted by you only. This is enabled by a system generated security token that you provide out of band to our Support team, allowing Support to delve deeper into solving your problem for a limited amount of time. This systemic approach ensures additional confidentiality for your data stored in Wrike.
+- Access by Wrike Operational team: Wrike Operational team is responsible to maintenance and support production environment including monitoring, patching and updating, delivery the new builds to production, etc. This access in this case is strictly prohibited from both procedural and technical aspects, and strong authorisation controls including but not limited VPN, 2FA and personal certificate are in place, moreover it is monitored in details using HIDS (Host-based Intrusion Detection System) and reviewed by Wrike Operational Security team. Moreover, in case of Amazon KMS (Wrike Lock functionality), the customer data is stored encrypted in Wrike database, so the data is not directly or indirectly available by Wrike Operational team, because the data can be decrypted using access to customer�s Amazon KMS, that is managed and controlled by the customer only.
+
+#### Organizational controls for data stored by partner
+
+Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
+
+>Our customers' administrators could control all data in their accounts, including deletion/retention/auditing/etc. 
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
+::: zone-end
 
 ::: zone pivot="mcas"
 

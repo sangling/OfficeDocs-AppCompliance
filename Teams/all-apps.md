@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams App Security and Compliance - All Apps
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -22,13 +22,13 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Adobe Sign](~/adobe-systems-inc-adobe-sign.md) | Adobe Systems Inc. | No | Yes | No | Bot, Tab |
 | [Aha!](~/microsoft-teams-ecosytem-aha!.md) | Microsoft Teams Ecosytem | No | Yes | No | Connector |
 | [Airbrake](~/microsoft-teams-ecosystem-airbrake.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
-| [ApproveSimple](~/capriza-inc-approvesimple.md) | Capriza, Inc | No | No | Yes | Bot |
+| [ApproveSimple](~/capriza-inc-approvesimple.md) | Capriza, Inc | Yes | No | Yes | Bot |
 | [Asana](~/asana-inc-asana.md) | Asana, Inc. | No | Yes | No | Tab, Connector |
 | [Axure Share](~/axure-axure-share.md) | Axure | No | Yes | No | Connector |
 | [Beanstalk](~/beanstalk-beanstalk.md) | Beanstalk | No | Yes | No | Connector |
 | [Bitbucket](~/softserve-inc-bitbucket.md) | SoftServe, Inc. | No | Yes | No | Bot, Tab, Messaging Extension, Connector |
 | [BlueJeans Meetings](~/bluejeans-network-bluejeans-meetings.md) | BlueJeans Network | No | Yes | No | Bot |
-| [Bonusly](~/bonusly-bonusly.md) | Bonusly | No | Yes | No | Bot |
+| [Bonusly](~/bonusly-bonusly.md) | Bonusly | Yes | Yes | No | Bot |
 | [Buddy](~/buddy-buddy.md) | Buddy | No | Yes | No | Connector |
 | [Bugsnag](~/microsoft-teams-ecosystem-bugsnag.md) | Microsoft Teams Ecosystem | No | Yes | Yes | Connector |
 | [CATS Applicant Tracking System](~/cats-applicant-tracking-system-cats-applicant-tracking-system.md) | CATS Applicant Tracking System | No | Yes | No | Connector |
@@ -45,10 +45,10 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Datadog](~/datadog-datadog.md) | Datadog | No | Yes | Yes | Connector |
 | [Decisions](~/decisions-decisions.md) | Decisions | No | Yes | No | Tab |
 | [Delighted](~/delighted-delighted.md) | Delighted | No | Yes | No | Connector |
-| [Droplr](~/droplr-droplr.md) | Droplr | No | Yes | No | Bot, Tab, Messaging Extension |
+| [Droplr](~/droplr-droplr.md) | Droplr | Yes | Yes | No | Bot, Tab, Messaging Extension |
 | [Egnyte](~/egnyte-egnyte.md) | Egnyte | No | Yes | Yes | Bot, Tab, Messaging Extension |
 | [Empsense](~/ramco-systems-empsense.md) | Ramco Systems | No | Yes | No | Tab |
-| [Evernote](~/evernote-evernote.md) | Evernote | No | Yes | No | Bot, Tab, Messaging Extension |
+| [Evernote](~/evernote-evernote.md) | Evernote | Yes | Yes | No | Bot, Tab, Messaging Extension |
 | [Flipgrid](~/flipgrid-inc-flipgrid.md) | Flipgrid, Inc. | No | Yes | No | Tab, Connector |
 | [Freehand by InVision](~/invision-app-freehand-by-invision.md) | InVision app | No | Yes | Yes | Tab |
 | [Freshdesk](~/freshworks-inc-freshdesk.md) | Freshworks INC | No | Yes | No | Bot |
@@ -67,15 +67,15 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Intercom](~/intercom-intercom.md) | Intercom | No | Yes | No | Tab, Connector |
 | [Jira Cloud](~/softserve-inc-jira-cloud.md) | SoftServe, Inc. | No | Yes | No | Bot, Tab, Messaging Extension, Connector |
 | [Kaltura Video](~/kaltura-inc-kaltura-video.md) | Kaltura, Inc. | No | Yes | No | Tab, Connector |
-| [Kronos](~/kronos-inc-kronos.md) | Kronos, Inc. | No | Yes | No | Bot, Tab |
+| [Kronos](~/kronos-inc-kronos.md) | Kronos, Inc. | Yes | Yes | No | Bot, Tab |
 | [Leo](~/officevibe-leo.md) | Officevibe | No | Yes | No | Bot |
 | [Librato](~/microsoft-teams-ecosystem-librato.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [Logentries](~/microsoft-teams-ecosystem-logentries.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [Lucidchart](~/lucid-software-lucidchart.md) | Lucid Software | No | Yes | No | Tab |
-| [MURAL](~/mural-mural.md) | MURAL | No | No | Yes | Bot, Tab, Messaging Extension |
+| [MURAL](~/mural-mural.md) | MURAL | Yes | No | Yes | Bot, Tab, Messaging Extension |
 | [MailChimp](~/microsoft-teams-ecosystem-mailchimp.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [Marvel](~/marvel-marvel.md) | Marvel | No | Yes | No | Tab |
-| [MeisterTask](~/meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | No | Yes | No | Tab |
+| [MeisterTask](~/meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | Yes | Yes | No | Tab |
 | [MindMeister](~/meisterlabs-gmbh-mindmeister.md) | MeisterLabs GmbH | No | Yes | No | Tab |
 | [Mindomo](~/expert-software-applications-srl-mindomo.md) | Expert Software Applications Srl | No | Yes | No | Tab |
 | [Miro (formerly RealtimeBoard)](~/realtimeboard-inc-miro-(formerly-realtimeboard).md) | Realtimeboard Inc. | No | Yes | Yes | Bot, Tab |
@@ -104,7 +104,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Sociabble](~/sociabble-sociabble.md) | Sociabble | No | Yes | No | Tab, Connector |
 | [Stack Overflow](~/microsoft-teams-ecosystem-stack-overflow.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [StubHub](~/stubhub-inc-stubhub.md) | StubHub Inc. | No | Yes | No | Bot |
-| [SurveyMonkey](~/surveymonkey-surveymonkey.md) | SurveyMonkey | No | Yes | No | Bot, Tab, Connector |
+| [SurveyMonkey](~/surveymonkey-surveymonkey.md) | SurveyMonkey | Yes | Yes | No | Bot, Tab, Connector |
 | [TINYpulse](~/tinypulse-tinypulse.md) | TINYpulse | No | Yes | No | Bot |
 | [Travis CI](~/travis-ci-travis-ci.md) | Travis CI | No | Yes | No | Connector |
 | [Trello](~/trello-trello.md) | Trello | No | Yes | Yes | Bot, Tab, Messaging Extension, Connector |
@@ -116,11 +116,11 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Workboard](~/workboard-workboard.md) | Workboard | No | Yes | No | Bot, Tab, Messaging Extension |
 | [Workbot](~/workato-workbot.md) | Workato | No | Yes | No | Bot, Tab |
 | [Workfront](~/workfront-workfront.md) | Workfront | No | Yes | No | Bot, Messaging Extension |
-| [Wrike](~/wrike-inc-wrike.md) | Wrike Inc. | No | Yes | Yes | Bot, Tab, Messaging Extension, Connector |
+| [Wrike](~/wrike-inc-wrike.md) | Wrike Inc. | Yes | Yes | Yes | Bot, Tab, Messaging Extension, Connector |
 | [XP-Dev](~/microsoft-teams-ecosystem-xp-dev.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [YouTube](~/microsoft-powered-by-youtube-youtube.md) | Microsoft powered by YouTube | No | Yes | No | Bot, Tab, Messaging Extension |
 | [Zendesk](~/zendesk-support-zendesk.md) | Zendesk Support | No | Yes | Yes | Tab, Connector |
 | [Zenefits](~/zenefits-zenefits.md) | Zenefits | No | Yes | No | Bot, Tab |
-| [Zoho Desk](~/zoho-corporation-private-limited-zoho-desk.md) | Zoho Corporation Private Limited | No | Yes | No | Tab, Connector |
+| [Zoho Desk](~/zoho-corporation-private-limited-zoho-desk.md) | Zoho Corporation Private Limited | Yes | Yes | No | Tab, Connector |
 | [Zoho Projects](~/zoho-corporation-private-limited-zoho-projects.md) | Zoho Corporation Private Limited | No | Yes | No | Bot, Tab, Messaging Extension |
 | [Zoom Meetings](~/zoom-video-zoom-meetings.md) | Zoom Video | No | Yes | Yes | Bot |

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Smartsheet by Smartsheet
 ms.author: 
-ms.date: 04/26/2019
+ms.date: 04/30/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,6 +32,7 @@ Information provided by Smartsheet to Microsoft:
 | Capabilities | Bot, Tab |
 | Partner company name | Smartsheet |
 | URL of partner website | <https://help.smartsheet.com/articles/2476201> |
+| URL of Teams application info page | <https://help.smartsheet.com/articles/2476201-interact-with-smartsheet-items-in-microsoft-teams> |
 | URL of Privacy Policy | <https://www.smartsheet.com/privacy> |
 | URL of Terms of Use | <https://www.smartsheet.com/user-agreement> |
 
