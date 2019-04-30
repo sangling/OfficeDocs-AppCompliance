@@ -14,7 +14,8 @@ zone_pivot_groups: app-info-data-mcas
 ---
 # Zoho Desk
 
-<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: —</p>
 
 * <a href="https://teams.microsoft.com/l/app/091ec948-c0ee-4d56-aa9e-51c3d8316a9c" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104382044" target="_blank">View in AppSource</a>

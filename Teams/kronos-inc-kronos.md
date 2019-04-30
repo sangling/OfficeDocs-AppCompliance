@@ -14,7 +14,8 @@ zone_pivot_groups: app-info-data-mcas
 ---
 # Kronos
 
-<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: —</p>
 
 * <a href="https://teams.microsoft.com/l/app/1e582d3c-1393-4186-ab5b-eac92d3b0cd0" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381629" target="_blank">View in AppSource</a>

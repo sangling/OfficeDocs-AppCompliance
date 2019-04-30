@@ -14,7 +14,8 @@ zone_pivot_groups: app-info-data-mcas
 ---
 # SurveyMonkey
 
-<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: —</p>
 
 * <a href="https://teams.microsoft.com/l/app/0fd925a0-357f-4d25-8456-b3022aaa41a9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381088" target="_blank">View in AppSource</a>

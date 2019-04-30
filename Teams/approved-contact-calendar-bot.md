@@ -14,7 +14,8 @@ zone_pivot_groups: app-info-mcas
 ---
 # Calendar BOT
 
-<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: April 11, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/f02fddc9-159a-4d58-9800-d94c4f64bfe8" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381271" target="_blank">View in AppSource</a>

@@ -14,7 +14,8 @@ zone_pivot_groups: app-info-mcas
 ---
 # Adobe Sign
 
-<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: —</p>
 
 * <a href="https://teams.microsoft.com/l/app/0f56a9d1-f502-40f9-a9e8-816d7adbb68b" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381233" target="_blank">View in AppSource</a>

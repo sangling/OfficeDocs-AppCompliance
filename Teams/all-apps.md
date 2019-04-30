@@ -98,7 +98,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Sentry](~/microsoft-teams-ecosystem-sentry.md) | Microsoft Teams Ecosystem | No | Yes | No | Connector |
 | [SignalFx](~/signalfx-signalfx.md) | SignalFx | No | Yes | No | Connector |
 | [Simple In/Out](~/simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | No | Yes | No | Connector |
-| [Site24x7](~/zoho-corporation-private-limited-site24x7.md) | Zoho Corporation Private Limited | No | Yes | No | Bot, Tab, Connector |
+| [Site24x7](~/zoho-corporation-private-limited-site24x7.md) | Zoho Corporation Private Limited | Yes | Yes | No | Bot, Tab, Connector |
 | [Smartsheet](~/smartsheet-smartsheet.md) | Smartsheet | No | Yes | No | Bot, Tab |
 | [SoapBox](~/soapbox-soapbox.md) | SoapBox | No | Yes | No | Bot, Tab |
 | [Sociabble](~/sociabble-sociabble.md) | Sociabble | No | Yes | No | Tab, Connector |
