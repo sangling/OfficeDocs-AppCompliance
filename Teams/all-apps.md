@@ -20,10 +20,10 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [ADP Virtual Assistant](~/adp-adp-virtual-assistant.md) | ADP |  | No | Yes | No | Bot, Tab |
 | [AVA](~/avepoint-inc-ava.md) | AvePoint, Inc. |  | No | No | Yes | Bot, Tab |
 | [Adobe Sign](~/adobe-systems-inc-adobe-sign.md) | Adobe Systems Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Bot, Tab |
-| [Aha!](~/microsoft-teams-ecosytem-aha!.md) | Microsoft Teams Ecosytem |  | No | Yes | No | Connector |
+| [Aha!](~/microsoft-teams-ecosystem-aha!.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Airbrake](~/microsoft-teams-ecosystem-airbrake.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [ApproveSimple](~/capriza-inc-approvesimple.md) | Capriza, Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | Yes | Bot |
-| [Asana](~/asana-inc-asana.md) | Asana, Inc. |  | No | Yes | No | Tab, Connector |
+| [Asana](~/asana-inc-asana.md) | Asana, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Tab, Connector |
 | [Assistant @ Zoom.ai](~/zoomai-inc-assistant-@-zoomai.md) | Zoom.ai Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [AtBot](~/h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot |
 | [Axure Share](~/axure-axure-share.md) | Axure |  | No | Yes | No | Connector |
@@ -35,7 +35,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Bugsnag](~/microsoft-teams-ecosystem-bugsnag.md) | Microsoft Teams Ecosystem |  | No | Yes | Yes | Connector |
 | [CATS Applicant Tracking System](~/cats-applicant-tracking-system-cats-applicant-tracking-system.md) | CATS Applicant Tracking System |  | No | Yes | No | Connector |
 | [Calendar BOT](~/approved-contact-calendar-bot.md) | Approved Contact | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Bot, Tab |
-| [CheckMarket](~/microsoft-teams-ecosytem-checkmarket.md) | Microsoft Teams Ecosytem |  | No | Yes | No | Connector |
+| [CheckMarket](~/microsoft-teams-ecosystem-checkmarket.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [CircleCI](~/microsoft-teams-ecosystem-circleci.md) | Microsoft Teams Ecosystem |  | No | Yes | Yes | Connector |
 | [Cisco Webex Meetings](~/cisco-webex-meetings-cisco-webex-meetings.md) | Cisco Webex Meetings |  | No | Yes | No | Bot, Tab, Messaging Extension |
 | [Clarizen](~/clarizen-inc-clarizen.md) | Clarizen inc. |  | No | Yes | Yes | Bot |
@@ -63,7 +63,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Greenhouse](~/greenhouse-greenhouse.md) | Greenhouse |  | No | Yes | No | Connector |
 | [Groove](~/microsoft-teams-ecosystem-groove.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Help Scout](~/microsoft-teams-ecosystem-help-scout.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
-| [Heroku](~/microsoft-teams-ecosytem-heroku.md) | Microsoft Teams Ecosytem |  | No | Yes | No | Connector |
+| [Heroku](~/microsoft-teams-ecosystem-heroku.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Hootsuite](~/hootsuite-hootsuite.md) | Hootsuite |  | No | Yes | No | Tab |
 | [How-To](~/coreview-how-to.md) | CoreView |  | No | Yes | No | Tab |
 | [Intercom](~/intercom-intercom.md) | Intercom |  | No | Yes | No | Tab, Connector |
@@ -71,6 +71,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Kaltura Video](~/kaltura-inc-kaltura-video.md) | Kaltura, Inc. |  | No | Yes | No | Tab, Connector |
 | [Karma](~/sliday-ltd-karma.md) | Sliday LTD | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [Kronos](~/kronos-inc-kronos.md) | Kronos, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab |
+| [LawToolBox](~/lawtoolboxcominc-lawtoolbox.md) | LawToolBox.com,Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab, Messaging Extension |
 | [Leo](~/officevibe-leo.md) | Officevibe |  | No | Yes | No | Bot |
 | [Librato](~/microsoft-teams-ecosystem-librato.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Logentries](~/microsoft-teams-ecosystem-logentries.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
@@ -96,6 +97,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Polly](~/polly-polly.md) | Polly | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [Priority Matrix](~/appfluence-inc-priority-matrix.md) | Appfluence Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab, Messaging Extension, Connector |
 | [ProjectWise](~/bentley-systems-inc-projectwise.md) | Bentley Systems, Inc. |  | No | Yes | No | Tab, Connector |
+| [Qubie](~/qubie-qubie.md) | Qubie | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | No | No | Bot, Tab |
 | [RSpace](~/researchspace-rspace.md) | ResearchSpace | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Tab |
 | [Ramen](~/ramen-ramen.md) | Ramen |  | No | Yes | No | Connector |
 | [Raygun](~/microsoft-teams-ecosystem-raygun.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |

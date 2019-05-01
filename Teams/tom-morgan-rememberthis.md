@@ -38,7 +38,7 @@ Information provided by Tom Morgan to Microsoft:
 | URL of Teams application info page | <https://www.thoughtstuff.co.uk/free-products/rememberthis> |
 | URL of Privacy Policy | <https://www.thoughtstuff.co.uk/rememberthis/privacy-policy> |
 | URL of Terms of Use | <https://www.thoughtstuff.co.uk/rememberthis/terms-of-service> |
-| Main telephone number | 447812986876 |
+| Main telephone number | (44)7812 986876 |
 | Description of available licensing options, if any | Free |
 | Licensing contact | N/A |
 | Licensing telephone number | N/A |
@@ -55,11 +55,7 @@ Information provided by Tom Morgan on how this app collects and stores organizat
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

@@ -14,7 +14,8 @@ zone_pivot_groups: app-info-mcas
 ---
 # Asana
 
-<p></p><img alt="Non-attested image" src="./images/unattested.png" width="650"/>
+<p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
+<p>Last updated by the developer on: —</p>
 
 * <a href="https://teams.microsoft.com/l/app/f0e33e18-08fc-4511-a2a7-c6bdff367263" target="_blank">View in Teams store</a>
 

@@ -38,10 +38,10 @@ Information provided by Talla Inc. to Microsoft:
 | URL of Teams application info page | <http://help.talla.com/> |
 | URL of Privacy Policy | <https://www.talla.com/privacy> |
 | URL of Terms of Use | <https://www.talla.com/terms> |
-| Main telephone number | (617)517-4156 |
+| Main telephone number | 1 (617) 517-4156 |
 | Description of available licensing options, if any | We offer monthly and annual subscriptions for our products.  More information can be found at https://talla.com/pricing/. |
 | Licensing contact | services@talla.com |
-| Licensing telephone number | (617)517-4156 |
+| Licensing telephone number | 1 (617) 517-4156 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,7 @@ Information provided by Talla Inc. on how this app collects and stores organizat
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

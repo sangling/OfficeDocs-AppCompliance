@@ -38,10 +38,10 @@ Information provided by MeisterLabs GmbH to Microsoft:
 | URL of Teams application info page | <https://support.meistertask.com/> |
 | URL of Privacy Policy | <https://www.meistertask.com/privacy> |
 | URL of Terms of Use | <https://www.meistertask.com/legal> |
-| Main telephone number | 49 89 1213 5359 |
+| Main telephone number | (49) 89 1213 5359 |
 | Description of available licensing options, if any | free basic plan as well as pro, business and enterprise plans with monthly or annual payments |
 | Licensing contact | support@meistertask.com |
-| Licensing telephone number | 49 89 1213 5359 |
+| Licensing telephone number | (49) 89 1213 5359 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,11 @@ Information provided by MeisterLabs GmbH on how this app collects and stores org
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| Sign in and read user profile | Delegated | For authentication and sign-up | id, displayName, mail |
+>| User.Read | Delegated | For authentication and sign-up | id, displayName, mail |
 
 #### Data access via bots
 

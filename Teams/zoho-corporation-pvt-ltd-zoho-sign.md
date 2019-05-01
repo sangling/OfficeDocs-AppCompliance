@@ -32,7 +32,7 @@ Information provided by Zoho Corporation Pvt Ltd to Microsoft:
 | ID | 7a22873b-81e6-48ed-aee3-6f0e7dd5a104 |
 | Capabilities | Tab |
 | Partner company name | Zoho Corporation Pvt Ltd |
-| Physical address | ZOHO Corporation Pvt. Ltd., 4141 Hacienda Dr,, Pleasanton,CA 94588 |
+| Physical address | ZOHO Corporation Pvt. Ltd. 4141 Hacienda Dr, Pleasanton,CA 94588 |
 | Contact information for this app | support@zohosign.com |
 | URL of partner website | <https://zoho.com> |
 | URL of Teams application info page | <https://www.zoho.com/sign/help/teams-extension.html> |
@@ -41,7 +41,7 @@ Information provided by Zoho Corporation Pvt Ltd to Microsoft:
 | Main telephone number | N/A |
 | Description of available licensing options, if any | Zoho Sign users who have an account with Zoho Sign can access the app in Teams, irrespective of their license. They will have access to the features in ZohoSign which corresponds to their license. |
 | Licensing contact | support@zohosign.com |
-| Licensing telephone number | 1 877 834 4428 |
+| Licensing telephone number | 1 (877) 834 4428 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,7 +55,7 @@ Information provided by Zoho Corporation Pvt Ltd on how this app collects and st
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|

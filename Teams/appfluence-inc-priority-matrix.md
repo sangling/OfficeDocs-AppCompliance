@@ -55,18 +55,18 @@ Information provided by Appfluence Inc on how this app collects and stores organ
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| openid | Delegated | In order to sign in users via single-sign-on. | We store the SSO connection to indicate the login mode for the user. |
->| offline_access | Delegated | Refresh token without bothering the users | We store the login token in order to perform requests on behalf of the user |
->| user.read | Delegated | Get the user&#x27;s name, email, avatar, to personalize their account with us | Basic user profile information (name, email, avatar) is stored by us. |
->| mail.read | Delegated | Used in our Outlook add-in to turn emails into tasks | We store tasks created in our system, with a link to the original message. |
->| tasks.read | Delegated | We bootstrap new user accounts with their Graph tasks | Some Outlook/Planner tasks are replicated in our system to help new users. |
->| user.readbasic.all | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
->| contacts.read | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
->| calendars.read | Delegated | We bootstrap new user accounts with their calendar events | A small number of calendar events are turned into tasks stored in our system. |
+>| openid | Delegated | In order to sign in users via single-sign-on | We store the SSO connection to indicate the login mode for the user. |
+>| offline_access | Delegated | Refresh token without bothering the user. | We store the login token in order to perform requests on behalf of the user |
+>| User.Read | Delegated | Get the user&#x27;s name, email, avatar, to personalize their account with us | Basic user profile information (name, email, avatar) is stored by us. |
+>| Mail.Read | Delegated | Used in our Outlook add-in to turn emails into tasks | We store tasks created in our system, with a link to the original message. |
+>| Tasks.Read | Delegated | We bootstrap new user accounts with their Graph tasks | Some Outlook/Planner tasks are replicated in our system to help new users. |
+>| User.Read.Basic.All | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
+>| Contacts.Read | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
+>| Calendars.Read | Delegated | We bootstrap new user accounts with their calendar events | A small number of calendar events are turned into tasks stored in our system. |
 
 #### Data access via bots
 
@@ -94,7 +94,7 @@ Describe where/how is this application's data is stored and how access to it is 
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Users are allowed full review/export to their personal and applicartion data via our management dashboard. Deletion requests are handled manually by our support staff, and typically complied with within 48h. 
+>Users are allowed full review/export to their personal and application data via our management dashboard. Deletion requests are handled manually by our support staff, and typically complied with within 48h. 
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

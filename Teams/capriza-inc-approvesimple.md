@@ -38,10 +38,10 @@ Information provided by Capriza, Inc to Microsoft:
 | URL of Teams application info page | <https://support.capriza.com/> |
 | URL of Privacy Policy | <https://www.capriza.com/privacy-policy/> |
 | URL of Terms of Use | <https://www.capriza.com/mla/> |
-| Main telephone number | 650-600-3661 |
+| Main telephone number | 1 (650) 600-3661 |
 | Description of available licensing options, if any | https://www.capriza.com/plans/ |
 | Licensing contact | support@capriza.com |
-| Licensing telephone number | 650-720-4865 |
+| Licensing telephone number | 1(650) 720-4865 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,7 @@ Information provided by Capriza, Inc on how this app collects and stores organiz
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

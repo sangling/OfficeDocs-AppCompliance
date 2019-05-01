@@ -32,7 +32,7 @@ Information provided by Zoho Corporation Pvt Ltd to Microsoft:
 | ID | 003a8a54-9d27-41cd-9c28-aec5875a3497 |
 | Capabilities | Bot, Tab, Messaging Extension |
 | Partner company name | Zoho Corporation Pvt Ltd |
-| Physical address | ZOHO Corporation Pvt. Ltd., 4141 Hacienda Dr,, Pleasanton,CA 94588 |
+| Physical address | ZOHO Corporation Pvt. Ltd. 4141 Hacienda Dr, Pleasanton,CA 94588 |
 | Contact information for this app | support@zohocrm.com |
 | URL of partner website | <https://www.zoho.com/> |
 | URL of Teams application info page | <https://www.zoho.com/crm/help/microsoft-teams-integration.html> |
@@ -55,19 +55,19 @@ Information provided by Zoho Corporation Pvt Ltd on how this app collects and st
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
 >| offline_access | Delegated | Maintain access to data you have given it access to |  |
->| Files.Read.Selected | Delegated | Read files that the user selects | UserPrincipaName is stored for user indentification |
+>| Files.Read.Selected | Delegated | Read files that the user selects | UserPrincipalName is stored for user identification |
 >| User.Read | Delegated | Sign in and read user profile |  |
 >| User.ReadBasic.All | Delegated | Read all users&#x27; basic profiles |  |
 >| Calendars.ReadWrite | Delegated | Have full access to user calendars | Calendar Folder Id is stored to sync the contacts from Zoho CRM to Microsoft &amp; vice-versa |
 >| Contacts.ReadWrite | Delegated | Have full access to user contacts | Contacts Folder Id is stored to sync the contacts from Zoho CRM to Microsoft &amp; vice-versa |
 >| Files.Read.All | Delegated | Read all files that user can access |  |
->| email | Delegated | View users&#x27; email address | UserPrincipaName is stored for user indentification |
->| profile | Delegated | View users&#x27; basic profile |  |
+>| email | Delegated | View user&#x27;s email address | UserPrincipaName is stored for user indentification |
+>| profile | Delegated | View user&#x27;s basic profile |  |
 >| Files.Read | Delegated | Read user Files |  |
 
 #### Data access via bots

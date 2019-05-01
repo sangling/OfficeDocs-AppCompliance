@@ -38,10 +38,10 @@ Information provided by H3 Solutions, Inc. to Microsoft:
 | URL of Teams application info page | <https://admin.atbot.io/Docs/GettingStarted> |
 | URL of Privacy Policy | <https://admin.atbot.io/privacy> |
 | URL of Terms of Use | <https://admin.atbot.io/terms> |
-| Main telephone number | 1(855)464-5914 |
+| Main telephone number | 1 (855) 464-5914 |
 | Description of available licensing options, if any | Free, Pro, Enterprise \| https://admin.atbot.io/Docs/BizzyTiers |
 | Licensing contact | support@atbot.io |
-| Licensing telephone number | 1(855)464-5914 |
+| Licensing telephone number | 1 (855) 464-5914 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

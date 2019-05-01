@@ -32,16 +32,16 @@ Information provided by Sliday LTD to Microsoft:
 | ID | 9ff28b02-ccc5-4cac-9d17-4cf6987c371f |
 | Capabilities | Bot, Tab |
 | Partner company name | Sliday LTD |
-| Physical address | level 7, 2 Kitchener street, Auckland CBD, New Zealand, 1010 |
+| Physical address | Level 7, 2 Kitchener street, Auckland CBD, New Zealand, 1010 |
 | Contact information for this app | david@sliday.com |
 | URL of partner website | <https://karmabot.chat/ms> |
 | URL of Teams application info page | <https://karmabot.readme.io/> |
 | URL of Privacy Policy | <https://karmabot.readme.io/docs/privacy-policy> |
 | URL of Terms of Use | <https://karmabot.readme.io/docs/terms-and-conditions> |
-| Main telephone number | 64224754329 |
+| Main telephone number | (64) 224 754 329 |
 | Description of available licensing options, if any | $1 per unique user per month in teams where bot was installed, if you have john@example.com part of three teams you still pay only $1 for that user |
 | Licensing contact | info@karmabot.chat |
-| Licensing telephone number | 64224754329 |
+| Licensing telephone number | (64) 224 754 329 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,7 @@ Information provided by Sliday LTD on how this app collects and stores organizat
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| true | Delegated, Application | The team info, the team users, the team channels, the user info | Team info, team users, channels list |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 
@@ -80,13 +76,13 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->Data is ecrypted. Only 3 admins can access it, 2FA is set up for all admins, password lifetime policy is in place
+>Data is ecrypted. Only 3 admins can access it, 2FA is set up for all admins, password lifetime policy is in place.
 
 #### Organizational controls for data stored by partner
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Deletion of the data upon a request
+>Deletion of the data upon a request.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

@@ -53,17 +53,17 @@ Information provided by Zoom.ai Inc on how this app collects and stores organiza
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| https://outlook.office.com/calendars.readwrite | both | access to user&#x27;s calendar events | meetings are cached in our mongoDB on Azure, but descriptions are encrypted |
->| https://outlook.office.com/mailboxsettings.readwrite | both | user&#x27;s timezone | user&#x27;s timezone |
->| https://outlook.office.com/contacts.readwrite | both | read the user&#x27;s contacts (so that we can invite them to a meeting) | contact&#x27;s name &amp; email |
->| https://outlook.office.com/mail.read | both | (optional) is used to read email meta data to under who the user&#x27;s most important contacts are (via Machine Learning) | contact email/name, frequency/recency of interactions |
->| offline_access | application | we need to read and write through our back-end anytime, without the user being present | n/a |
->| Group.Read.All | both | (optional) read corporate user groups (for scheduling with groups) | group name and members |
->| User.Read.All | both | (optional) read corporate users (for scheduling with coworkers) | user&#x27;s name &amp; email (stored as a contact) |
+>| Calendars.ReadWrite | Both | Access to user&#x27;s calendar events | meetings are cached in our mongoDB on Azure, but descriptions are encrypted |
+>| MailboxSettings.ReadWrite | Both | User&#x27;s timezone | user&#x27;s timezone |
+>| Contacts.ReadWrite | Both | Read the user&#x27;s contacts (so that we can invite them to a meeting) | contact&#x27;s name &amp; email |
+>| Mail.Read | Both | (Optional) is used to read email meta data to under who the user&#x27;s most important contacts are (via Machine Learning) | contact email/name, frequency/recency of interactions |
+>| offline_access | Application | We need to read and write through our back-end anytime, without the user being present | No |
+>| Group.Read.All | Both | (optional) read corporate user groups (for scheduling with groups) | group name and members |
+>| User.Read.All | Both | (Optional) read corporate users (for scheduling with coworkers) | user&#x27;s name &amp; email (stored as a contact) |
 
 #### Data access via bots
 

@@ -38,10 +38,10 @@ Information provided by Woobot.io to Microsoft:
 | URL of Teams application info page | <http://woobot.io/support> |
 | URL of Privacy Policy | <https://woobot.io/privacy> |
 | URL of Terms of Use | <https://woobot.io/terms> |
-| Main telephone number | (773) 451-9358 |
+| Main telephone number | 1 (773) 451-9358 |
 | Description of available licensing options, if any | Free trial and annual subscriptions. See https://woobot.io/pricing |
 | Licensing contact | support@woobot.io |
-| Licensing telephone number | (773) 451-9358 |
+| Licensing telephone number | 1 (773) 451-9358 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,7 @@ Information provided by Woobot.io on how this app collects and stores organizati
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| File Upload |  | Users may upload Salesforce reports to a Team&#x27;s channel. The data is passthrough and does not reside in our system. | No |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

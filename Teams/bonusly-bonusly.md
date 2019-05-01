@@ -38,7 +38,7 @@ Information provided by Bonusly to Microsoft:
 | URL of Teams application info page | <http://help.bonus.ly/> |
 | URL of Privacy Policy | <https://bonus.ly/privacy_policy> |
 | URL of Terms of Use | <https://bonus.ly/terms_of_service> |
-| Main telephone number | 442 222-8325 |
+| Main telephone number | 1 (442) 222-8325 |
 | Description of available licensing options, if any | N/A |
 | Licensing contact | N/A |
 | Licensing telephone number | N/A |
@@ -55,11 +55,7 @@ Information provided by Bonusly on how this app collects and stores organization
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

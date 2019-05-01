@@ -39,9 +39,9 @@ Information provided by SurveyMonkey to Microsoft:
 | URL of Privacy Policy | <https://www.surveymonkey.com/privacy> |
 | URL of Terms of Use | <https://www.surveymonkey.com/mp/policy/terms-of-use/> |
 | Main telephone number | N/A |
-| Description of available licensing options, if any | SurveyMonkey is as online SaaS provider with a number of self-serve and sales-assisted licensing options as follows: Basic Standard Advantage Premier Enterprise (sales-assisted) Please refer to our Plans and Pricing page for more information: https://www.surveymonkey.com/pricing/teams |
+| Description of available licensing options, if any | SurveyMonkey is an online SaaS provider with a number of self-serve and sales-assisted licensing options as follows: Basic Standard Advantage Premier Enterprise (sales-assisted). Please refer to our Plans and Pricing page for more information: https://www.surveymonkey.com/pricing/teams |
 | Licensing contact | api-admin@surveymonkey.com |
-| Licensing telephone number | �(650) 543-8400� |
+| Licensing telephone number | 1�(650) 543-8400� |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,11 @@ Information provided by SurveyMonkey on how this app collects and stores organiz
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| group.readwrite.all | Delegated | To provide a list of groups/channels to share a survey with | no |
+>| Group.ReadWrite.All | Delegated | To provide a list of groups/channels to share a survey with | No |
 
 #### Data access via bots
 
@@ -79,7 +79,7 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Team Size, MS User ID, SM User ID, MS tenant ID are logged when a person first initiates contact with our integration
 
-All of these logs are protected and only accessible via our company intranet, and only accessible by people who have the relevant permissions
+All of these logs are protected and only accessible via our company intranet, and only accessible by people who have the relevant permissions.
 
 #### Storing and securing organizational data
 

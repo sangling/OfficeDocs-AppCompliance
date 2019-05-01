@@ -55,12 +55,7 @@ Information provided by Evernote on how this app collects and stores organizatio
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| identity |  | Link MS teams user with Evernote user information for authentication purposes | Tenant ID, User ID |
->| messageTeamMembers |  | An ability to send an IM message to the user of the integration (e.g. welcome message; not currently utilized) |  |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

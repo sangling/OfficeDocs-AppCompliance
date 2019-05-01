@@ -37,10 +37,10 @@ Information provided by MailClark to Microsoft:
 | URL of Teams application info page | <https://mailclark.ai/support> |
 | URL of Privacy Policy | <https://mailclark.ai/privacy> |
 | URL of Terms of Use | <https://mailclark.ai/tos> |
-| Main telephone number | 33 767 796 960 |
+| Main telephone number | (33) 767 796 960 |
 | Description of available licensing options, if any | Free plan limited to 1 user &amp; 3 connected accounts. Premium plan at $5/m per active user (billed yearly) |
 | Licensing contact | sales@mailclark.ai |
-| Licensing telephone number | 33 767 796 960 |
+| Licensing telephone number | (33) 767 796 960 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -54,18 +54,18 @@ Information provided by MailClark on how this app collects and stores organizati
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| Login (ADAL): openid | Application | Required to authenticate |  |
->| Login (ADAL): profile | Application | To authenticate the user |  |
->| O365 email account: openid | Application | Required to authenticate |  |
->| O365 email account: profile | Application | To authenticate the account |  |
->| O365 email account: offline_access | Application | To renew authentication until the account is disconnected | Refresh token |
->| O365 email account: User.Read | Application | To identify the account | Account details e.g. email address |
->| O365 email account: Mail.ReadWrite | Application | Read: To subscribe push notifications for incoming emails—Write: To create drafts |  |
->| O365 email account: Mail.Send | Application | To send out drafts |  |
+>| openid | Application | Required to authenticate |  |
+>| profile | Application | To authenticate the user |  |
+>| openid | Application | Required to authenticate |  |
+>| profile | Application | To authenticate the account |  |
+>| offline_access | Application | To renew authentication until the account is disconnected | Refresh token |
+>| User.Read | Application | To identify the account | Account details e.g. email address |
+>| Mail.ReadWrite | Application | Read: To subscribe push notifications for incoming emails—Write: To create drafts |  |
+>| Mail.Send | Application | To send out drafts |  |
 
 #### Data access via bots
 

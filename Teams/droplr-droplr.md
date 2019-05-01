@@ -38,10 +38,10 @@ Information provided by Droplr to Microsoft:
 | URL of Teams application info page | <http://droplr.com/contact> |
 | URL of Privacy Policy | <https://droplr.com/privacy> |
 | URL of Terms of Use | <https://droplr.com/terms> |
-| Main telephone number | 1-866-310-2315 |
+| Main telephone number | 1 (866) 310-2315 |
 | Description of available licensing options, if any | Droplr is Free for Microsoft Teams users. Pro and Enterprise accounts are available for purchase directly through Droplr. |
 | Licensing contact | sales@droplr.com |
-| Licensing telephone number | 1-866-310-2315 |
+| Licensing telephone number | 1 (866) 310-2315 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,11 @@ Information provided by Droplr on how this app collects and stores organizationa
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| User.Read | 42949682128 | We use this permission to identify the authenticated user and link it with their Droplr account | We store the &#x60;user_id&#x60; value in our database |
+>| User.Read | Delegated | We use this permission to identify the authenticated user and link it with their Droplr account | We store the &#x60;user_id&#x60; value in our database |
 
 #### Data access via bots
 

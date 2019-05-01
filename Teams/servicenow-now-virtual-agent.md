@@ -38,7 +38,7 @@ Information provided by ServiceNow to Microsoft:
 | URL of Teams application info page | <https://docs.servicenow.com/bundle/london-servicenow-platform/page/administer/virtual-agent/task/install-va-integrations.html#install-va-integrations> |
 | URL of Privacy Policy | <https://www.servicenow.com/service-privacy.html> |
 | URL of Terms of Use | <https://www.servicenow.com/terms-of-use.html> |
-| Main telephone number | +1 (408) 501?8550 |
+| Main telephone number | 1 (408) 501?8550 |
 | Description of available licensing options, if any | Customers need to be on a ServiceNow package that includes Virtual Agent access, starting with ServiceNow London release.  We encourage customers to reach out to their ServiceNow account team for more information. |
 | Licensing contact | We encourage customers to reach out to their ServiceNow account team for more information. |
 | Licensing telephone number | We encourage customers to reach out to their ServiceNow account team for more information. |
@@ -55,7 +55,7 @@ Information provided by ServiceNow on how this app collects and stores organizat
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|

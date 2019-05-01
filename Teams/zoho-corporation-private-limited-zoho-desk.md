@@ -32,7 +32,7 @@ Information provided by Zoho Corporation Private Limited to Microsoft:
 | ID | 091ec948-c0ee-4d56-aa9e-51c3d8316a9c |
 | Capabilities | Tab, Connector |
 | Partner company name | Zoho Corporation Private Limited |
-| Physical address | ZOHO Corporation Pvt. Ltd., 4141 Hacienda Dr,, Pleasanton,CA 94588 |
+| Physical address | ZOHO Corporation Pvt. Ltd. 4141 Hacienda Dr, Pleasanton,CA 94588 |
 | Contact information for this app | support@zohodesk.com |
 | URL of partner website | <https://www.zoho.com/desk> |
 | URL of Teams application info page | <https://help.zoho.com/portal/kb/zoho-desk> |
@@ -55,7 +55,7 @@ Information provided by Zoho Corporation Private Limited on how this app collect
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
@@ -64,8 +64,8 @@ List any Microsoft Graph permissions this app requires, and for each, whether th
 >| User.Read.Basic.All | Delegated | Read all users&#x27; basic profiles |  |
 >| Files.Read | Delegated | Read user files |  |
 >| Files.Read.All | Delegated | Read all files that user can access |  |
->| email | Delegated | View users&#x27; email address |  |
->| profile | Delegated | View users&#x27; basic profile |  |
+>| email | Delegated | View user&#x27;s email address |  |
+>| profile | Delegated | View user&#x27;s basic profile |  |
 
 #### Data access via bots
 

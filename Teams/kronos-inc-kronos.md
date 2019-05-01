@@ -38,7 +38,7 @@ Information provided by Kronos, Inc. to Microsoft:
 | URL of Teams application info page | <https://www.kronos.com/contact/en-us/form> |
 | URL of Privacy Policy | <https://www.kronos.com/privacy-policy> |
 | URL of Terms of Use | <https://www.kronos.com/terms-of-use> |
-| Main telephone number | (978) 250 9800 |
+| Main telephone number | 1 (978) 250 9800 |
 | Description of available licensing options, if any | Free license but hosting charge may apply if using Kronos hosting option |
 | Licensing contact | Customers should be using the marketsource for more information.  https://marketplace.kronos.com/apps/221384/microsoft-teams#!overview |
 | Licensing telephone number | N/A |
@@ -55,11 +55,7 @@ Information provided by Kronos, Inc. on how this app collects and stores organiz
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 
@@ -87,7 +83,7 @@ Describe where/how is this application's data is stored and how access to it is 
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Customer can modify data only using Kronos application
+>Customers can modify data only using Kronos application
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

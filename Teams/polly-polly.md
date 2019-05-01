@@ -38,10 +38,10 @@ Information provided by Polly to Microsoft:
 | URL of Teams application info page | <https://www.polly.ai/help/msteams> |
 | URL of Privacy Policy | <https://www.polly.ai/privacy> |
 | URL of Terms of Use | <https://www.polly.ai/tos> |
-| Main telephone number | (206)743-0987 |
+| Main telephone number | 1 (206) 743-0987 |
 | Description of available licensing options, if any | None |
 | Licensing contact | contact@polly.ai |
-| Licensing telephone number | (206)743-0987 |
+| Licensing telephone number | 1 (206) 743-0987 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,7 @@ Information provided by Polly on how this app collects and stores organizational
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 
@@ -86,7 +82,7 @@ Describe where/how is this application's data is stored and how access to it is 
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Customers are able to control data retention and perform auditing as part of the Polly Enterprise service plan
+>Customers are able to control data retention and perform auditing as part of the Polly Enterprise service plan.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

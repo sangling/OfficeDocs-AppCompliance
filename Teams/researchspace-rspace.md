@@ -38,10 +38,10 @@ Information provided by ResearchSpace to Microsoft:
 | URL of Teams application info page | <https://www.researchspace.com/enterprise/help-and-support-resources-enterprise/> |
 | URL of Privacy Policy | <https://www.researchspace.com/terms-conditions/#privacy> |
 | URL of Terms of Use | <https://www.researchspace.com/terms-conditions> |
-| Main telephone number | 447875336302 |
+| Main telephone number | (44)7875 336302 |
 | Description of available licensing options, if any | There is a one time set up and training fee of $1,500, and an annual subscription charge of $200/user commercial and $100/user academic with volume discounts. |
 | Licensing contact | support@researchspace.com |
-| Licensing telephone number | 447875336302 |
+| Licensing telephone number | (44)7875 336302 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -55,11 +55,7 @@ Information provided by ResearchSpace on how this app collects and stores organi
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
-
->| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| N/A | N/A | N/A | N/A |
+This application does not use Microsoft Graph.
 
 #### Data access via bots
 

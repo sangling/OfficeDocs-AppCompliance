@@ -55,18 +55,18 @@ Information provided by MySecretary on how this app collects and stores organiza
 
 #### Data access using Microsoft Graph
 
-List any Microsoft Graph permissions this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
 
 >| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
->| Calendars.Read.Shared | Delegated | Fetch users&#x27; and their colleagues&#x27; free time information |  |
+>| Calendars.Read.Shared | Delegated | Fetch user&#x27;s and their colleagues&#x27; free time information |  |
 >| Calendars.ReadWrite | Delegated | Send meeting request instead of user |  |
->| MailboxSettings.Read | Delegated | Fetch users&#x27; language and timezone setting | Stora language for showing correct langage. Save timezone to call MS Graph calendar API correctly |
+>| MailboxSettings.Read | Delegated | Fetch user&#x27;s language and timezone setting | Stora language for showing correct langage. Save timezone to call MS Graph calendar API correctly |
 >| People.Read | Delegated | Try to find colleagues who have strong relathionship with user |  |
->| User.Read | Delegated | Try to find user&#x27;s country and preferd language. It&#x27;s used for backup for MailboxSettings.Read  | Store username, city, country and langauge for user analytics. Store email for contacting customer. We have never used email address, but may use for support. |
+>| User.Read | Delegated | Try to find user&#x27;s country and preferred language. It&#x27;s used for backup for MailboxSettings.Read. | Store username, city, country and langauge for user analytics. Store email for contacting customer. We have never used email address, but may use for support. |
 >| email | Delegated | For storing email | Save above |
 >| openid | Delegated | For OpenID authentication |  |
->| profile | Delegated | Getting user name and oid. Try to use oid for connecting Outlook Addin in the future | Save oid for identifying user&#x27;s unique id in the MS identity system |
+>| profile | Delegated | Getting user name and OID. Try to use OID for connecting Outlook Addin in the future. | Save OID for identifying user&#x27;s unique id in the MS identity system |
 
 #### Data access via bots
 
