@@ -58,4 +58,11 @@ groups:
       title: General
     - id: csa
       title: CSA STAR
-    
+- id: app-info-data
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: data
+      title: Data Handling
