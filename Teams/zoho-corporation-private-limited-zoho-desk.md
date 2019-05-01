@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zoho Desk by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,9 +32,7 @@ Information provided by Zoho Corporation Private Limited to Microsoft:
 | ID | 091ec948-c0ee-4d56-aa9e-51c3d8316a9c |
 | Capabilities | Tab, Connector |
 | Partner company name | Zoho Corporation Private Limited |
-| Physical address | ZOHO Corporation Pvt. Ltd.
-4141 Hacienda Dr,
-Pleasanton,CA 94588 |
+| Physical address | ZOHO Corporation Pvt. Ltd., 4141 Hacienda Dr,, Pleasanton,CA 94588 |
 | Contact information for this app | support@zohodesk.com |
 | URL of partner website | <https://www.zoho.com/desk> |
 | URL of Teams application info page | <https://help.zoho.com/portal/kb/zoho-desk> |

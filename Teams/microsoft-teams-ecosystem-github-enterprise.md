@@ -1,7 +1,7 @@
 ---
 title: Application Information for GitHub Enterprise by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -35,6 +35,7 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 | URL of Teams application info page | <https://enterprise.github.com/home> |
 | URL of Privacy Policy | <https://enterprise.github.com/privacy> |
 | URL of Terms of Use | <https://enterprise.github.com/home> |
+| Service notes | This app contains a connector written by Microsoft, so effectively it&#x27;s a hybrid between code written by Microsoft and the GitHub Enterprise app. When the connector is created, it&#x27;s Microsoft&#x27;s code that&#x27;s running. When an event occurs in the GitHub Enterprise app, it&#x27;s code in that app that generates the message which appears in a Microsoft Teams channel. |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

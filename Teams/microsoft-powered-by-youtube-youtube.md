@@ -1,7 +1,7 @@
 ---
 title: Application Information for YouTube by Microsoft powered by YouTube
 ms.author: 
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -33,6 +33,7 @@ Information provided by Microsoft powered by YouTube to Microsoft:
 | URL of partner website | <https://www.youtube.com> |
 | URL of Privacy Policy | <https://www.youtube.com> |
 | URL of Terms of Use | <https://www.youtube.com> |
+| Service notes | This app was written by Microsoft, but effectively it&#x27;s a hybrid of a Microsoft service and YouTube. When a YouTube tab is created, it&#x27;s Microsoft&#x27;s code calling YouTube APIs to search for videos. When a user views the tab, it&#x27;s YouTube code that&#x27;s running. For the bot and messaging extension, it&#x27;s Microsoft code calling YouTube&#x27;s APIs. |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

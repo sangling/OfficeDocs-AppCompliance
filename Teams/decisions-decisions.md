@@ -1,7 +1,7 @@
 ---
 title: Application Information for Decisions by Decisions
 ms.author: 
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance

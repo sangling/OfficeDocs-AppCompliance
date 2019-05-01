@@ -1,7 +1,7 @@
 ---
 title: Application Information for Site24x7 by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -32,20 +32,16 @@ Information provided by Zoho Corporation Private Limited to Microsoft:
 | ID | 9ce8b7b7-4435-4edb-9c6f-205a9efe944d |
 | Capabilities | Bot, Tab, Connector |
 | Partner company name | Zoho Corporation Private Limited |
-| Physical address | ZOHO Corporation Pvt. Ltd.
-4141 Hacienda Dr,
-Pleasanton,CA 94588 |
+| Physical address | ZOHO Corporation Pvt. Ltd., 4141 Hacienda Dr,, Pleasanton,CA 94588 |
 | Contact information for this app | support@site24x7.com |
 | URL of partner website | <https://www.site24x7.com/features.html> |
 | URL of Teams application info page | <https://www.site24x7.com/help/admin/third-party-integration/microsoft-teams.html> |
 | URL of Privacy Policy | <https://www.site24x7.com/privacypolicy.html> |
 | URL of Terms of Use | <https://www.site24x7.com/terms.html> |
-| Main telephone number | US: +1 408 352 9117
-UK: +44 203 564 7893 |
+| Main telephone number | US: +1 408 352 9117; UK: +44 203 564 7893 |
 | Description of available licensing options, if any | Site24x7 offers a package based pricing model for small IT teams, DevOps and also large enterprises. We offer these licensing plans: Free, Starter, Pro, Classic, Elite, Enterprise and MSP. There is a 30-days evaluation period and the subscription can be upgraded any time during this evaluation period. The evaluated packs will automatically downgrade to FREE account once the evaluation period is completed. |
 | Licensing contact | support@site24x7.com |
-| Licensing telephone number | US: +1 408 352 9117
-UK: +44 203 564 7893 |
+| Licensing telephone number | US: +1 408 352 9117; UK: +44 203 564 7893 |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
@@ -74,7 +70,7 @@ If this app contains a bot or a messaging extension, it can access the roster (f
 
 Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
 
->We don&#x27;t collect EUII / PII in telemetry and logs. We have scripts oin place to look for and alert for fixing any such data being visible.
+>We don&#x27;t collect EUII / PII in telemetry and logs. We have scripts in place to look for and alert for fixing any such data being visible.
 
 #### Storing and securing organizational data
 

@@ -1,7 +1,7 @@
 ---
 title: Application Information for New Relic by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 04/30/2019
+ms.date: 05/01/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -35,6 +35,7 @@ Information provided by Microsoft Teams Ecosystem to Microsoft:
 | URL of Teams application info page | <https://newrelic.com/> |
 | URL of Privacy Policy | <https://newrelic.com/privacy> |
 | URL of Terms of Use | <https://newrelic.com/> |
+| Service notes | This app contains a connector written by Microsoft, so effectively it&#x27;s a hybrid between code written by Microsoft and the New Relic app. When the connector is created, it&#x27;s Microsoft&#x27;s code that&#x27;s running. When an event occurs in the New Relic app, it&#x27;s code in that app that generates the message which appears in a Microsoft Teams channel. |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 
