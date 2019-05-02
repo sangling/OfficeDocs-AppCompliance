@@ -1,7 +1,7 @@
 ---
 title: Application Information for LawToolBox by LawToolBox.com,Inc.
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance

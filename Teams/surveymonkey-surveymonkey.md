@@ -1,7 +1,7 @@
 ---
 title: Application Information for SurveyMonkey by SurveyMonkey
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,7 +15,7 @@ zone_pivot_groups: app-info-data-mcas
 # SurveyMonkey
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
-<p>Last updated by the developer on: —</p>
+<p>Last updated by the developer on: April 23, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/0fd925a0-357f-4d25-8456-b3022aaa41a9" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381088" target="_blank">View in AppSource</a>

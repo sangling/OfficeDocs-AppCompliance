@@ -1,7 +1,7 @@
 ---
 title: Application Information for Kronos by Kronos, Inc.
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,7 +15,7 @@ zone_pivot_groups: app-info-data-mcas
 # Kronos
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
-<p>Last updated by the developer on: —</p>
+<p>Last updated by the developer on: April 24, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/1e582d3c-1393-4186-ab5b-eac92d3b0cd0" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381629" target="_blank">View in AppSource</a>

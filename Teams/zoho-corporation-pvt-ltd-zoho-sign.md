@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zoho Sign by Zoho Corporation Pvt Ltd
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -10,12 +10,12 @@ localization_priority: Normal
 MS.collection: Teams_ITAdmin_PracticalGuidance
 appliesto:
 - Microsoft Teams
-zone_pivot_groups: app-info-data
+zone_pivot_groups: app-info-data-mcas
 ---
 # Zoho Sign
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
-<p>Last updated by the developer on: —</p>
+<p>Last updated by the developer on: April 29, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/7a22873b-81e6-48ed-aee3-6f0e7dd5a104" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104382011" target="_blank">View in AppSource</a>
@@ -92,4 +92,15 @@ Describe any capabilities an organization's administrators have to control their
 
 ::: zone-end
 
+::: zone pivot="mcas"
+
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
+
+<iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35679' frameborder='no'  style='width: 100%;'></iframe>
+
+<a href="https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35679" target="_blank">View in a new tab</a>
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
+::: zone-end
 

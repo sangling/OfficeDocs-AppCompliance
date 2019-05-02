@@ -1,7 +1,7 @@
 ---
 title: Application Information for Site24x7 by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,7 +15,7 @@ zone_pivot_groups: app-info-data-mcas
 # Site24x7
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
-<p>Last updated by the developer on: —</p>
+<p>Last updated by the developer on: April 29, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/9ce8b7b7-4435-4edb-9c6f-205a9efe944d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381289" target="_blank">View in AppSource</a>

@@ -1,7 +1,7 @@
 ---
 title: Application Information for Wrike by Wrike Inc.
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,7 +15,7 @@ zone_pivot_groups: app-info-data-mcas-csa
 # Wrike
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
-<p>Last updated by the developer on: —</p>
+<p>Last updated by the developer on: April 25, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/05274a45-7312-4c23-8f64-d57fe4a28d6d" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381390" target="_blank">View in AppSource</a>

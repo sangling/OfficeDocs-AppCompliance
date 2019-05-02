@@ -1,7 +1,7 @@
 ---
 title: Application Information for Droplr by Droplr
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -15,7 +15,7 @@ zone_pivot_groups: app-info-data-mcas
 # Droplr
 
 <p></p><img alt="Self-attestation logo" src="./images/attested.png" width="650"/>
-<p>Last updated by the developer on: —</p>
+<p>Last updated by the developer on: April 24, 2019</p>
 
 * <a href="https://teams.microsoft.com/l/app/3763b495-45c3-4fd4-a64c-944aa8aabf53" target="_blank">View in Teams store</a>
 * <a href="https://appsource.microsoft.com/en-us/product/office/WA104381718" target="_blank">View in AppSource</a>

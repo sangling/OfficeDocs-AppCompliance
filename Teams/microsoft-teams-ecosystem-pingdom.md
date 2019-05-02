@@ -1,7 +1,7 @@
 ---
 title: Application Information for Pingdom by Microsoft Teams Ecosystem
 ms.author: 
-ms.date: 05/01/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
