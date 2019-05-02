@@ -70,7 +70,7 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 >Priority Matrix manages project/task data created by the user, or by the app automatically in response to events.
 

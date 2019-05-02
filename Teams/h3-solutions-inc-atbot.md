@@ -55,11 +55,22 @@ Information provided by H3 Solutions, Inc. on how this app collects and stores o
 
 #### Data access using Microsoft Graph
 
-This application does not use Microsoft Graph.
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+
+>| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
+>| Directory.Read.All | Delegated | Enumerate AAD groups to allow security trimming of bot skills. Enumerate users to be able to apply licenses. Enumerate users to add as Administrators/Contributors | AAD Group Name, AAD Group GUID, UPN |
+>| Directory.Read.All | Application | Enumerate AAD groups to allow security trimming of bot skills. Enumerate users to be able to apply licenses. Enumerate users to add as Administrators/Contributors | AAD Group Name, AAD Group GUID, UPN |
+>| People.Read | Delegated | Enumerate people in a Get Person action from Flow.  Allows the bot to retrieve people from the /People endpoint in Microsoft Graph | No |
+>| User.Read | Delegated | Gives us access to the user’s Tenant ID and UPN to allow us to tie Flows/Logic Apps created to the users that created them | Tenant ID, UPN |
+>| email | Delegated | Gives us access to the user&#x27;s email address | No |
+>| offline_access | Delegated | Allows us to use a refresh token to keep users logged in | Access/Refresh tokens. |
+>| openid | Delegated | Allows users to log in | No |
+>| profile | Delegated | Access to user&#x27;s UPN | UPN |
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 
 >| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
@@ -85,7 +96,7 @@ Describe any capabilities an organization's administrators have to control their
 
 >Administrators have the ability to delete bot configurations that may contain AAD Group Names/GUIDs.
 Upon cancellation of service, all UPNs will be removed from the licensing database.
-See 'Azure Services' under Data Residency.  Much of the customer-specific data produced via the use of AtBot is stored in the customer's tenant and so admins of that tenant have full control of the data there.
+See &#x27;Azure Services&#x27; under Data Residency.  Much of the customer-specific data produced via the use of AtBot is stored in the customer&#x27;s tenant and so admins of that tenant have full control of the data there.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

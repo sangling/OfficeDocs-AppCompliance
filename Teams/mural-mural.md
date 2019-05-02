@@ -59,7 +59,7 @@ This application does not use Microsoft Graph.
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 >We are only getting and storing the user&#x27;s name.
 
@@ -77,7 +77,7 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->Data is stored in our Microsoft Azure Cloud service. The data is stored encrypted at rest with AES-256. Our infrastructure and devops team has access to the database management, but not to the data itself. Users login to the system with MFA and there's an audit trail of every action taken by them once in the infra.
+>Data is stored in our Microsoft Azure Cloud service. The data is stored encrypted at rest with AES-256. Our infrastructure and devops team has access to the database management, but not to the data itself. Users login to the system with MFA and there&#x27;s an audit trail of every action taken by them once in the infra.
 
 #### Organizational controls for data stored by partner
 

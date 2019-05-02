@@ -10,7 +10,7 @@ localization_priority: Normal
 MS.collection: Teams_ITAdmin_PracticalGuidance
 appliesto:
 - Microsoft Teams
-zone_pivot_groups: app-info-mcas
+zone_pivot_groups: app-info-data-mcas
 ---
 # SoapBox
 
@@ -41,6 +41,44 @@ Information provided by SoapBox to Microsoft:
 
 ::: zone-end
 
+::: zone pivot="data"
+
+### How the app handles data
+
+Information provided by SoapBox on how this app collects and stores organizational data, and what control an organization has over this data.
+
+#### Data access using Microsoft Graph
+
+List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/permissions-reference) this app requires, and for each, whether they are delegate or application permissions, the justification and purpose for this permission (what does the app use this information for?), and whether the app stores any of this information in its databases.
+
+>| **Permission**  | **Delegated/Application** | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
+>|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
+>| User.Read | Delegated | Name and email are used to create SoapBox users | Name, email, microsoft user id |
+>| Calendars.ReadWrite | Delegated | Calendar access is needed to sync SoapBox meetings to calendar events | Sync token |
+>| offline_access | Delegated | Offline access to calendars is needed to make SoapBox notifications time relevant to synced calendar events |  |
+
+
+#### Telemetry data
+
+Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
+
+>Not specified.
+
+#### Storing and securing organizational data
+
+Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
+
+>Not specified.
+
+#### Organizational controls for data stored by partner
+
+Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
+
+>Not specified.
+
+[!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
+
+::: zone-end
 
 ::: zone pivot="mcas"
 

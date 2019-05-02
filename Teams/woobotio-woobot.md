@@ -59,15 +59,12 @@ This application does not use Microsoft Graph.
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 
 >| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Yes | In order to map Salesforce users to Teams Users we require a list of Team user id&#x27;s.
-We also store the Team and Channels names so that users can send notifications to these teams.
-Also, we store which team user id&#x27;s have been welcomed by the app, and which have not, so that when a new user joins a team, woobot can personally welcome that user.
-We also store the Team and Channels names so that users can send notifications to these teams. |  User Id, Team Id and Team Name, Channel Id and channel Name, and which users are members of which Teams. |
+>| Yes | In order to map Salesforce users to Teams Users we require a list of Team user id&#x27;s. We also store the Team and Channels names so that users can send notifications to these teams. Also, we store which team user id&#x27;s have been welcomed by the app, and which have not, so that when a new user joins a team, woobot can personally welcome that user. We also store the Team and Channels names so that users can send notifications to these teams. |  User Id, Team Id and Team Name, Channel Id and channel Name, and which users are members of which Teams. |
 
 #### Telemetry data
 
@@ -85,7 +82,7 @@ Describe where/how is this application's data is stored and how access to it is 
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Customer's have full control of their configuration data that is created by them within our system. No other customer data is stored in our system.
+>Customer&#x27;s have full control of their configuration data that is created by them within our system. No other customer data is stored in our system.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

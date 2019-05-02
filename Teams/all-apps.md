@@ -19,7 +19,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 |:--------|:------------|:------------------:|:-----------------------------:|:----------------------------------:|:---------------------------------------:|:---------------------|
 | [ADP Virtual Assistant](~/adp-adp-virtual-assistant.md) | ADP |  | No | Yes | No | Bot, Tab |
 | [AVA](~/avepoint-inc-ava.md) | AvePoint, Inc. |  | No | No | Yes | Bot, Tab |
-| [Adobe Sign](~/adobe-systems-inc-adobe-sign.md) | Adobe Systems Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Bot, Tab |
+| [Adobe Sign](~/adobe-systems-inc-adobe-sign.md) | Adobe Systems Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab |
 | [Aha!](~/microsoft-teams-ecosystem-aha!.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Airbrake](~/microsoft-teams-ecosystem-airbrake.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [ApproveSimple](~/capriza-inc-approvesimple.md) | Capriza, Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | Yes | Bot |
@@ -34,7 +34,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Buddy](~/buddy-buddy.md) | Buddy |  | No | Yes | No | Connector |
 | [Bugsnag](~/microsoft-teams-ecosystem-bugsnag.md) | Microsoft Teams Ecosystem |  | No | Yes | Yes | Connector |
 | [CATS Applicant Tracking System](~/cats-applicant-tracking-system-cats-applicant-tracking-system.md) | CATS Applicant Tracking System |  | No | Yes | No | Connector |
-| [Calendar BOT](~/approved-contact-calendar-bot.md) | Approved Contact | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Bot, Tab |
+| [Calendar BOT](~/approved-contact-calendar-bot.md) | Approved Contact | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab |
 | [CheckMarket](~/microsoft-teams-ecosystem-checkmarket.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [CircleCI](~/microsoft-teams-ecosystem-circleci.md) | Microsoft Teams Ecosystem |  | No | Yes | Yes | Connector |
 | [Cisco Webex Meetings](~/cisco-webex-meetings-cisco-webex-meetings.md) | Cisco Webex Meetings |  | No | Yes | No | Bot, Tab, Messaging Extension |
@@ -81,7 +81,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [MailClark](~/mailclark-mailclark.md) | MailClark | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab, Messaging Extension |
 | [Marvel](~/marvel-marvel.md) | Marvel |  | No | Yes | No | Tab |
 | [MeisterTask](~/meisterlabs-gmbh-meistertask.md) | MeisterLabs GmbH | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Tab |
-| [MindMeister](~/meisterlabs-gmbh-mindmeister.md) | MeisterLabs GmbH |  | No | Yes | No | Tab |
+| [MindMeister](~/meisterlabs-gmbh-mindmeister.md) | MeisterLabs GmbH | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Tab |
 | [Mindomo](~/expert-software-applications-srl-mindomo.md) | Expert Software Applications Srl |  | No | Yes | No | Tab |
 | [Miro (formerly RealtimeBoard)](~/realtimeboard-inc-miro-(formerly-realtimeboard).md) | Realtimeboard Inc. |  | No | Yes | Yes | Bot, Tab |
 | [Nearpod](~/nearpod-nearpod.md) | Nearpod |  | No | Yes | No | Tab |
@@ -107,11 +107,12 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Salesforce](~/microsoft-teams-ecosystem-salesforce.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [SecretaryBot](~/mysecretary-secretarybot.md) | MySecretary | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [Sentry](~/microsoft-teams-ecosystem-sentry.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
+| [ServiceDesk Plus Cloud](~/zoho-corporation-private-limited-servicedesk-plus-cloud.md) | Zoho Corporation Private Limited | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab, Messaging Extension |
 | [SignalFx](~/signalfx-signalfx.md) | SignalFx |  | No | Yes | No | Connector |
 | [Simple In/Out](~/simply-made-apps-inc-simple-inout.md) | Simply Made Apps, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Connector |
 | [Site24x7](~/zoho-corporation-private-limited-site24x7.md) | Zoho Corporation Private Limited | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab, Connector |
 | [Smartsheet](~/smartsheet-smartsheet.md) | Smartsheet |  | No | Yes | No | Bot, Tab |
-| [SoapBox](~/soapbox-soapbox.md) | SoapBox | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Bot, Tab |
+| [SoapBox](~/soapbox-soapbox.md) | SoapBox | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab |
 | [Sociabble](~/sociabble-sociabble.md) | Sociabble |  | No | Yes | No | Tab, Connector |
 | [Stack Overflow](~/microsoft-teams-ecosystem-stack-overflow.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [StubHub](~/stubhub-inc-stubhub.md) | StubHub Inc. |  | No | Yes | No | Bot |
@@ -137,6 +138,6 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Zenefits](~/zenefits-zenefits.md) | Zenefits |  | No | Yes | No | Bot, Tab |
 | [Zoho CRM](~/zoho-corporation-pvt-ltd-zoho-crm.md) | Zoho Corporation Pvt Ltd | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab, Messaging Extension |
 | [Zoho Desk](~/zoho-corporation-private-limited-zoho-desk.md) | Zoho Corporation Private Limited | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Tab, Connector |
-| [Zoho Projects](~/zoho-corporation-private-limited-zoho-projects.md) | Zoho Corporation Private Limited | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Bot, Tab, Messaging Extension |
+| [Zoho Projects](~/zoho-corporation-private-limited-zoho-projects.md) | Zoho Corporation Private Limited | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab, Messaging Extension |
 | [Zoho Sign](~/zoho-corporation-pvt-ltd-zoho-sign.md) | Zoho Corporation Pvt Ltd | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Tab |
 | [Zoom Meetings](~/zoom-video-zoom-meetings.md) | Zoom Video |  | No | Yes | Yes | Bot |

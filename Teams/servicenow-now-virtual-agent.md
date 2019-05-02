@@ -63,7 +63,7 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 >Our bot interacts with user 1:1. It cannot be added to a team (yet) and does not access team roster. User needs to log in their ServiceNow account once from within Microsoft Teams to establish a connection. This is initiated from within Teams and will require ServiceNow credentials.
 
@@ -81,13 +81,13 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->Refer to the [Cloud Security Alliance section](servicenow?pivots=csa) for details.
+>Refer to the [Cloud Security Alliance section](servicenow?pivots&#x3D;csa) for details.
 
 #### Organizational controls for data stored by partner
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Refer to the [Cloud Security Alliance section](servicenow?pivots=csa) for details.
+>Refer to the [Cloud Security Alliance section](servicenow?pivots&#x3D;csa) for details.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

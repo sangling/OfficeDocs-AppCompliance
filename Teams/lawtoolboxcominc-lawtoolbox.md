@@ -63,9 +63,9 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >| Files.ReadWrite | Delegated | [Optional]-Read and modify files in a user&#x27;s OneDrive |  |
 >| Files.ReadWrite.All | Delegated | [Optional]-Read/write user&#x27;s OneDrive file associated with the Matter |  |
 >| Group.ReadWrite.All | Delegated | We create a Group for each matter created in our system. This help user stores matter-related information into the Group, which in turn saves their data into their own tenant. | GroupID, GroupName, GroupEmail |
->| Mail.Read | Delegated | [Optional]-[InProgress]Read users email for Matters |  |
->| Mail.ReadWrite | Delegated | [Optional]-[InProgress] Read/Write Email for users |  |
->| Mail.ReadWrite.Shared | Delegated | [Optional]-[InProgress] Read/Write Email for users |  |
+>| Mail.Read | Delegated | [Optional]-[InProgress]Read user&#x27;s email for Matters |  |
+>| Mail.ReadWrite | Delegated | [Optional]-[InProgress] Read/Write email for users |  |
+>| Mail.ReadWrite.Shared | Delegated | [Optional]-[InProgress] Read/Write email for users |  |
 >| Mail.Send | Delegated | [Optional]-[InProgress]Send Deadlines on email as user |  |
 >| Directory.AccessAsUser.All | Delegated | [Optional]-to read Groups and Users information as a user |  |
 >| Directory.ReadWrite.All | Delegated | [Optional]-to read Groups and Users information as a user |  |
@@ -78,32 +78,24 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >| profile | Delegated | Read user profile information |  |
 >| email | Delegated | Read user&#x27;s email address | email, Office365 UserID, ObjectID, TenantID |
 
-#### Data access via bots
-
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
-
-
->| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:--------------------------------|:---------------------|:--------------------------|
->|  |  |  |
 
 #### Telemetry data
 
 Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
 
->
+>Not specified.
 
 #### Storing and securing organizational data
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->
+>Not specified.
 
 #### Organizational controls for data stored by partner
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->
+>Not specified.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

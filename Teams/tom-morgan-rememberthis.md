@@ -59,7 +59,7 @@ This application does not use Microsoft Graph.
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 >Time of reminder event
 
@@ -71,7 +71,7 @@ If this app contains a bot or a messaging extension, it can access the roster (f
 
 Does any organizational information, including EUII (end-user identifiable information) and OII (organizational identifiable information), appears in this application's telemetry/logs? If yes, describe what data is present and what controls/processes an organization has in place to archive and/or delete it. If no, describe the controls/processes in place to prevent EUII and OII from appearing in telemetry/logs.
 
->
+>Not specified.
 
 #### Storing and securing organizational data
 

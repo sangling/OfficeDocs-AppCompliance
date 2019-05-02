@@ -57,14 +57,6 @@ Information provided by Zoho Corporation Private Limited on how this app collect
 
 This application does not use Microsoft Graph.
 
-#### Data access via bots
-
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
-
-
->| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:--------------------------------|:---------------------|:--------------------------|
->|  |  |  |
 
 #### Telemetry data
 
@@ -76,13 +68,13 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->Customer-centric data such as username, password, email address, mobile number, age, date of birth, address, job title, and credit card details are encrypted and stored in our database using the Advanced Encryption Standard (AES). Logical access to the servers is provided through an isolated & dedicated network and is highly secured and monitored. This network is protected with Firewall, 2- Factor Authentication and Kerberos Authentication Protocol. The accessing machines are securely hardened so that no data can be copied or transferred from the data center. Physical Access to the data centers are protected with Biometric+PIN. No visitors are allowed inside the dedicated cages of Zoho in the data centers. Only a very restricted number of employees have the access to the servers to carry out any emergency works.
+>Customer-centric data such as username, password, email address, mobile number, age, date of birth, address, job title, and credit card details are encrypted and stored in our database using the Advanced Encryption Standard (AES). Logical access to the servers is provided through an isolated &amp; dedicated network and is highly secured and monitored. This network is protected with Firewall, 2- Factor Authentication and Kerberos Authentication Protocol. The accessing machines are securely hardened so that no data can be copied or transferred from the data center. Physical Access to the data centers are protected with Biometric+PIN. No visitors are allowed inside the dedicated cages of Zoho in the data centers. Only a very restricted number of employees have the access to the servers to carry out any emergency works.
 
 #### Organizational controls for data stored by partner
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Once a customer initiates termination of their Site24x7 account, Site24x7 will retain all this user's data for 30 days before erasing it completely from our US or EU or IN or CN data centers. Customers with requisite user permissions can manually log in to Site24x7's web client using their valid credentials and correct their inaccurate or incomplete personal data. Additionally, they can update any personal data using our documented RESTful APIs.
+>Once a customer initiates termination of their Site24x7 account, Site24x7 will retain all this user&#x27;s data for 30 days before erasing it completely from our US or EU or IN or CN data centers. Customers with requisite user permissions can manually log in to Site24x7&#x27;s web client using their valid credentials and correct their inaccurate or incomplete personal data. Additionally, they can update any personal data using our documented RESTful APIs.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

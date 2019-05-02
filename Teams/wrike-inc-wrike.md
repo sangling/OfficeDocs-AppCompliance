@@ -59,7 +59,7 @@ This application does not use Microsoft Graph.
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 >Our app creates data only on our side
 
@@ -85,7 +85,7 @@ Describe where/how is this application's data is stored and how access to it is 
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Our customers' administrators could control all data in their accounts, including deletion/retention/auditing/etc. 
+>Our customers&#x27; administrators could control all data in their accounts, including deletion/retention/auditing/etc. 
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

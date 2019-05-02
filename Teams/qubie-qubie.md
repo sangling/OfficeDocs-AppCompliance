@@ -59,14 +59,12 @@ This application does not use Microsoft Graph.
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 
 >| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
 >|:--------------------------------|:---------------------|:--------------------------|
->| Team/Chat Roster | Show name when deleting comments in team chat, and to respond to user that files a bug or sends questions.
-Respond to user that files a bug or has a question.
-Displayed when showing team performance questions so user knows the context of the question. Display team name when showing reports and Graphs. | Display Name, Email Address, Team Name  |
+>| Team/Chat Roster | Show name when deleting comments in team chat, and to respond to user that files a bug or sends questions. Respond to user that files a bug or has a question. Displayed when showing team performance questions so user knows the context of the question. Display team name when showing reports and Graphs. | Display Name, Email Address, Team Name  |
 
 #### Telemetry data
 

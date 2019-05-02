@@ -61,14 +61,6 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
 >| User.Read | Delegated | We use this permission to identify the authenticated user and link it with their Droplr account | We store the &#x60;user_id&#x60; value in our database |
 
-#### Data access via bots
-
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
-
-
->| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:--------------------------------|:---------------------|:--------------------------|
->|  |  |  |
 
 #### Telemetry data
 

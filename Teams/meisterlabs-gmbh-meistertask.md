@@ -63,7 +63,7 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 
 #### Data access via bots
 
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
+If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Does this app make use of this capability?
 
 >Organization ID for Azure Marketplace license managment
 
@@ -87,7 +87,7 @@ Describe where/how is this application's data is stored and how access to it is 
 
 Describe any capabilities an organization's administrators have to control their information residing in partner systems, e.g. deletion, retention, auditing, archiving, end-user policy, etc.
 
->Customer's administrators can delete their data and close their accounts. The retention perios is not customizable. Auditing is currently not available. User-generated data can be archived manually or accessed through the public API (https://developers.meistertask.com/). The end-user policies are available at https://www.meistertask.com/privacy and https://www.meistertask.com/terms.
+>Customer&#x27;s administrators can delete their data and close their accounts. The retention perios is not customizable. Auditing is currently not available. User-generated data can be archived manually or accessed through the public API (https://developers.meistertask.com/). The end-user policies are available at https://www.meistertask.com/privacy and https://www.meistertask.com/terms.
 
 [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

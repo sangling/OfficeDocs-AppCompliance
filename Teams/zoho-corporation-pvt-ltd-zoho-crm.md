@@ -70,14 +70,6 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >| profile | Delegated | View user&#x27;s basic profile |  |
 >| Files.Read | Delegated | Read user Files |  |
 
-#### Data access via bots
-
-If this app contains a bot or a messaging extension, it can access the roster (first name, last name, display name, email address) of any team member in a team or chat it's added to. Do this app make use of this capability?
-
-
->| **Access team/chat roster?**  | **Justification/Purpose** | **Is any of this data stored in app database(s)?** |
->|:--------------------------------|:---------------------|:--------------------------|
->|  |  |  |
 
 #### Telemetry data
 
@@ -89,7 +81,7 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->Customer can select the data that needs to be encrypted via EAR (Encryption At Rest)with certaat restrictions.Passwords will be hashed by default. Logical access to the servers is provided through an isolated & dedicated network and is highly secured and monitored. This network is protected with Firewall, 2- Factor Authentication and Kerberos Authentication Protocol. The accessing machines are securely hardened so that no data can be copied or transferred from the data center. Physical Access to the data centers are protected with Biometric+PIN. No visitors are allowed inside the dedicated cages of Zoho in the data centers. Only a very restricted number of employees have the access to the servers to carry out any emergency works.
+>Customer can select the data that needs to be encrypted via EAR (Encryption At Rest)with certaat restrictions.Passwords will be hashed by default. Logical access to the servers is provided through an isolated &amp; dedicated network and is highly secured and monitored. This network is protected with Firewall, 2- Factor Authentication and Kerberos Authentication Protocol. The accessing machines are securely hardened so that no data can be copied or transferred from the data center. Physical Access to the data centers are protected with Biometric+PIN. No visitors are allowed inside the dedicated cages of Zoho in the data centers. Only a very restricted number of employees have the access to the servers to carry out any emergency works.
 
 #### Organizational controls for data stored by partner
 
