@@ -33,7 +33,7 @@ Information provided by SoftServe, Inc. to Microsoft:
 | URL of partner website | <https://www.atlassian.com/software/confluence> |
 | URL of Privacy Policy | <https://www.softserveinc.com/en-us/msteams-atlassian-privacy-policy/> |
 | URL of Terms of Use | <https://www.atlassian.com/licensing/marketplace/termsofuse> |
-| Service notes | This app was written and is managed by SoftServe, Inc. in close collaboration with Microsoft and hosted in Azure. It is a hybrid of the SoftServe service and Confluence Cloud: it&#x27;s SoftServe, Inc. code calling Confluence Cloud/Atlassian APIs. |
+| Service notes | This app was written and is managed by SoftServe, Inc. in close collaboration with Microsoft and is hosted in Azure. It is a hybrid of the SoftServe service and Confluence Cloud: it&#x27;s SoftServe, Inc. code calling Confluence Cloud/Atlassian APIs. |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

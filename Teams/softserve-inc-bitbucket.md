@@ -33,7 +33,7 @@ Information provided by SoftServe, Inc. to Microsoft:
 | URL of partner website | <https://bitbucket.org/> |
 | URL of Privacy Policy | <https://www.msteams-atlassian.com/privacy-policy/> |
 | URL of Terms of Use | <https://www.msteams-atlassian.com/legal/> |
-| Service notes | This app was written and is managed by SoftServe, Inc. in close collaboration with Microsoft and hosted in Azure. It is a hybrid of the SoftServe service and Bitbucket: it&#x27;s SoftServe, Inc. code calling Bitbucket/Atlassian APIs. |
+| Service notes | This app was written and is managed by SoftServe, Inc. in close collaboration with Microsoft and is hosted in Azure. It is a hybrid of the SoftServe service and Bitbucket: it&#x27;s SoftServe, Inc. code calling Bitbucket/Atlassian APIs. |
 
  [!INCLUDE [Corrections or suggestions contact information](./includes/corrections-or-suggestions.md)]
 

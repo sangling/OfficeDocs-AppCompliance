@@ -23,7 +23,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Aha!](~/microsoft-teams-ecosystem-aha!.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Airbrake](~/microsoft-teams-ecosystem-airbrake.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [ApproveSimple](~/capriza-inc-approvesimple.md) | Capriza, Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | Yes | Bot |
-| [Asana](~/asana-inc-asana.md) | Asana, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | Yes | No | Tab, Connector |
+| [Asana](~/asana-inc-asana.md) | Asana, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Tab, Connector |
 | [Assistant @ Zoom.ai](~/zoomai-inc-assistant-@-zoomai.md) | Zoom.ai Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [AtBot](~/h3-solutions-inc-atbot.md) | H3 Solutions, Inc. | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot |
 | [Axure Share](~/axure-axure-share.md) | Axure |  | No | Yes | No | Connector |
@@ -97,7 +97,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Polly](~/polly-polly.md) | Polly | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [Priority Matrix](~/appfluence-inc-priority-matrix.md) | Appfluence Inc | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab, Messaging Extension, Connector |
 | [ProjectWise](~/bentley-systems-inc-projectwise.md) | Bentley Systems, Inc. |  | No | Yes | No | Tab, Connector |
-| [Qubie](~/qubie-qubie.md) | Qubie | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | No | No | No | Bot, Tab |
+| [Qubie](~/qubie-qubie.md) | Qubie | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Bot, Tab |
 | [RSpace](~/researchspace-rspace.md) | ResearchSpace | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | No | Tab |
 | [Ramen](~/ramen-ramen.md) | Ramen |  | No | Yes | No | Connector |
 | [Raygun](~/microsoft-teams-ecosystem-raygun.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
