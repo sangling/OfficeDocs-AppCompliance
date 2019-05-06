@@ -1,0 +1,68 @@
+### YamlMime:ZonePivotGroups
+groups:
+- id: app-info-data-mcas-csa
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: data
+      title: Data Handling
+    - id: mcas
+      title: Security and Compliance
+    - id: csa
+      title: CSA STAR
+- id: app-info-data-csa
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: data
+      title: Data Handling
+    - id: csa
+      title: CSA STAR
+- id: app-info-data-mcas
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: data
+      title: Data Handling
+    - id: mcas
+      title: Security and Compliance
+- id: app-info-mcas-csa
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: mcas
+      title: Security and Compliance
+    - id: csa
+      title: CSA STAR
+- id: app-info-mcas
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: mcas
+      title: Security and Compliance
+- id: app-info-csa
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: csa
+      title: CSA STAR
+- id: app-info-data
+  title: App Information Categories
+  prompt: "Choose the category of information you want to see for this app:"
+  pivots:
+    - id: general
+      title: General
+    - id: data
+      title: Data Handling
