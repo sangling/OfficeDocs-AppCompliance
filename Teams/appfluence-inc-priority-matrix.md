@@ -1,7 +1,7 @@
 ---
 title: Application Information for Priority Matrix by Appfluence Inc
 ms.author: 
-ms.date: 05/02/2019
+ms.date: 05/06/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -64,7 +64,7 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >| User.Read | Delegated | Get the user&#x27;s name, email, avatar, to personalize their account with us | Basic user profile information (name, email, avatar) is stored by us. |
 >| Mail.Read | Delegated | Used in our Outlook add-in to turn emails into tasks | We store tasks created in our system, with a link to the original message. |
 >| Tasks.Read | Delegated | We bootstrap new user accounts with their Graph tasks | Some Outlook/Planner tasks are replicated in our system to help new users. |
->| User.Read.Basic.All | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
+>| User.ReadBasic.All | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
 >| Contacts.Read | Delegated | On new account creation, we use this to suggest other team members. | Only when a new user is added to the account, do we store their email. |
 >| Calendars.Read | Delegated | We bootstrap new user accounts with their calendar events | A small number of calendar events are turned into tasks stored in our system. |
 
@@ -102,7 +102,10 @@ Describe any capabilities an organization's administrators have to control their
 
 ::: zone pivot="mcas"
 
-Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog appears below.
+
+> [!NOTE]
+> Information from the Microsoft Cloud App Security catalog is based on a variety of sources. Microsoft works to keep the information current but makes no guarantees of the accuracy of all the data sources. Contact us if you believe information about an app is outdated.
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35667' frameborder='no'  style='width: 100%;'></iframe>
 

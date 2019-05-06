@@ -1,7 +1,7 @@
 ---
 title: Application Information for ApproveSimple by Capriza, Inc
 ms.author: 
-ms.date: 05/02/2019
+ms.date: 05/06/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance

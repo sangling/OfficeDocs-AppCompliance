@@ -1,7 +1,7 @@
 ---
 title: Application Information for LawToolBox by LawToolBox.com,Inc.
 ms.author: 
-ms.date: 05/02/2019
+ms.date: 05/06/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -72,7 +72,7 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >| Files.Read | Delegated | Read user&#x27;s Files |  |
 >| Files.ReadWrite | Delegated | [Optional]-[InProgress]Read/Write user&#x27;s file |  |
 >| Tasks.ReadWrite.Shared | Delegated | [Optional]-[InProgress]Read Write Deadlines as Task for users |  |
->| User.Read  | Delegated | Read user&#x27;s Information |  |
+>| User.Read | Delegated | Read user&#x27;s Information |  |
 >| User.ReadWrite | Delegated | Read/Write user&#x27;s Information |  |
 >| User.ReadWrite.All | Delegated | Read/Write user&#x27;s Information |  |
 >| profile | Delegated | Read user profile information |  |

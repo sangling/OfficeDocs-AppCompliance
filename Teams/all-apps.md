@@ -1,7 +1,7 @@
 ---
 title: Microsoft Teams App Security and Compliance - All Apps
 ms.author: 
-ms.date: 05/02/2019
+ms.date: 05/06/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -75,7 +75,7 @@ Microsoft Teams works with our developer partners and the [Cloud Security Allian
 | [Leo](~/officevibe-leo.md) | Officevibe |  | No | Yes | No | Bot |
 | [Librato](~/microsoft-teams-ecosystem-librato.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [Logentries](~/microsoft-teams-ecosystem-logentries.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
-| [Lucidchart](~/lucid-software-lucidchart.md) | Lucid Software |  | No | Yes | No | Tab |
+| [Lucidchart](~/lucid-software-lucidchart.md) | Lucid Software |  | Yes | Yes | No | Tab |
 | [MURAL](~/mural-mural.md) | MURAL | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | No | Yes | Bot, Tab, Messaging Extension |
 | [MailChimp](~/microsoft-teams-ecosystem-mailchimp.md) | Microsoft Teams Ecosystem |  | No | Yes | No | Connector |
 | [MailClark](~/mailclark-mailclark.md) | MailClark | <img alt="Self-attestation mini-logo" src="./images/attested-mini.png" width="25" height="25"/> | Yes | Yes | No | Bot, Tab, Messaging Extension |

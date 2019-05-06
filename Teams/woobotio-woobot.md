@@ -1,7 +1,7 @@
 ---
 title: Application Information for Woobot by Woobot.io
 ms.author: 
-ms.date: 05/02/2019
+ms.date: 05/06/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -90,7 +90,10 @@ Describe any capabilities an organization's administrators have to control their
 
 ::: zone pivot="mcas"
 
-Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog appears below.
+
+> [!NOTE]
+> Information from the Microsoft Cloud App Security catalog is based on a variety of sources. Microsoft works to keep the information current but makes no guarantees of the accuracy of all the data sources. Contact us if you believe information about an app is outdated.
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/35666' frameborder='no'  style='width: 100%;'></iframe>
 

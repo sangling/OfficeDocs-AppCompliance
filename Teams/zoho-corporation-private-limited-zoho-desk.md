@@ -1,7 +1,7 @@
 ---
 title: Application Information for Zoho Desk by Zoho Corporation Private Limited
 ms.author: 
-ms.date: 05/02/2019
+ms.date: 05/06/2019
 ms.topic: article
 ms.service: msteams
 ms.collection: Teams_ITAdmin_PracticalGuidance
@@ -61,7 +61,7 @@ List any [Microsoft Graph permissions](https://docs.microsoft.com/en-us/graph/pe
 >|:----------------|:--------------------------|:--------------------------|:---------------------------------------------------|
 >| offline_access | Delegated | Maintain access to data you have given it access to |  |
 >| User.Read | Delegated | Sign in and read user profile |  |
->| User.Read.Basic.All | Delegated | Read all users&#x27; basic profiles |  |
+>| User.ReadBasic.All | Delegated | Read all users&#x27; basic profiles |  |
 >| Files.Read | Delegated | Read user files |  |
 >| Files.Read.All | Delegated | Read all files that user can access |  |
 >| email | Delegated | View user&#x27;s email address |  |
@@ -92,7 +92,10 @@ Describe any capabilities an organization's administrators have to control their
 
 ::: zone pivot="mcas"
 
-Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog:
+Information from the [Microsoft Cloud App Security](https://www.microsoft.com/en-us/enterprise-mobility-security/cloud-app-security) catalog appears below.
+
+> [!NOTE]
+> Information from the Microsoft Cloud App Security catalog is based on a variety of sources. Microsoft works to keep the information current but makes no guarantees of the accuracy of all the data sources. Contact us if you believe information about an app is outdated.
 
 <iframe height='1020' title='Microsoft Cloud App Security Information' src='https://3ca685143b5b46b4b0e5266dadf2e97c.codepen.website/#/dashboard/28308' frameborder='no'  style='width: 100%;'></iframe>
 
