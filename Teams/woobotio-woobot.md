@@ -76,7 +76,7 @@ Does any organizational information, including EUII (end-user identifiable infor
 
 Describe where/how is this application's data is stored and how access to it is controlled. Is it encrypted? Who can access it? How do you ensure that only authorized systems/individuals can access it? Examples: 2FA for all admins, Privileged Access Management (PMA), partitioning service admin accounts from Azure AD/corporate user accounts, protected IP ranges between systems, etc.
 
->Only privleged access is granted in a need to know basis. All privleged users make use of 2FA.
+>Only privileged access is granted in a need to know basis. All privileged users make use of 2FA.
 
 #### Organizational controls for data stored by partner
 
